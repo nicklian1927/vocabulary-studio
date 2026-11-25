@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>單字表複習表 Studio — 單字聚焦精簡版</title>
+  <link rel="stylesheet" href="./styles/vocab-studio.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>單字表複習表 Studio</h1>
+      <div class="toolbar">
+        <button id="toggleMetaPanelBtn" type="button">▾ 展開/收合組別與統計</button>
+        <button id="downloadProgressBtn" class="primary" type="button">💾 下載複習紀錄 JSON</button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="compact-bar">
+        <div class="file-pill-line">
+          <label for="vocabFileSelect" style="color: var(--muted);">單字檔：</label>
+          <select id="vocabFileSelect" class="vocab-select" aria-label="選擇單字檔案">
+            <option value="./verb-1-100_packs.json">./verb-1-100_packs.json</option>
+          </select>
+          <span>→</span>
+          <code id="reviewPathCode">./verb-1-100_packs_review.json</code>
+          <span id="reviewAutoStatus">（偵測中）</span>
+          <span id="unsavedRecordBadge" class="unsaved-badge clean">無新紀錄</span>
+        </div>
+        <div class="toolbar">
+          <button id="toggleImmersionBtn" class="active-toggle" type="button">🙈 預設隱藏中文：開</button>
+          <button id="toggleDueOnlyBtn" class="active-toggle" type="button">⏳ 到期優先：開</button>
+          <button id="toggleLogViewBtn" type="button">📄 紀錄 JSON</button>
+        </div>
+      </div>
+
+      <div id="metaCollapsibleBody" class="collapsible-body collapsed">
+        <div class="scope-row">
+          <div class="mode-switch" role="group" aria-label="練習範圍模式">
+            <button id="modePackBtn" class="mode-btn active" type="button">📚 分組練習</button>
+            <button id="modeAllRandomBtn" class="mode-btn" type="button">🎲 全部隨機練習</button>
+          </div>
+          <div id="scopeNote" class="scope-note">目前：分組練習</div>
+        </div>
+        <div id="packSwitcher" class="pack-switcher"></div>
+        <div id="statsStrip" class="stats-strip"></div>
+        <div id="statusToast" class="status-toast"></div>
+      </div>
+    </div>
+
+    <div id="stageArena" class="stage-arena"></div>
+
+    <div id="logPanel" class="panel" style="display: none;">
+      <div class="section-title">最新複習紀錄 JSON</div>
+      <div id="logPreview" class="log-preview"></div>
+    </div>
+  </div>
+  <script type="module" src="./js/vocab-app.js"></script>
+</body>
+</html>
