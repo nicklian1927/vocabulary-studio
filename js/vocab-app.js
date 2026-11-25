@@ -31,9 +31,18 @@ const state = {
   packs: [],
   progressByWordId: {},
   currentWordId: null,
-  showChinese: false,
+
+  // 預設開關設定（從 config.json 的 defaults 載入，預設皆為 false）
+  hideCollocationAndSentenceByDefault: false,
+  hideChineseByDefault: false,
+  dueOnlyPriority: false,
+
+  // 單題目前顯示狀態
+  showChinese: true,
   peekedCurrentWord: false,
-  dueOnlyPriority: true,
+  revealedCollocationIndices: new Set(),
+  revealedSentenceIndices: new Set(),
+
   metaExpanded: false,
   showCollocations: true,
   showSentences: true,
@@ -49,6 +58,7 @@ const els = {
   toggleMetaPanelBtn: document.getElementById("toggleMetaPanelBtn"),
   metaCollapsibleBody: document.getElementById("metaCollapsibleBody"),
   downloadProgressBtn: document.getElementById("downloadProgressBtn"),
+  toggleHideDetailsBtn: document.getElementById("toggleHideDetailsBtn"),
   toggleImmersionBtn: document.getElementById("toggleImmersionBtn"),
   toggleDueOnlyBtn: document.getElementById("toggleDueOnlyBtn"),
   toggleLogViewBtn: document.getElementById("toggleLogViewBtn"),
@@ -66,6 +76,36 @@ const els = {
 function setStatus(msg, isError = false) {
   els.statusToast.textContent = msg;
   els.statusToast.classList.toggle("error", isError);
+}
+
+function syncToolbarButtons() {
+  if (els.toggleHideDetailsBtn) {
+    els.toggleHideDetailsBtn.classList.toggle("active-toggle", state.hideCollocationAndSentenceByDefault);
+    els.toggleHideDetailsBtn.textContent = state.hideCollocationAndSentenceByDefault
+      ? "🙈 預設隱藏搭配與短句：開"
+      : "🙈 預設隱藏搭配與短句：關";
+  }
+
+  if (els.toggleImmersionBtn) {
+    els.toggleImmersionBtn.classList.toggle("active-toggle", state.hideChineseByDefault);
+    els.toggleImmersionBtn.textContent = state.hideChineseByDefault
+      ? "🙈 預設隱藏中文：開"
+      : "🙈 預設隱藏中文：關";
+  }
+
+  if (els.toggleDueOnlyBtn) {
+    els.toggleDueOnlyBtn.classList.toggle("active-toggle", state.dueOnlyPriority);
+    els.toggleDueOnlyBtn.textContent = state.dueOnlyPriority
+      ? "⏳ 到期優先：開"
+      : "⏳ 到期優先：關";
+  }
+}
+
+function resetPerWordRevealState() {
+  state.peekedCurrentWord = false;
+  state.showChinese = !state.hideChineseByDefault;
+  state.revealedCollocationIndices = new Set();
+  state.revealedSentenceIndices = new Set();
 }
 
 function getActivePack() {
@@ -232,8 +272,7 @@ function applyReviewOutcome(word, isKnown) {
   state.newEventCount += 1;
   state.lastRecordAt = prog.lastReviewedAt;
 
-  state.peekedCurrentWord = false;
-  state.showChinese = false;
+  resetPerWordRevealState();
 
   pickNextWord(word.id);
   renderAll();
@@ -275,8 +314,7 @@ function pickNextWord(excludeWordId = null) {
   }
 
   state.currentWordId = chosen.id;
-  state.peekedCurrentWord = false;
-  state.showChinese = false;
+  resetPerWordRevealState();
 }
 
 function buildProgressExportObject() {
@@ -342,6 +380,7 @@ function renderFileHeaderInfo() {
     els.unsavedRecordBadge.className = "unsaved-badge clean";
     els.unsavedRecordBadge.textContent = "無新紀錄";
   }
+  syncToolbarButtons();
 }
 
 function renderPackSwitcher() {
@@ -460,25 +499,42 @@ function renderCardArena() {
   const zhHiddenClass = state.showChinese ? "" : "hidden";
 
   const collocationsHtml = currentWord.collocations.length
-    ? currentWord.collocations.map((c) => `
-        <div class="item-card collocation-card">
+    ? currentWord.collocations.map((c, idx) => {
+        const isMasked = state.hideCollocationAndSentenceByDefault && !state.revealedCollocationIndices.has(idx);
+        return `
+        <div class="item-card collocation-card ${isMasked ? "is-masked" : ""}">
           <div class="item-copy">
-            <div class="item-en">${renderClickableWordsHtml(c.phrase)}</div>
-            <div class="item-zh ${zhHiddenClass}">${escapeHtml(c.meaning_zh || "（無中文解釋）")}</div>
+            ${isMasked
+              ? `<div class="masked-field-box">
+                   <span class="masked-hint">👂 聽力練習模式：已隱藏搭配詞</span>
+                   <button class="reveal-chip-btn" type="button" data-reveal-type="collocation" data-reveal-idx="${idx}" title="點擊顯示此搭配詞">👁 顯示文字</button>
+                 </div>`
+              : `<div class="item-en">${renderClickableWordsHtml(c.phrase)}</div>
+                 <div class="item-zh ${zhHiddenClass}">${escapeHtml(c.meaning_zh || "（無中文解釋）")}</div>`
+            }
           </div>
           <div class="card-controls">
             <button class="mini-play" type="button" data-speak="${escapeAttribute(c.phrase)}" data-rate="0.95">🔊</button>
           </div>
         </div>
-      `).join("")
+      `;
+      }).join("")
     : `<div class="item-zh">尚無組合單字</div>`;
 
   const sentencesHtml = currentWord.short_sentences.length
-    ? currentWord.short_sentences.map((s) => `
-        <div class="item-card sentence-card">
+    ? currentWord.short_sentences.map((s, idx) => {
+        const isMasked = state.hideCollocationAndSentenceByDefault && !state.revealedSentenceIndices.has(idx);
+        return `
+        <div class="item-card sentence-card ${isMasked ? "is-masked" : ""}">
           <div class="item-copy">
-            <div class="item-en">${renderClickableWordsHtml(s.en)}</div>
-            <div class="item-zh ${zhHiddenClass}">${escapeHtml(s.zh || "（無中文翻譯）")}</div>
+            ${isMasked
+              ? `<div class="masked-field-box">
+                   <span class="masked-hint">👂 聽力練習模式：已隱藏短句</span>
+                   <button class="reveal-chip-btn" type="button" data-reveal-type="sentence" data-reveal-idx="${idx}" title="點擊顯示此短句">👁 顯示文字</button>
+                 </div>`
+              : `<div class="item-en">${renderClickableWordsHtml(s.en)}</div>
+                 <div class="item-zh ${zhHiddenClass}">${escapeHtml(s.zh || "（無中文翻譯）")}</div>`
+            }
           </div>
           <div class="card-controls">
             <div class="rate-group" role="group" aria-label="短句播放倍速">
@@ -488,7 +544,8 @@ function renderCardArena() {
             </div>
           </div>
         </div>
-      `).join("")
+      `;
+      }).join("")
     : `<div class="item-zh">尚無短句</div>`;
 
   els.stageArena.innerHTML = `
@@ -627,6 +684,27 @@ function bindCardInteractions(currentWord) {
     renderCardArena();
   });
 
+  // 僅點擊專屬小標籤按鈕才解除該項遮罩，整張卡片其餘區域點擊無效，避免點擊聽力播放按鈕時誤觸
+  card.querySelectorAll(".reveal-chip-btn").forEach((btn) => {
+    btn.addEventListener("pointerdown", (e) => {
+      e.stopPropagation();
+    });
+
+    btn.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const type = btn.getAttribute("data-reveal-type");
+      const idx = Number(btn.getAttribute("data-reveal-idx"));
+      if (Number.isNaN(idx)) return;
+
+      if (type === "collocation") {
+        state.revealedCollocationIndices.add(idx);
+      } else if (type === "sentence") {
+        state.revealedSentenceIndices.add(idx);
+      }
+      renderCardArena();
+    });
+  });
+
   card.querySelectorAll(".speak-word").forEach((wordEl) => {
     wordEl.addEventListener("pointerdown", (e) => {
       e.stopPropagation();
@@ -651,6 +729,10 @@ function bindCardInteractions(currentWord) {
   });
 
   card.querySelectorAll("[data-speak]").forEach((btn) => {
+    btn.addEventListener("pointerdown", (e) => {
+      e.stopPropagation();
+    });
+
     btn.addEventListener("click", (e) => {
       e.stopPropagation();
       const text = btn.getAttribute("data-speak");
@@ -779,21 +861,35 @@ els.downloadProgressBtn.addEventListener("click", () => {
   setStatus(`已下載複習紀錄檔案：${reviewFileName}（已更新為無未下載新紀錄）`);
 });
 
+els.toggleHideDetailsBtn.addEventListener("click", () => {
+  state.hideCollocationAndSentenceByDefault = !state.hideCollocationAndSentenceByDefault;
+  if (state.hideCollocationAndSentenceByDefault) {
+    state.revealedCollocationIndices = new Set();
+    state.revealedSentenceIndices = new Set();
+  }
+  syncToolbarButtons();
+  renderCardArena();
+  setStatus(
+    state.hideCollocationAndSentenceByDefault
+      ? "已開啟預設隱藏搭配與短句（聽力遮罩模式）"
+      : "已關閉預設隱藏搭配與短句"
+  );
+});
+
 els.toggleImmersionBtn.addEventListener("click", () => {
-  state.showChinese = !state.showChinese;
+  state.hideChineseByDefault = !state.hideChineseByDefault;
+  state.showChinese = !state.hideChineseByDefault;
   if (state.showChinese) {
     state.peekedCurrentWord = true;
   }
-  els.toggleImmersionBtn.textContent = state.showChinese ? "👁️ 目前顯示中文：開" : "🙈 預設隱藏中文：開";
+  syncToolbarButtons();
   renderCardArena();
+  setStatus(state.hideChineseByDefault ? "已開啟預設隱藏中文" : "已關閉預設隱藏中文");
 });
 
 els.toggleDueOnlyBtn.addEventListener("click", () => {
   state.dueOnlyPriority = !state.dueOnlyPriority;
-  els.toggleDueOnlyBtn.classList.toggle("active-toggle", state.dueOnlyPriority);
-  els.toggleDueOnlyBtn.textContent = state.dueOnlyPriority
-    ? "⏳ 到期優先：開"
-    : "⏳ 到期優先：關";
+  syncToolbarButtons();
   setStatus(state.dueOnlyPriority ? "已啟用到期優先抽題" : "已關閉到期優先抽題");
 });
 
@@ -829,6 +925,13 @@ document.addEventListener("keydown", (e) => {
 
 discoverAndLoadVocab(state, {
   onStatus: setStatus,
+  onConfigLoaded: (defaults) => {
+    state.hideCollocationAndSentenceByDefault = Boolean(defaults.hideCollocationAndSentence);
+    state.hideChineseByDefault = Boolean(defaults.hideChineseByDefault);
+    state.dueOnlyPriority = Boolean(defaults.dueFirst);
+    state.showChinese = !state.hideChineseByDefault;
+    syncToolbarButtons();
+  },
   onAfterLoad: () => {
     ensureProgressEntries();
     pickNextWord(null);

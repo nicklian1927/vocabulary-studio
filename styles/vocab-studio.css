@@ -478,9 +478,47 @@ button.bad-btn:hover {
   gap: 12px;
 }
 
+.item-card.is-masked {
+  background: rgba(11, 17, 32, 0.65);
+  border-style: dashed;
+}
+
 .item-copy {
   flex: 1 1 auto;
   min-width: 0;
+}
+
+.masked-field-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  min-height: 28px;
+}
+
+.masked-hint {
+  font-size: 0.82rem;
+  color: var(--muted);
+  user-select: none;
+}
+
+/* 刻意縮小且置於欄位內側邊緣的小型顯示按鈕，避免按右側播放聽力時誤觸 */
+.reveal-chip-btn {
+  padding: 2px 7px;
+  font-size: 0.72rem;
+  line-height: 1.3;
+  border-radius: 6px;
+  background: rgba(30, 41, 59, 0.9);
+  border: 1px solid rgba(148, 163, 184, 0.35);
+  color: var(--muted);
+  margin-right: 12px;
+}
+
+.reveal-chip-btn:hover {
+  border-color: var(--accent);
+  color: #bae6fd;
+  background: rgba(56, 189, 248, 0.14);
 }
 
 .item-en {
@@ -555,6 +593,10 @@ button.bad-btn:hover {
   border: 1px solid var(--border);
   border-radius: 10px;
   padding: 9px 12px;
+}
+
+.progress-box.collapsed {
+  display: none;
 }
 
 .progress-header {

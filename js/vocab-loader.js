@@ -206,9 +206,27 @@ async function resolveVocabSourceConfig() {
   let baseUrl = "./";
   let manifestFile = "manifest.json";
   let explicitFiles = [];
+  let defaults = {
+    hideCollocationAndSentence: false,
+    hideChineseByDefault: false,
+    dueFirst: false
+  };
 
   try {
     const cfg = await loadSiteConfig("./config.json", 3000);
+    if (cfg && typeof cfg === "object") {
+      const defSource = cfg.defaults && typeof cfg.defaults === "object" ? cfg.defaults : cfg;
+      if (typeof defSource.hideCollocationAndSentence === "boolean") {
+        defaults.hideCollocationAndSentence = defSource.hideCollocationAndSentence;
+      }
+      if (typeof defSource.hideChineseByDefault === "boolean") {
+        defaults.hideChineseByDefault = defSource.hideChineseByDefault;
+      }
+      if (typeof defSource.dueFirst === "boolean") {
+        defaults.dueFirst = defSource.dueFirst;
+      }
+    }
+
     const vocabCfg = cfg?.vocab && typeof cfg.vocab === "object" ? cfg.vocab : cfg;
     if (vocabCfg && typeof vocabCfg === "object") {
       if (typeof vocabCfg.baseUrl === "string" && vocabCfg.baseUrl.trim()) {
@@ -229,14 +247,17 @@ async function resolveVocabSourceConfig() {
     // 若無 config.json，退回預設 ./ 設定
   }
 
-  return { baseUrl, manifestFile, explicitFiles };
+  return { baseUrl, manifestFile, explicitFiles, defaults };
 }
 
 export async function discoverAndLoadVocab(state, {
   onStatus = () => {},
+  onConfigLoaded = () => {},
   onAfterLoad = () => {}
 } = {}) {
-  const { baseUrl, manifestFile, explicitFiles } = await resolveVocabSourceConfig();
+  const { baseUrl, manifestFile, explicitFiles, defaults } = await resolveVocabSourceConfig();
+  onConfigLoaded(defaults);
+
   const excludes = [manifestFile, "config.json"].filter(Boolean);
 
   let resolvedFiles = [];

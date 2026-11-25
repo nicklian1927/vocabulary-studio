@@ -4,5 +4,10 @@
     "folderName": "vocabulary_json",
     "manifestFile": "manifest.json",
     "files": []
+  },
+  "defaults": {
+    "hideCollocationAndSentence": true,
+    "hideChineseByDefault": true,
+    "dueFirst": true
   }
 }
