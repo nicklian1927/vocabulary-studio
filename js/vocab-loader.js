@@ -214,7 +214,7 @@ async function resolveVocabSourceConfig() {
       if (typeof vocabCfg.baseUrl === "string" && vocabCfg.baseUrl.trim()) {
         baseUrl = ensureTrailingSlash(vocabCfg.baseUrl.trim());
       } else if (typeof vocabCfg.folderName === "string" && vocabCfg.folderName.trim()) {
-        baseUrl = ensureTrailingSlash(`./${vocabCfg.folderName.trim().replace(/^\/+|\/+$ /g, "")}`);
+        baseUrl = ensureTrailingSlash(`./${vocabCfg.folderName.trim().replace(/^\/+|\/+$/g, "")}`);
       }
       if (typeof vocabCfg.manifestFile === "string" && vocabCfg.manifestFile.trim()) {
         manifestFile = vocabCfg.manifestFile.trim();
@@ -244,7 +244,6 @@ export async function discoverAndLoadVocab(state, {
   if (explicitFiles.length > 0) {
     resolvedFiles = explicitFiles;
   } else {
-    // 1. 嘗試讀取 baseUrl + manifestFile
     if (manifestFile) {
       try {
         const manRes = await fetchWithTimeout(`${ensureTrailingSlash(baseUrl)}${manifestFile}`, 2500);
@@ -266,7 +265,6 @@ export async function discoverAndLoadVocab(state, {
       }
     }
 
-    // 2. 若 manifest 無資料，嘗試掃描目錄 HTML 或退回預設清單
     if (resolvedFiles.length === 0) {
       const fallback = new Set(AVAILABLE_VOCAB_FILES.map((p) => resolveFileUrl(baseUrl, p)));
       try {
