@@ -1,0 +1,1671 @@
+{
+  "schema_version": "1.0.0",
+  "active_pack_id": "verb_level2_sec_01_24_25",
+  "packs": [
+    {
+      "pack_id": "verb_level2_sec_01_24_25",
+      "title": "動詞 Level 2 第 1 組（頁碼 24-25）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-101-proceed",
+          "word": "proceed",
+          "ipa": "[prəˈsid]",
+          "pos": "verb",
+          "meaning_zh": "繼續進行；前進",
+          "collocations": [
+            {
+              "phrase": "proceed with A",
+              "meaning_zh": "進行 A"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "After the fire in the building, business proceeded as usual.",
+              "zh": "建築失火之後，業務仍照常進行。"
+            }
+          ]
+        },
+        {
+          "id": "v2-102-accommodate",
+          "word": "accommodate",
+          "ipa": "[əˈkɑməˌdet]",
+          "pos": "verb",
+          "meaning_zh": "可容納；供住宿",
+          "collocations": [
+            {
+              "phrase": "accommodate customer needs",
+              "meaning_zh": "因應顧客需求"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The largest banquet room of our hotel can accommodate 500 guests.",
+              "zh": "本旅館最大的宴會廳可以容納 500 名賓客。"
+            }
+          ]
+        },
+        {
+          "id": "v2-103-perform",
+          "word": "perform",
+          "ipa": "[pɚˈfɔrm]",
+          "pos": "verb",
+          "meaning_zh": "履行；表演",
+          "collocations": [
+            {
+              "phrase": "perform a duty",
+              "meaning_zh": "履行工作職責"
+            },
+            {
+              "phrase": "perform live",
+              "meaning_zh": "現場演出"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "It is essential that all employees perform their contractual obligations.",
+              "zh": "所有員工都必須履行合約義務。"
+            }
+          ]
+        },
+        {
+          "id": "v2-104-undergo",
+          "word": "undergo",
+          "ipa": "[ˌʌndɚˈgo]",
+          "pos": "verb",
+          "meaning_zh": "經歷；忍受",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Many companies are undergoing great hardships in these difficult economic times.",
+              "zh": "許多公司在這段景氣蕭條時期經歷重重難關。"
+            }
+          ]
+        },
+        {
+          "id": "v2-105-evaluate",
+          "word": "evaluate",
+          "ipa": "[ɪˈvæljuˌet]",
+          "pos": "verb",
+          "meaning_zh": "考核；評估",
+          "collocations": [
+            {
+              "phrase": "evaluate a value",
+              "meaning_zh": "評估價值"
+            },
+            {
+              "phrase": "evaluate employees",
+              "meaning_zh": "考核員工"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "One of the challenges for managers is to evaluate employees fairly.",
+              "zh": "主管階層的其中一項挑戰就是要公平考核員工。"
+            }
+          ]
+        },
+        {
+          "id": "v2-106-assess",
+          "word": "assess",
+          "ipa": "[əˈsɛs]",
+          "pos": "verb",
+          "meaning_zh": "評估；評價",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The city officials were asked to assess the damage caused by the earthquake.",
+              "zh": "市府官員被要求評估地震造成的損失。"
+            }
+          ]
+        },
+        {
+          "id": "v2-107-demonstrate",
+          "word": "demonstrate",
+          "ipa": "[ˈdɛmənˌstret]",
+          "pos": "verb",
+          "meaning_zh": "展示；示威",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We plan to demonstrate our new printer at several electronics stores.",
+              "zh": "我們計畫在幾間電器用品店展示我們的新型印表機。"
+            }
+          ]
+        },
+        {
+          "id": "v2-108-collaborate",
+          "word": "collaborate",
+          "ipa": "[kəˈlæbəˌret]",
+          "pos": "verb",
+          "meaning_zh": "合作，協作",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The rival firms decided to collaborate in order to increase business.",
+              "zh": "兩家競爭公司決定合作以拓展事業。"
+            }
+          ]
+        },
+        {
+          "id": "v2-109-reimburse",
+          "word": "reimburse",
+          "ipa": "[ˌriɪmˈbɝs]",
+          "pos": "verb",
+          "meaning_zh": "請款；報帳",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Sam asked his company to reimburse him for travel expenses.",
+              "zh": "山姆向公司請款差旅費用。"
+            }
+          ]
+        },
+        {
+          "id": "v2-110-stack",
+          "word": "stack",
+          "ipa": "[stæk]",
+          "pos": "verb",
+          "meaning_zh": "堆放；（整齊）堆疊",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The workers stacked products on the warehouse shelves.",
+              "zh": "員工把產品堆放在倉庫的貨架上。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_02_26_27",
+      "title": "動詞 Level 2 第 2 組（頁碼 26-27）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-111-facilitate",
+          "word": "facilitate",
+          "ipa": "[fəˈsɪləˌtet]",
+          "pos": "verb",
+          "meaning_zh": "促進；促使",
+          "collocations": [
+            {
+              "phrase": "facilitate growth",
+              "meaning_zh": "促進成長"
+            },
+            {
+              "phrase": "facilitate a meeting",
+              "meaning_zh": "主持或引導會議"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The firm facilitated cooperation among its branches through regular meetings.",
+              "zh": "公司透過定期會議促進各分公司之間的合作。"
+            }
+          ]
+        },
+        {
+          "id": "v2-112-renovate",
+          "word": "renovate",
+          "ipa": "[ˈrɛnəˌvet]",
+          "pos": "verb",
+          "meaning_zh": "整修，翻新",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The office has been more comfortable ever since it was renovated.",
+              "zh": "辦公室經過整修之後變得更加舒適。"
+            }
+          ]
+        },
+        {
+          "id": "v2-113-compile",
+          "word": "compile",
+          "ipa": "[kəmˈpaɪl]",
+          "pos": "verb",
+          "meaning_zh": "彙整；編纂",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I've compiled data that might be helpful to you.",
+              "zh": "我匯集了可能對你有幫助的數據。"
+            }
+          ]
+        },
+        {
+          "id": "v2-114-browse",
+          "word": "browse",
+          "ipa": "[braʊz]",
+          "pos": "verb",
+          "meaning_zh": "瀏覽；隨便看看",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Elaine browsed the items in several fashion stores.",
+              "zh": "依蓮在時裝店裡四處看看。"
+            }
+          ]
+        },
+        {
+          "id": "v2-115-secure",
+          "word": "secure",
+          "ipa": "[sɪˈkjʊr]",
+          "pos": "verb / adjective",
+          "meaning_zh": "動 確保安全；保護 / 形 安全的",
+          "collocations": [
+            {
+              "phrase": "secure one's belongings",
+              "meaning_zh": "保護好隨身物品"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "I've secured Meeting Room C for our brainstorming session.",
+              "zh": "我已經為我們腦力激盪會議訂好 C 會議室了。"
+            }
+          ]
+        },
+        {
+          "id": "v2-116-obtain",
+          "word": "obtain",
+          "ipa": "[əbˈten]",
+          "pos": "verb",
+          "meaning_zh": "取得；獲得",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Mr. Kim must obtain a visa before coming to work at our firm.",
+              "zh": "金先生來我們公司上班之前必須取得簽證。"
+            }
+          ]
+        },
+        {
+          "id": "v2-117-illustrate",
+          "word": "illustrate",
+          "ipa": "[ˈɪləˌstret]",
+          "pos": "verb",
+          "meaning_zh": "闡明；圖解",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Rita used historical quotes to illustrate her seminar points.",
+              "zh": "瑞塔引用歷史名言來闡明她的專題討論重點。"
+            }
+          ]
+        },
+        {
+          "id": "v2-118-clarify",
+          "word": "clarify",
+          "ipa": "[ˈklɛrəˌfaɪ]",
+          "pos": "verb",
+          "meaning_zh": "闡明；澄清",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Pam clarified her plans for the building project during the meeting.",
+              "zh": "潘在會議上闡明她的建設企劃案。"
+            }
+          ]
+        },
+        {
+          "id": "v2-119-modify",
+          "word": "modify",
+          "ipa": "[ˈmɑdəˌfaɪ]",
+          "pos": "verb",
+          "meaning_zh": "修改；修飾",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "It is necessary to modify the plan so that all parties agree.",
+              "zh": "必須修改計畫才能取得各方同意。"
+            }
+          ]
+        },
+        {
+          "id": "v2-120-allot",
+          "word": "allot",
+          "ipa": "[əˈlɑt]",
+          "pos": "verb",
+          "meaning_zh": "分配；指派",
+          "collocations": [
+            {
+              "phrase": "allot time",
+              "meaning_zh": "分配時間"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The moderator allotted 30 minutes to each speaker at the conference.",
+              "zh": "會議主持人分配給每位講者 30 分鐘的發言時間。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_03_28_29",
+      "title": "動詞 Level 2 第 3 組（頁碼 28-29）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-121-assume",
+          "word": "assume",
+          "ipa": "[əˈsjum]",
+          "pos": "verb",
+          "meaning_zh": "認為；假設",
+          "collocations": [
+            {
+              "phrase": "Assuming (that)...",
+              "meaning_zh": "假設…的話"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Analysts are assuming that inflation will rise over the next quarter.",
+              "zh": "分析師認為下一季的通貨膨脹率將上升。"
+            }
+          ]
+        },
+        {
+          "id": "v2-122-owe",
+          "word": "owe",
+          "ipa": "[o]",
+          "pos": "verb",
+          "meaning_zh": "欠；歸功於",
+          "collocations": [
+            {
+              "phrase": "owe A B = owe B for/to A",
+              "meaning_zh": "欠 A（人）B（東西）"
+            },
+            {
+              "phrase": "I owe you one.",
+              "meaning_zh": "我欠你一個人情。"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "We owe the maintenance company for services rendered.",
+              "zh": "我們還欠維修公司一筆服務費用。"
+            }
+          ]
+        },
+        {
+          "id": "v2-123-investigate",
+          "word": "investigate",
+          "ipa": "[ɪnˈvɛstəˌget]",
+          "pos": "verb",
+          "meaning_zh": "深入調查；審查",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Engineers are now investigating the cause of the system shutdown.",
+              "zh": "工程師正在調查系統停止運作的原因。"
+            }
+          ]
+        },
+        {
+          "id": "v2-124-anticipate",
+          "word": "anticipate",
+          "ipa": "[ænˈtɪsəˌpet]",
+          "pos": "verb",
+          "meaning_zh": "預料，預期",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The shop owner hadn't anticipated a crowd of people on opening day.",
+              "zh": "店主並未預料到開幕當天會有那麼多人來。"
+            }
+          ]
+        },
+        {
+          "id": "v2-125-assure",
+          "word": "assure",
+          "ipa": "[əˈʃʊr]",
+          "pos": "verb",
+          "meaning_zh": "保證；使人確信",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The station manager assured us that the train would be on time.",
+              "zh": "站長向我們保證火車一定會準點抵達。"
+            }
+          ]
+        },
+        {
+          "id": "v2-126-comprise",
+          "word": "comprise",
+          "ipa": "[kəmˈpraɪz]",
+          "pos": "verb",
+          "meaning_zh": "組成；包含",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The employee's union is comprised of 150 members.",
+              "zh": "該工會由 150 名成員所組成。"
+            }
+          ]
+        },
+        {
+          "id": "v2-127-constitute",
+          "word": "constitute",
+          "ipa": "[ˈkɑnstəˌtjut]",
+          "pos": "verb",
+          "meaning_zh": "組成；占比",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Employees from eight different countries constitute the design team.",
+              "zh": "來自 8 個不同國家的員工組成這個設計團隊。"
+            }
+          ]
+        },
+        {
+          "id": "v2-128-institute",
+          "word": "institute",
+          "ipa": "[ˈɪnstəˌtjut]",
+          "pos": "verb / noun",
+          "meaning_zh": "動 制定，建立 / 名 學會；研究機構",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The personnel department will institute a new rule that will cut down on employee tardiness.",
+              "zh": "人事部門將制定一條新規定以減少員工遲到的情形。"
+            }
+          ]
+        },
+        {
+          "id": "v2-129-occur",
+          "word": "occur",
+          "ipa": "[əˈkɝ]",
+          "pos": "verb",
+          "meaning_zh": "（事故）發生；存在",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Emergency lights in the building will activate if a power interruption occurs.",
+              "zh": "如果停電的話，大樓裡的緊急照明燈就會亮起來。"
+            }
+          ]
+        },
+        {
+          "id": "v2-130-suspend",
+          "word": "suspend",
+          "ipa": "[səˈspɛnd]",
+          "pos": "verb",
+          "meaning_zh": "暫停；停學；停職",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The city suspended its bus service during the typhoon.",
+              "zh": "颱風期間，城市暫停提供公車服務。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_04_30_31",
+      "title": "動詞 Level 2 第 4 組（頁碼 30-31）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-131-retain",
+          "word": "retain",
+          "ipa": "[rɪˈten]",
+          "pos": "verb",
+          "meaning_zh": "聘請（律師）；保持",
+          "collocations": [
+            {
+              "phrase": "retain a client",
+              "meaning_zh": "留住客戶"
+            },
+            {
+              "phrase": "retain popularity",
+              "meaning_zh": "維持人氣"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Anyone who does business should retain a lawyer.",
+              "zh": "經商人士皆應聘請一位律師。"
+            }
+          ]
+        },
+        {
+          "id": "v2-132-pursue",
+          "word": "pursue",
+          "ipa": "[pɚˈsu]",
+          "pos": "verb",
+          "meaning_zh": "從事；追求；追捕",
+          "collocations": [
+            {
+              "phrase": "pursue a career",
+              "meaning_zh": "從事職業"
+            },
+            {
+              "phrase": "pursue a goal",
+              "meaning_zh": "追求目標"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "I decided to pursue a career in information systems after completing my university studies.",
+              "zh": "完成大學學業之後，我決定從事資訊系統相關的工作。"
+            }
+          ]
+        },
+        {
+          "id": "v2-133-absorb",
+          "word": "absorb",
+          "ipa": "[əbˈsɔrb]",
+          "pos": "verb",
+          "meaning_zh": "吸收；全神貫注",
+          "collocations": [
+            {
+              "phrase": "absorb water",
+              "meaning_zh": "吸收水分"
+            },
+            {
+              "phrase": "be absorbed in A",
+              "meaning_zh": "全神貫注於 A"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The project has absorbed all of our department's resources.",
+              "zh": "這項企劃吸納了我們部門的所有資源。"
+            }
+          ]
+        },
+        {
+          "id": "v2-134-inherit",
+          "word": "inherit",
+          "ipa": "[ɪnˈhɛrɪt]",
+          "pos": "verb",
+          "meaning_zh": "繼承；接手",
+          "collocations": [
+            {
+              "phrase": "inherit A from B",
+              "meaning_zh": "從 B 繼承 A"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The president has no heir to inherit his business.",
+              "zh": "董事長沒有接班人可繼承他的事業。"
+            }
+          ]
+        },
+        {
+          "id": "v2-135-thrive",
+          "word": "thrive",
+          "ipa": "[θraɪv]",
+          "pos": "verb",
+          "meaning_zh": "蓬勃發展，繁榮",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The economy began thriving only after a long period of negative performance.",
+              "zh": "歷經長期的景氣低迷後，經濟開始蓬勃發展。"
+            }
+          ]
+        },
+        {
+          "id": "v2-136-emerge",
+          "word": "emerge",
+          "ipa": "[ɪˈmɝdʒ]",
+          "pos": "verb",
+          "meaning_zh": "形成；顯現",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The company has emerged as our strongest competitor in computer games.",
+              "zh": "這間公司已成為我們在電腦遊戲領域最強大的競爭對手。"
+            }
+          ]
+        },
+        {
+          "id": "v2-137-generate",
+          "word": "generate",
+          "ipa": "[ˈdʒɛnəˌret]",
+          "pos": "verb",
+          "meaning_zh": "產生；引起",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We hope this new venture will generate a lot of revenue.",
+              "zh": "我們希望這個新事業能產生巨額收益。"
+            }
+          ]
+        },
+        {
+          "id": "v2-138-prescribe",
+          "word": "prescribe",
+          "ipa": "[prɪˈskraɪb]",
+          "pos": "verb",
+          "meaning_zh": "開藥方；給醫囑",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The doctor prescribed me medication for high blood pressure.",
+              "zh": "醫生給我開了高血壓的藥方。"
+            }
+          ]
+        },
+        {
+          "id": "v2-139-devise",
+          "word": "devise",
+          "ipa": "[dɪˈvaɪz]",
+          "pos": "verb",
+          "meaning_zh": "設計；策畫",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Ray's team devised a new method for managing the inventory.",
+              "zh": "雷的團隊設計出一套管理庫存的新方法。"
+            }
+          ]
+        },
+        {
+          "id": "v2-140-tailor",
+          "word": "tailor",
+          "ipa": "[ˈtelɚ]",
+          "pos": "verb",
+          "meaning_zh": "客製，專門訂製",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The IT company tailors its solutions to specific company requirements.",
+              "zh": "那間資訊科技公司依照各公司的特定需求制訂解決方案。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_05_32_33",
+      "title": "動詞 Level 2 第 5 組（頁碼 32-33）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-141-surround",
+          "word": "surround",
+          "ipa": "[səˈraʊnd]",
+          "pos": "verb",
+          "meaning_zh": "包圍，環繞",
+          "collocations": [
+            {
+              "phrase": "be surrounded by A",
+              "meaning_zh": "被 A 包圍"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Allen is surrounded by paperwork every day and never seems to get things done.",
+              "zh": "艾倫每天被文書工作包圍，似乎永遠沒有做完的一天。"
+            }
+          ]
+        },
+        {
+          "id": "v2-142-reflect",
+          "word": "reflect",
+          "ipa": "[rɪˈflɛkt]",
+          "pos": "verb",
+          "meaning_zh": "反映；反射；深思",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Olivia's fine work reflects her intelligence.",
+              "zh": "奧莉維亞傑出的工作成果反映出她的聰明才智。"
+            }
+          ]
+        },
+        {
+          "id": "v2-143-persist",
+          "word": "persist",
+          "ipa": "[pɚˈsɪst]",
+          "pos": "verb",
+          "meaning_zh": "執意；持續",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The president persists in his plan to move the headquarters to the city center.",
+              "zh": "董事長執意按照他的計畫，將公司總部遷到市中心。"
+            }
+          ]
+        },
+        {
+          "id": "v2-144-explore",
+          "word": "explore",
+          "ipa": "[ɪkˈsplor]",
+          "pos": "verb",
+          "meaning_zh": "探測；探討",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The scientists plan to explore every possibility of life on Mars.",
+              "zh": "科學家試圖探索火星上存在生命體的各種可能。"
+            }
+          ]
+        },
+        {
+          "id": "v2-145-strive",
+          "word": "strive",
+          "ipa": "[straɪv]",
+          "pos": "verb",
+          "meaning_zh": "努力，力圖",
+          "collocations": [
+            {
+              "phrase": "strive to + V",
+              "meaning_zh": "努力做某事"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Hamwell Store clerks strive to answer all shopper questions.",
+              "zh": "漢威商店的店員努力回答所有顧客提出的問題。"
+            }
+          ]
+        },
+        {
+          "id": "v2-146-interact",
+          "word": "interact",
+          "ipa": "[ˌɪntɚˈækt]",
+          "pos": "verb",
+          "meaning_zh": "互動，交流",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Robert was told that he should interact more with his colleagues.",
+              "zh": "羅伯特被提醒要多跟同事互動。"
+            }
+          ]
+        },
+        {
+          "id": "v2-147-accompany",
+          "word": "accompany",
+          "ipa": "[əˈkʌmpənɪ]",
+          "pos": "verb",
+          "meaning_zh": "陪伴；伴奏",
+          "collocations": [
+            {
+              "phrase": "an accompanying manual",
+              "meaning_zh": "附帶的使用手冊"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "My boss will accompany me to the client's office.",
+              "zh": "老闆會陪我去客戶的辦公室。"
+            }
+          ]
+        },
+        {
+          "id": "v2-148-stroll",
+          "word": "stroll",
+          "ipa": "[strol]",
+          "pos": "verb / noun",
+          "meaning_zh": "動 散步，閒逛 / 名 散步",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The couple strolled down the street toward the Seine.",
+              "zh": "那對夫妻沿著街道一路散步到塞納河畔。"
+            }
+          ]
+        },
+        {
+          "id": "v2-149-preside",
+          "word": "preside",
+          "ipa": "[prɪˈzaɪd]",
+          "pos": "verb",
+          "meaning_zh": "主持；主導",
+          "collocations": [
+            {
+              "phrase": "preside over/at a meeting",
+              "meaning_zh": "主持會議"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "CEO Michelle Sykes will preside over the annual shareholders conference.",
+              "zh": "米雪．賽克斯執行長將主持年度股東大會。"
+            }
+          ]
+        },
+        {
+          "id": "v2-150-solicit",
+          "word": "solicit",
+          "ipa": "[səˈlɪsɪt]",
+          "pos": "verb",
+          "meaning_zh": "募資；請求",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The NPO is soliciting donations to raise and train guide dogs.",
+              "zh": "那個非營利組織正在募集捐款以飼養並訓練導盲犬。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_06_34_35",
+      "title": "動詞 Level 2 第 6 組（頁碼 34-35）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-151-authorize",
+          "word": "authorize",
+          "ipa": "[ˈɔθəˌraɪz]",
+          "pos": "verb",
+          "meaning_zh": "授權；委託",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We are sorry, but you aren't authorized to access our website.",
+              "zh": "我們深感抱歉，但你並未取得造訪本網站的授權。"
+            }
+          ]
+        },
+        {
+          "id": "v2-152-endorse",
+          "word": "endorse",
+          "ipa": "[ɪnˈdɔrs]",
+          "pos": "verb",
+          "meaning_zh": "認可；背書",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "A plan to develop a new material has been endorsed by the board of directors.",
+              "zh": "開發新材料的計畫已經獲得董事會的認可。"
+            }
+          ]
+        },
+        {
+          "id": "v2-153-implement",
+          "word": "implement",
+          "ipa": "[ˈɪmpləˌmɛnt]",
+          "pos": "verb",
+          "meaning_zh": "付諸實行；貫徹",
+          "collocations": [
+            {
+              "phrase": "implement a policy",
+              "meaning_zh": "執行政策"
+            },
+            {
+              "phrase": "implement a reform",
+              "meaning_zh": "實施改革"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Our company gives awards for ideas that are implemented.",
+              "zh": "我們公司為付諸實行的點子提供獎勵。"
+            }
+          ]
+        },
+        {
+          "id": "v2-154-merge",
+          "word": "merge",
+          "ipa": "[mɝdʒ]",
+          "pos": "verb",
+          "meaning_zh": "企業合併；融合",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The car maker merged with its competitor after months of negotiations.",
+              "zh": "經過數月的協商後，那家汽車製造廠商跟競爭對手合併了。"
+            }
+          ]
+        },
+        {
+          "id": "v2-155-seal",
+          "word": "seal",
+          "ipa": "[sil]",
+          "pos": "verb / noun",
+          "meaning_zh": "動 達成協議；密封 / 名 印章；封（印）",
+          "collocations": [
+            {
+              "phrase": "seal a deal",
+              "meaning_zh": "達成協議"
+            },
+            {
+              "phrase": "seal an envelope",
+              "meaning_zh": "密封信件"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "We finally sealed a deal with the city government.",
+              "zh": "我們總算和市政府達成協議了。"
+            }
+          ]
+        },
+        {
+          "id": "v2-156-unveil",
+          "word": "unveil",
+          "ipa": "[ʌnˈvel]",
+          "pos": "verb",
+          "meaning_zh": "首次推出；揭幕；發表",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Exhibitors at the International Telecom Show unveiled several interesting consumer services.",
+              "zh": "參展廠商在國際電信展上首次推出幾項有趣的顧客服務。"
+            }
+          ]
+        },
+        {
+          "id": "v2-157-expedite",
+          "word": "expedite",
+          "ipa": "[ˈɛkspəˌdaɪt]",
+          "pos": "verb",
+          "meaning_zh": "加快；迅速完成",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Customers may have orders expedited through an extra €5 charge.",
+              "zh": "顧客只要多付 5 歐元即可加快訂單完成速度。"
+            }
+          ]
+        },
+        {
+          "id": "v2-158-defer",
+          "word": "defer",
+          "ipa": "[dɪˈfɝ]",
+          "pos": "verb",
+          "meaning_zh": "延遲，延期",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Mr. Forester deferred paying the bills until he got paid.",
+              "zh": "佛瑞斯特先生延遲繳納帳單，一直等到拿到薪水才付清。"
+            }
+          ]
+        },
+        {
+          "id": "v2-159-incur",
+          "word": "incur",
+          "ipa": "[ɪnˈkɝ]",
+          "pos": "verb",
+          "meaning_zh": "遭受；引起",
+          "collocations": [
+            {
+              "phrase": "incur responsibility",
+              "meaning_zh": "承擔責任"
+            },
+            {
+              "phrase": "expenses incurred",
+              "meaning_zh": "產生的費用"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The corporation incurred substantial losses during the stock market crash.",
+              "zh": "這間公司在股市崩盤期間蒙受巨大損失。"
+            }
+          ]
+        },
+        {
+          "id": "v2-160-expose",
+          "word": "expose",
+          "ipa": "[ɪkˈspoz]",
+          "pos": "verb",
+          "meaning_zh": "使接觸；揭發",
+          "collocations": [
+            {
+              "phrase": "be exposed to A",
+              "meaning_zh": "（常常）接觸 A"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Jan was always exposed to classical music as a child.",
+              "zh": "珍小時候常常接觸古典音樂。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_07_36_37",
+      "title": "動詞 Level 2 第 7 組（頁碼 36-37）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-161-impose",
+          "word": "impose",
+          "ipa": "[ɪmˈpoz]",
+          "pos": "verb",
+          "meaning_zh": "課（稅）；強制執行",
+          "collocations": [
+            {
+              "phrase": "impose A on B",
+              "meaning_zh": "對 B 執行（徵收）A"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The government imposed a new tax on goods and services.",
+              "zh": "政府對商品與服務課徵了一項新稅。"
+            }
+          ]
+        },
+        {
+          "id": "v2-162-classify",
+          "word": "classify",
+          "ipa": "[ˈklæsəˌfaɪ]",
+          "pos": "verb",
+          "meaning_zh": "分類；分級",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The secretary classified the documents by level of importance.",
+              "zh": "秘書將文件依重要程度分類。"
+            }
+          ]
+        },
+        {
+          "id": "v2-163-resume",
+          "word": "resume",
+          "ipa": "[rɪˈzjum]",
+          "pos": "verb",
+          "meaning_zh": "恢復；（中斷後）重新開始",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Assembly line 7 resumed operating in the display factory, after some repairs.",
+              "zh": "經過修理之後，7 號生產線在展示工廠重新恢復運作。"
+            }
+          ]
+        },
+        {
+          "id": "v2-164-retrieve",
+          "word": "retrieve",
+          "ipa": "[rɪˈtriv]",
+          "pos": "verb",
+          "meaning_zh": "復原；取回",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Matthew discarded the file and couldn't retrieve it.",
+              "zh": "馬修刪除了檔案，沒辦法復原。"
+            }
+          ]
+        },
+        {
+          "id": "v2-165-conform",
+          "word": "conform",
+          "ipa": "[kənˈfɔrm]",
+          "pos": "verb",
+          "meaning_zh": "遵守；符合",
+          "collocations": [
+            {
+              "phrase": "conform to a rule",
+              "meaning_zh": "遵守規則"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Most of the staff found it difficult to conform to the company's policy.",
+              "zh": "絕大多數的員工認為很難遵守公司的規定。"
+            }
+          ]
+        },
+        {
+          "id": "v2-166-waive",
+          "word": "waive",
+          "ipa": "[wev]",
+          "pos": "verb",
+          "meaning_zh": "免除；撤回",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The museum waives the admission fees for city residents.",
+              "zh": "博物館免除市民的門票費用。"
+            }
+          ]
+        },
+        {
+          "id": "v2-167-forbid",
+          "word": "forbid",
+          "ipa": "[fɚˈbɪd]",
+          "pos": "verb",
+          "meaning_zh": "禁止；不准",
+          "collocations": [
+            {
+              "phrase": "forbid A from + V-ing",
+              "meaning_zh": "禁止 A 做某事"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The rule forbids loitering on the museum grounds.",
+              "zh": "這項規定禁止民眾在博物館內遊蕩。"
+            }
+          ]
+        },
+        {
+          "id": "v2-168-revoke",
+          "word": "revoke",
+          "ipa": "[rɪˈvok]",
+          "pos": "verb",
+          "meaning_zh": "撤銷；廢除",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Larry's license was revoked after the traffic accident.",
+              "zh": "賴瑞出車禍之後，駕照被吊銷了。"
+            }
+          ]
+        },
+        {
+          "id": "v2-169-squeeze",
+          "word": "squeeze",
+          "ipa": "[skwiz]",
+          "pos": "verb",
+          "meaning_zh": "擠進；擠壓",
+          "collocations": [
+            {
+              "phrase": "squeeze a lemon",
+              "meaning_zh": "擠檸檬"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "I can squeeze that appointment in at three tomorrow.",
+              "zh": "我可以吧會面時間擠在明天下午 3 點。"
+            }
+          ]
+        },
+        {
+          "id": "v2-170-compel",
+          "word": "compel",
+          "ipa": "[kəmˈpɛl]",
+          "pos": "verb",
+          "meaning_zh": "迫使，強迫",
+          "collocations": [
+            {
+              "phrase": "compel A to + V",
+              "meaning_zh": "強迫 A 做某事"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "An oil shortage will drive up gas prices and compel fuel conservation.",
+              "zh": "石油短缺將使得油價飆漲，迫使人們節約使用燃料。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_08_38_39",
+      "title": "動詞 Level 2 第 8 組（頁碼 38-39）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-171-dismiss",
+          "word": "dismiss",
+          "ipa": "[dɪsˈmɪs]",
+          "pos": "verb",
+          "meaning_zh": "駁回；解散；開除",
+          "collocations": [
+            {
+              "phrase": "dismiss employees",
+              "meaning_zh": "解雇員工"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The public relations spokesperson dismissed rumors that the firm had financial problems.",
+              "zh": "公關部門的發言人駁斥了公司面臨財務問題的傳言。"
+            }
+          ]
+        },
+        {
+          "id": "v2-172-discard",
+          "word": "discard",
+          "ipa": "[dɪsˈkɑrd]",
+          "pos": "verb",
+          "meaning_zh": "丟棄，拋棄",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Please discard recyclable trash in the bins provided.",
+              "zh": "請將可回收垃圾丟進所提供的垃圾桶。"
+            }
+          ]
+        },
+        {
+          "id": "v2-173-incorporate",
+          "word": "incorporate",
+          "ipa": "[ɪnˈkɔrpəˌret]",
+          "pos": "verb",
+          "meaning_zh": "融入；包括",
+          "collocations": [
+            {
+              "phrase": "incorporate a business",
+              "meaning_zh": "公司法人化"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Our new line of sport shoes incorporates the latest trends.",
+              "zh": "我們的新款運動鞋系列融入了最新潮流。"
+            }
+          ]
+        },
+        {
+          "id": "v2-174-integrate",
+          "word": "integrate",
+          "ipa": "[ˈɪntəˌgret]",
+          "pos": "verb",
+          "meaning_zh": "融入群體；成為一體",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "After the merger, the board worked hard to integrate the corporate cultures of both firms.",
+              "zh": "雙方企業合併之後，董事會不遺餘力，欲將雙方的公司文化融為一體。"
+            }
+          ]
+        },
+        {
+          "id": "v2-175-embrace",
+          "word": "embrace",
+          "ipa": "[ɪmˈbres]",
+          "pos": "verb",
+          "meaning_zh": "欣然接受；擁抱",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Ms. Flores always embraces a charitable cause and works hard to raise funds.",
+              "zh": "佛羅瑞絲小姐總是熱衷於慈善事業並努力募款。"
+            }
+          ]
+        },
+        {
+          "id": "v2-176-enhance",
+          "word": "enhance",
+          "ipa": "[ɪnˈhæns]",
+          "pos": "verb",
+          "meaning_zh": "提高；增強",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "A series of investments has enhanced our status as a leading biochemical manufacturer.",
+              "zh": "一系列的投資已然提高我們的地位，成為生化產業製造商的領導者。"
+            }
+          ]
+        },
+        {
+          "id": "v2-177-consolidate",
+          "word": "consolidate",
+          "ipa": "[kənˈsɑləˌdet]",
+          "pos": "verb",
+          "meaning_zh": "合併；鞏固",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Our production facilities across Europe will be consolidated in the new plant in Poland.",
+              "zh": "我們在歐洲各地的生產設施將併入波蘭的新廠房。"
+            }
+          ]
+        },
+        {
+          "id": "v2-178-penetrate",
+          "word": "penetrate",
+          "ipa": "[ˈpɛnəˌtret]",
+          "pos": "verb",
+          "meaning_zh": "穿過；滲透",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The firm penetrated the computer market with an affordable new model.",
+              "zh": "那間公司以平價的新機型打入電腦市場。"
+            }
+          ]
+        },
+        {
+          "id": "v2-179-accumulate",
+          "word": "accumulate",
+          "ipa": "[əˈkjumjəˌlet]",
+          "pos": "verb",
+          "meaning_zh": "累積，積攢",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I've accumulated enough frequent flyer miles to travel from Tokyo to London for free.",
+              "zh": "我已經累積了足夠的飛行里程數，足以從東京免費飛到倫敦。"
+            }
+          ]
+        },
+        {
+          "id": "v2-180-stimulate",
+          "word": "stimulate",
+          "ipa": "[ˈstɪmjəˌlet]",
+          "pos": "verb",
+          "meaning_zh": "促進；刺激",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The board approved a plan designed to stimulate employee interactions.",
+              "zh": "董事會核准一項促進員工交流的計畫。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_09_40_41",
+      "title": "動詞 Level 2 第 9 組（頁碼 40-41）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-181-deduct",
+          "word": "deduct",
+          "ipa": "[dɪˈdʌkt]",
+          "pos": "verb",
+          "meaning_zh": "扣除；減少",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I don't think we can deduct the cost of this cruise as a business expense.",
+              "zh": "我覺得我們應該無法把乘船遊覽的費用當成商旅費扣除。"
+            }
+          ]
+        },
+        {
+          "id": "v2-182-detect",
+          "word": "detect",
+          "ipa": "[dɪˈtɛkt]",
+          "pos": "verb",
+          "meaning_zh": "檢查出；探測",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The software detected a virus in the computer system.",
+              "zh": "這款軟體檢查出電腦系統裡有病毒。"
+            }
+          ]
+        },
+        {
+          "id": "v2-183-foster",
+          "word": "foster",
+          "ipa": "[ˈfɑstɚ]",
+          "pos": "verb",
+          "meaning_zh": "培養；促進",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The goal of our program is to foster children's interests in science.",
+              "zh": "我們計畫的目標是培養孩子對科學的興趣。"
+            }
+          ]
+        },
+        {
+          "id": "v2-184-assert",
+          "word": "assert",
+          "ipa": "[əˈsɝt]",
+          "pos": "verb",
+          "meaning_zh": "堅稱，堅持主張",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The trader asserted his innocence in the scandal.",
+              "zh": "那名商人堅稱自己在這場醜聞中是清白的。"
+            }
+          ]
+        },
+        {
+          "id": "v2-185-demolish",
+          "word": "demolish",
+          "ipa": "[dɪˈmɑlɪʃ]",
+          "pos": "verb",
+          "meaning_zh": "拆除；毀壞",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The city plans to demolish some of its older buildings.",
+              "zh": "政府計畫拆除這座城市的某些老舊建築。"
+            }
+          ]
+        },
+        {
+          "id": "v2-186-exhaust",
+          "word": "exhaust",
+          "ipa": "[ɪgˈzɔst]",
+          "pos": "verb",
+          "meaning_zh": "用完，耗盡",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The department exhausted its budget before the end of the month.",
+              "zh": "該部門在月底前就花光了預算。"
+            }
+          ]
+        },
+        {
+          "id": "v2-187-deteriorate",
+          "word": "deteriorate",
+          "ipa": "[dɪˈtɪrɪəˌret]",
+          "pos": "verb",
+          "meaning_zh": "惡化；墮落",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "To prevent air quality from deteriorating, the state excludes polluting businesses.",
+              "zh": "為了避免空氣品質惡化，州政府將造成污染的企業趕了出去。"
+            }
+          ]
+        },
+        {
+          "id": "v2-188-distract",
+          "word": "distract",
+          "ipa": "[dɪˈstrækt]",
+          "pos": "verb",
+          "meaning_zh": "干擾，使分心",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I'm afraid you might be distracted by the renovation work this week.",
+              "zh": "我怕這週的裝修工作可能會干擾到你。"
+            }
+          ]
+        },
+        {
+          "id": "v2-189-attribute",
+          "word": "attribute",
+          "ipa": "[əˈtrɪbjut]",
+          "pos": "verb",
+          "meaning_zh": "歸因於；認為是",
+          "collocations": [
+            {
+              "phrase": "attribute A to B",
+              "meaning_zh": "將 A 歸因於 B"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The staff attributed the failure of the project to a lack of preparation.",
+              "zh": "員工將企劃的失敗歸因於準備不足。"
+            }
+          ]
+        },
+        {
+          "id": "v2-190-eliminate",
+          "word": "eliminate",
+          "ipa": "[ɪˈlɪməˌnet]",
+          "pos": "verb",
+          "meaning_zh": "排除；消滅",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "A fitness center membership eliminates the need to pay daily entrance fees.",
+              "zh": "具備健身房會員資格即免付每日入館費用。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "verb_level2_sec_10_42_43",
+      "title": "動詞 Level 2 第 10 組（頁碼 42-43）",
+      "description": "動詞 (Verbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "v2-191-alleviate",
+          "word": "alleviate",
+          "ipa": "[əˈliviˌet]",
+          "pos": "verb",
+          "meaning_zh": "減輕，緩和",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "This new drug alleviates cold symptoms quickly.",
+              "zh": "這款新藥能迅速減輕感冒症狀。"
+            }
+          ]
+        },
+        {
+          "id": "v2-192-evacuate",
+          "word": "evacuate",
+          "ipa": "[ɪˈvækjʊˌet]",
+          "pos": "verb",
+          "meaning_zh": "疏散，撤離",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The local residents were evacuated due to the forest fire.",
+              "zh": "由於發生森林大火，有關當局疏散了當地居民。"
+            }
+          ]
+        },
+        {
+          "id": "v2-193-scatter",
+          "word": "scatter",
+          "ipa": "[ˈskætɚ]",
+          "pos": "verb",
+          "meaning_zh": "散布，分散",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Over 300 wind turbines are scattered across the windy area near the ocean.",
+              "zh": "300 多台風力發電機四散在近海的多風地帶。"
+            }
+          ]
+        },
+        {
+          "id": "v2-194-reprimand",
+          "word": "reprimand",
+          "ipa": "[ˈrɛprəˌmænd]",
+          "pos": "verb",
+          "meaning_zh": "訓斥，譴責",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Bill was reprimanded by his supervisor for failing to arrive at work on time.",
+              "zh": "比爾因為上班遲到被主管訓斥了一頓。"
+            }
+          ]
+        },
+        {
+          "id": "v2-195-misplace",
+          "word": "misplace",
+          "ipa": "[mɪsˈples]",
+          "pos": "verb",
+          "meaning_zh": "亂放，隨意放置",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Kirsten had to look hard for a file she misplaced.",
+              "zh": "克絲汀得努力找出之前亂放的一份文件。"
+            }
+          ]
+        },
+        {
+          "id": "v2-196-fluctuate",
+          "word": "fluctuate",
+          "ipa": "[ˈflʌktʃʊˌet]",
+          "pos": "verb",
+          "meaning_zh": "波動，起伏",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Although the economy is improving, the exchange rate continues to fluctuate.",
+              "zh": "雖然經濟正在好轉，但匯率依然持續波動。"
+            }
+          ]
+        },
+        {
+          "id": "v2-197-culminate",
+          "word": "culminate",
+          "ipa": "[ˈkʌlməˌnet]",
+          "pos": "verb",
+          "meaning_zh": "達到高潮，以…告終",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The festival culminated in live music, a costume parade and sword fighting.",
+              "zh": "這場慶典在現場的音樂演奏、變裝遊行和劍術格鬥中達到最高潮。"
+            }
+          ]
+        },
+        {
+          "id": "v2-198-jeopardize",
+          "word": "jeopardize",
+          "ipa": "[ˈdʒɛpɚˌdaɪz]",
+          "pos": "verb",
+          "meaning_zh": "危害，危及",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Pollution and global warming are jeopardizing the agricultural industry.",
+              "zh": "污染和全球暖化正危害著農業。"
+            }
+          ]
+        },
+        {
+          "id": "v2-199-aggravate",
+          "word": "aggravate",
+          "ipa": "[ˈægrəˌvet]",
+          "pos": "verb",
+          "meaning_zh": "使惡化，加劇",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The new taxes would aggravate the already bad economic situation in this country.",
+              "zh": "新稅讓該國已經惡劣的經濟狀況雪上加霜。"
+            }
+          ]
+        },
+        {
+          "id": "v2-200-digress",
+          "word": "digress",
+          "ipa": "[daɪˈgrɛs]",
+          "pos": "verb",
+          "meaning_zh": "離題，偏離",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We've digressed from the topic, so let's get back on the right track.",
+              "zh": "我們已經離題了，現在回到正題吧。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
