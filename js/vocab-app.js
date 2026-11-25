@@ -391,6 +391,27 @@ function renderStats() {
   `).join("");
 }
 
+function cleanWordForSpeech(token) {
+  return String(token || "")
+    .replace(/^[^A-Za-z0-9']+|[^A-Za-z0-9']+$/g, "")
+    .trim();
+}
+
+function renderClickableWordsHtml(text) {
+  const raw = String(text || "");
+  const tokens = raw.split(/(\s+|[.,!?;:"“”()\[\]—–-]+)/);
+  return tokens
+    .map((tok) => {
+      if (!tok) return "";
+      const spokenWord = cleanWordForSpeech(tok);
+      if (!spokenWord || !/[A-Za-z0-9]/.test(spokenWord)) {
+        return escapeHtml(tok);
+      }
+      return `<span class="speak-word" data-word="${escapeAttribute(spokenWord)}" title="點擊發音：${escapeAttribute(spokenWord)}">${escapeHtml(tok)}</span>`;
+    })
+    .join("");
+}
+
 function renderCardArena() {
   const words = getScopeWords();
   const currentWord = words.find((w) => w.id === state.currentWordId) || words[0] || null;
@@ -440,27 +461,31 @@ function renderCardArena() {
 
   const collocationsHtml = currentWord.collocations.length
     ? currentWord.collocations.map((c) => `
-        <div class="item-card">
-          <div>
-            <div class="item-en">${escapeHtml(c.phrase)}</div>
+        <div class="item-card collocation-card">
+          <div class="item-copy">
+            <div class="item-en">${renderClickableWordsHtml(c.phrase)}</div>
             <div class="item-zh ${zhHiddenClass}">${escapeHtml(c.meaning_zh || "（無中文解釋）")}</div>
           </div>
-          <button class="mini-play" type="button" data-speak="${escapeAttribute(c.phrase)}" data-rate="0.95">🔊</button>
+          <div class="card-controls">
+            <button class="mini-play" type="button" data-speak="${escapeAttribute(c.phrase)}" data-rate="0.95">🔊</button>
+          </div>
         </div>
       `).join("")
     : `<div class="item-zh">尚無組合單字</div>`;
 
   const sentencesHtml = currentWord.short_sentences.length
     ? currentWord.short_sentences.map((s) => `
-        <div class="item-card">
-          <div>
-            <div class="item-en">${escapeHtml(s.en)}</div>
+        <div class="item-card sentence-card">
+          <div class="item-copy">
+            <div class="item-en">${renderClickableWordsHtml(s.en)}</div>
             <div class="item-zh ${zhHiddenClass}">${escapeHtml(s.zh || "（無中文翻譯）")}</div>
           </div>
-          <div class="rate-group" role="group" aria-label="短句播放倍速">
-            <button class="mini-play" type="button" data-speak="${escapeAttribute(s.en)}" data-rate="1.0" title="正常速度 (1x)">1x</button>
-            <button class="mini-play" type="button" data-speak="${escapeAttribute(s.en)}" data-rate="0.75" title="0.75 倍速">0.75x</button>
-            <button class="mini-play" type="button" data-speak="${escapeAttribute(s.en)}" data-rate="0.5" title="0.5 倍速">0.5x</button>
+          <div class="card-controls">
+            <div class="rate-group" role="group" aria-label="短句播放倍速">
+              <button class="mini-play" type="button" data-speak="${escapeAttribute(s.en)}" data-rate="1.0" title="正常速度 (1x)">1x</button>
+              <button class="mini-play" type="button" data-speak="${escapeAttribute(s.en)}" data-rate="0.75" title="0.75 倍速">0.75x</button>
+              <button class="mini-play" type="button" data-speak="${escapeAttribute(s.en)}" data-rate="0.5" title="0.5 倍速">0.5x</button>
+            </div>
           </div>
         </div>
       `).join("")
@@ -602,6 +627,29 @@ function bindCardInteractions(currentWord) {
     renderCardArena();
   });
 
+  card.querySelectorAll(".speak-word").forEach((wordEl) => {
+    wordEl.addEventListener("pointerdown", (e) => {
+      e.stopPropagation();
+    });
+
+    wordEl.addEventListener("click", (e) => {
+      e.stopPropagation();
+      const targetWord = wordEl.getAttribute("data-word");
+      if (!targetWord) return;
+
+      card.querySelectorAll(".speak-word.is-speaking-word").forEach((el) => {
+        el.classList.remove("is-speaking-word");
+      });
+      wordEl.classList.add("is-speaking-word");
+      window.setTimeout(() => {
+        wordEl.classList.remove("is-speaking-word");
+      }, 650);
+
+      speakText(targetWord, 1.0, setStatus);
+      setStatus(`單字發音：${targetWord}`);
+    });
+  });
+
   card.querySelectorAll("[data-speak]").forEach((btn) => {
     btn.addEventListener("click", (e) => {
       e.stopPropagation();
@@ -662,7 +710,7 @@ function bindCardInteractions(currentWord) {
   };
 
   card.addEventListener("pointerdown", (e) => {
-    if (e.target.closest("button")) return;
+    if (e.target.closest("button") || e.target.closest(".speak-word")) return;
     card.setPointerCapture(e.pointerId);
     onStart(e.clientX);
   });
