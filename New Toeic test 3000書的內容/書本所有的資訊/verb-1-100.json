@@ -1,0 +1,3282 @@
+{
+  "total_sections": 10,
+  "total_entries": 100,
+  "sections": [
+    {
+      "page_range": "2-3",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 1,
+          "headword": {
+            "word": "apply",
+            "pos": "verb",
+            "meaning_zh": "申請；應徵；應用"
+          },
+          "phrases": [
+            {
+              "phrase": "apply for a post",
+              "meaning_zh": "應徵職位"
+            },
+            {
+              "phrase": "apply to a company",
+              "meaning_zh": "應徵公司"
+            }
+          ],
+          "example": {
+            "en": "She applied for a job in the new mall.",
+            "zh": "她應徵了新商場的一份工作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "application",
+                "ipa": "[ˌæpləˈkeʃən]",
+                "meaning_zh": "申請（書）；應用"
+              },
+              {
+                "word": "applicant",
+                "ipa": "[ˈæpləkənt]",
+                "meaning_zh": "申請者；應徵者"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 2,
+          "headword": {
+            "word": "submit",
+            "ipa": "[səbˈmɪt]",
+            "pos": "verb",
+            "meaning_zh": "提交；提案"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I must submit a sales report today.",
+            "zh": "我今天必須要提交一份銷售報告。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "hand in...",
+                "meaning_zh": "提交…"
+              },
+              {
+                "word": "propose",
+                "ipa": "[prəˈpoz]",
+                "meaning_zh": "提案，建議"
+              }
+            ],
+            "noun": [
+              {
+                "word": "submission",
+                "ipa": "[səbˈmɪʃən]",
+                "meaning_zh": "提交"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 3,
+          "headword": {
+            "word": "discuss",
+            "ipa": "[dɪˈskʌs]",
+            "pos": "verb",
+            "meaning_zh": "討論；闡述"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We are discussing the budget cuts with the director.",
+            "zh": "我們正在和主管討論削減預算。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "talk over...",
+                "meaning_zh": "討論…，商量…"
+              },
+              {
+                "word": "debate",
+                "ipa": "[dɪˈbet]",
+                "meaning_zh": "議論；辯論"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 4,
+          "headword": {
+            "word": "ship",
+            "ipa": "[ʃɪp]",
+            "pos": "verb",
+            "meaning_zh": "寄出；運送"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The order was shipped last week, but we still haven't received it.",
+            "zh": "訂單上週就出貨了，但是我們到現在都還沒收到。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "deliver",
+                "ipa": "[dɪˈlɪvɚ]",
+                "meaning_zh": "運送；投遞"
+              },
+              {
+                "word": "transport",
+                "ipa": "[trænsˈpɔrt]",
+                "meaning_zh": "運輸；輸送"
+              }
+            ],
+            "noun": [
+              {
+                "word": "shipment",
+                "ipa": "[ˈʃɪpmənt]",
+                "meaning_zh": "運輸；裝載的貨物"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 5,
+          "headword": {
+            "word": "release",
+            "ipa": "[rɪˈlis]",
+            "pos": "verb",
+            "meaning_zh": "發行，發布"
+          },
+          "phrases": [
+            {
+              "phrase": "release a movie",
+              "meaning_zh": "電影上映"
+            }
+          ],
+          "example": {
+            "en": "The company will release a new smartphone next month.",
+            "zh": "那間公司下個月將會推出一款新型智慧型手機。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "announce",
+                "ipa": "[əˈnaʊns]",
+                "meaning_zh": "公開宣布，發布"
+              },
+              {
+                "word": "launch",
+                "ipa": "[lɔntʃ]",
+                "meaning_zh": "推出；發起"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 6,
+          "headword": {
+            "word": "promote",
+            "ipa": "[prəˈmot]",
+            "pos": "verb",
+            "meaning_zh": "宣傳；升遷"
+          },
+          "phrases": [
+            {
+              "phrase": "promote A to manager",
+              "meaning_zh": "讓 A 升遷至經理一職"
+            }
+          ],
+          "example": {
+            "en": "It's always beneficial to promote your company over the Internet.",
+            "zh": "在網路上宣傳自家公司總是有益處。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "promotion",
+                "ipa": "[prəˈmoʃən]",
+                "meaning_zh": "推銷；晉升"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 7,
+          "headword": {
+            "word": "provide",
+            "ipa": "[prəˈvaɪd]",
+            "pos": "verb",
+            "meaning_zh": "提供"
+          },
+          "phrases": [
+            {
+              "phrase": "provide A with B = provide B for A",
+              "meaning_zh": "提供 B 給 A"
+            }
+          ],
+          "example": {
+            "en": "Bob provided continuous updates on his work progress.",
+            "zh": "鮑伯不斷更新自己的工作進度。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "provision",
+                "ipa": "[prəˈvɪʒən]",
+                "meaning_zh": "供給；條款"
+              }
+            ],
+            "adjective": [],
+            "conjunction": [
+              {
+                "word": "provided (that)...",
+                "meaning_zh": "倘若…，假如…"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "headword": {
+            "word": "charge",
+            "ipa": "[tʃɑrdʒ]",
+            "pos": "verb",
+            "meaning_zh": "收費；充電；控告"
+          },
+          "phrases": [
+            {
+              "phrase": "charge A B for C",
+              "meaning_zh": "依照 C 的價格向 A 收取 B"
+            },
+            {
+              "phrase": "charge a battery",
+              "meaning_zh": "為電池充電"
+            },
+            {
+              "phrase": "charge A with B",
+              "meaning_zh": "控告 A 犯下 B 罪名"
+            }
+          ],
+          "example": {
+            "en": "The catering company charged us $1,600 for the party.",
+            "zh": "這間餐飲公司向我們收取 1600 美元的派對費用。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 9,
+          "headword": {
+            "word": "appreciate",
+            "ipa": "[əˈpriʃɪˌet]",
+            "pos": "verb",
+            "meaning_zh": "感激；賞識；升值"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Veronica appreciated the help from her colleagues on the database upgrade.",
+            "zh": "維洛妮卡很感謝她的同事幫忙升級資料庫。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "praise",
+                "ipa": "[prez]",
+                "meaning_zh": "讚美；歌頌"
+              },
+              {
+                "word": "laud",
+                "ipa": "[lɔd]",
+                "meaning_zh": "讚美"
+              },
+              {
+                "word": "depreciate",
+                "ipa": "[dɪˈpriʃɪˌet]",
+                "meaning_zh": "貶值"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 10,
+          "headword": {
+            "word": "accept",
+            "ipa": "[əkˈsɛpt]",
+            "pos": "verb",
+            "meaning_zh": "接受，同意"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The board of directors accepted the committee's report.",
+            "zh": "董事會接受了委員會的報告。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "acceptance",
+                "ipa": "[əkˈsɛptəns]",
+                "meaning_zh": "認同，接納"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "acceptable",
+                "ipa": "[əkˈsɛptəbəl]",
+                "meaning_zh": "可接受的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "4-5",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 11,
+          "headword": {
+            "word": "approve",
+            "ipa": "[əˈpruv]",
+            "pos": "verb",
+            "meaning_zh": "贊成；批准"
+          },
+          "phrases": [],
+          "example": {
+            "en": "She didn't approve of the CEO's decision to relocate abroad.",
+            "zh": "她不贊成執行長將公司遷至國外的決定。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "disapprove",
+                "ipa": "[ˌdɪsəˈpruv]",
+                "meaning_zh": "不贊成"
+              }
+            ],
+            "noun": [
+              {
+                "word": "approval",
+                "ipa": "[əˈpruvəl]",
+                "meaning_zh": "贊成；批准"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 12,
+          "headword": {
+            "word": "adopt",
+            "ipa": "[əˈdɑpt]",
+            "pos": "verb",
+            "meaning_zh": "採取，採納"
+          },
+          "phrases": [
+            {
+              "phrase": "adopt a view",
+              "meaning_zh": "採納意見"
+            }
+          ],
+          "example": {
+            "en": "We need to adopt a new approach to increase sales.",
+            "zh": "我們需要採取新方法來提升銷售額。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "adoption",
+                "ipa": "[əˈdɑpʃən]",
+                "meaning_zh": "採取，採納"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 13,
+          "headword": {
+            "word": "increase",
+            "ipa": "[ɪnˈkris] / [ˈɪnkris]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 增加；增強 / 名 增加"
+          },
+          "phrases": [],
+          "example": {
+            "en": "It's Mary's job to come up with ways to increase business.",
+            "zh": "瑪莉的工作就是想出拓展生意的方法。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "boost",
+                "ipa": "[bust]",
+                "meaning_zh": "提高，增強"
+              },
+              {
+                "word": "soar",
+                "ipa": "[sɔr]",
+                "meaning_zh": "驟升，暴增"
+              },
+              {
+                "word": "decrease",
+                "ipa": "[dɪˈkris]",
+                "meaning_zh": "減少，下降"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 14,
+          "headword": {
+            "word": "expand",
+            "ipa": "[ɪkˈspænd]",
+            "pos": "verb",
+            "meaning_zh": "擴大；擴張"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The shop owner expanded her store by adding another room.",
+            "zh": "店主新增了一個房間來擴大店面。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "enlarge",
+                "ipa": "[ɪnˈlɑrdʒ]",
+                "meaning_zh": "擴大，放大"
+              },
+              {
+                "word": "augment",
+                "ipa": "[ɔgˈmɛnt]",
+                "meaning_zh": "增加；提高"
+              }
+            ],
+            "noun": [
+              {
+                "word": "expansion",
+                "ipa": "[ɪkˈspænʃən]",
+                "meaning_zh": "擴大；擴展"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 15,
+          "headword": {
+            "word": "require",
+            "ipa": "[rɪˈkwaɪr]",
+            "pos": "verb",
+            "meaning_zh": "需要；要求"
+          },
+          "phrases": [],
+          "example": {
+            "en": "All employees are required to attend the morning meetings.",
+            "zh": "全體員工都必須參加早上的會議。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "necessitate",
+                "ipa": "[nəˈsɛsəˌtet]",
+                "meaning_zh": "使成為必要"
+              }
+            ],
+            "noun": [
+              {
+                "word": "requirement",
+                "ipa": "[rɪˈkwaɪrmənt]",
+                "meaning_zh": "必要條件；必需品"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 16,
+          "headword": {
+            "word": "inquire",
+            "ipa": "[ɪnˈkwaɪr]",
+            "pos": "verb",
+            "meaning_zh": "詢問，打聽"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The customers entered the shop and inquired about prices.",
+            "zh": "顧客進到店裡詢問價格。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "inquiry",
+                "ipa": "[ˈɪnkwərɪ]",
+                "meaning_zh": "詢問，打聽"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 17,
+          "headword": {
+            "word": "assign",
+            "ipa": "[əˈsaɪn]",
+            "pos": "verb",
+            "meaning_zh": "指派；分配"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The manager assigned us the new project and asked us to finish it by the weekend.",
+            "zh": "經理指派新企劃給我們，並要求我們在週末以前完成。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "allocate",
+                "ipa": "[ˈæləˌket]",
+                "meaning_zh": "分派；分配"
+              },
+              {
+                "word": "appoint",
+                "ipa": "[əˈpɔɪnt]",
+                "meaning_zh": "任命；指定"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 18,
+          "headword": {
+            "word": "designate",
+            "ipa": "[ˈdɛzɪgˌnet]",
+            "pos": "verb",
+            "meaning_zh": "指派，指定"
+          },
+          "phrases": [
+            {
+              "phrase": "designate A as B",
+              "meaning_zh": "指定 A 當 B"
+            },
+            {
+              "phrase": "a designated seat",
+              "meaning_zh": "指定座位"
+            }
+          ],
+          "example": {
+            "en": "It is your duty to designate a new leader of the team.",
+            "zh": "為團隊指派新領導者是你的職責。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "designation",
+                "ipa": "[ˌdɛzɪgˈneʃən]",
+                "meaning_zh": "指定"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 19,
+          "headword": {
+            "word": "indicate",
+            "ipa": "[ˈɪndəˌket]",
+            "pos": "verb",
+            "meaning_zh": "表明；標示"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Mr. Lee indicated his wishes for new contract terms in a letter.",
+            "zh": "李先生在信中表明希望能更新合約條款。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "indicator",
+                "ipa": "[ˈɪndəˌketɚ]",
+                "meaning_zh": "指標"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 20,
+          "headword": {
+            "word": "imply",
+            "ipa": "[ɪmˈplaɪ]",
+            "pos": "verb",
+            "meaning_zh": "暗示，暗指"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Elise implied she might transfer to Shanghai if she were promoted.",
+            "zh": "愛麗絲暗示她如果升遷的話，有可能會調去上海。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "suggest",
+                "ipa": "[səˈdʒɛst]",
+                "meaning_zh": "暗示；提議"
+              },
+              {
+                "word": "allude",
+                "ipa": "[əˈlud]",
+                "meaning_zh": "影射，暗指"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "implicit",
+                "ipa": "[ɪmˈplɪsɪt]",
+                "meaning_zh": "委婉的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "6-7",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 21,
+          "headword": {
+            "word": "file",
+            "ipa": "[faɪl]",
+            "pos": "verb",
+            "meaning_zh": "申請；提出訴訟；歸檔"
+          },
+          "phrases": [
+            {
+              "phrase": "file for bankruptcy",
+              "meaning_zh": "申請破產"
+            },
+            {
+              "phrase": "file a claim",
+              "meaning_zh": "要求索賠"
+            },
+            {
+              "phrase": "file documents",
+              "meaning_zh": "歸檔文件"
+            }
+          ],
+          "example": {
+            "en": "Poor sales caused the company to file for bankruptcy.",
+            "zh": "銷售不佳導致這間公司申請破產。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 22,
+          "headword": {
+            "word": "consult",
+            "ipa": "[kənˈsʌlt]",
+            "pos": "verb",
+            "meaning_zh": "諮詢，商量"
+          },
+          "phrases": [],
+          "example": {
+            "en": "As this is a legal matter, you will have to consult with an attorney.",
+            "zh": "由於這是法律問題，你得諮詢律師才行。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "consultant",
+                "ipa": "[kənˈsʌltənt]",
+                "meaning_zh": "顧問"
+              },
+              {
+                "word": "consultation",
+                "ipa": "[ˌkɑnsəlˈteʃən]",
+                "meaning_zh": "諮詢，商議"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 23,
+          "headword": {
+            "word": "recommend",
+            "ipa": "[ˌrɛkəˈmɛnd]",
+            "pos": "verb",
+            "meaning_zh": "推薦；建議"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Leslie recommended her friend for the open position at her company.",
+            "zh": "萊絲莉推薦朋友去應徵她公司的職缺。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "advise",
+                "ipa": "[ədˈvaɪz]",
+                "meaning_zh": "建議，勸告"
+              }
+            ],
+            "noun": [
+              {
+                "word": "recommendation",
+                "ipa": "[ˌrɛkəmɛnˈdeʃən]",
+                "meaning_zh": "推薦；建議"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 24,
+          "headword": {
+            "word": "encourage",
+            "ipa": "[ɪnˈkɝɪdʒ]",
+            "pos": "verb",
+            "meaning_zh": "鼓勵；促進"
+          },
+          "phrases": [],
+          "example": {
+            "en": "All employees are encouraged to have a yearly medical checkup.",
+            "zh": "鼓勵全體員工每年做一次體檢。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "urge",
+                "ipa": "[ɝdʒ]",
+                "meaning_zh": "敦促；力勸"
+              },
+              {
+                "word": "prompt",
+                "ipa": "[prɑmpt]",
+                "meaning_zh": "引起；導致"
+              },
+              {
+                "word": "discourage",
+                "ipa": "[dɪsˈkɝɪdʒ]",
+                "meaning_zh": "潑冷水；阻撓"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 25,
+          "headword": {
+            "word": "register",
+            "ipa": "[ˈrɛdʒɪstɚ]",
+            "pos": "verb",
+            "meaning_zh": "註冊；登記"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Visitors to the website must register and become members in order to access information.",
+            "zh": "網站訪客必須註冊成為會員才能獲取資訊。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "registration",
+                "ipa": "[ˌrɛdʒɪˈstreʃən]",
+                "meaning_zh": "註冊；登記"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 26,
+          "headword": {
+            "word": "enroll",
+            "ipa": "[ɪnˈrol]",
+            "pos": "verb",
+            "meaning_zh": "註冊；入學"
+          },
+          "phrases": [
+            {
+              "phrase": "enroll in/at a course",
+              "meaning_zh": "註冊修讀／報名參加一堂課程"
+            }
+          ],
+          "example": {
+            "en": "Enroll today in our special course on starting a business.",
+            "zh": "今天就來報名參加我們的創業特別課程吧！"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "enrollment",
+                "ipa": "[ɪnˈrolmənt]",
+                "meaning_zh": "註冊；入學"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 27,
+          "headword": {
+            "word": "search",
+            "ipa": "[sɝtʃ]",
+            "pos": "verb",
+            "meaning_zh": "尋找，搜索"
+          },
+          "phrases": [
+            {
+              "phrase": "search for A",
+              "meaning_zh": "尋找 A"
+            },
+            {
+              "phrase": "search A for B",
+              "meaning_zh": "搜索 A 來尋找 B"
+            }
+          ],
+          "example": {
+            "en": "Mel has been searching for the missing file for days.",
+            "zh": "梅爾尋找不見的檔案已經好幾天了。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "seek",
+                "ipa": "[sik]",
+                "meaning_zh": "尋找；請求"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 28,
+          "headword": {
+            "word": "subscribe",
+            "ipa": "[səbˈskraɪb]",
+            "pos": "verb",
+            "meaning_zh": "訂閱；訂購"
+          },
+          "phrases": [
+            {
+              "phrase": "subscribe to an online service",
+              "meaning_zh": "訂閱一項線上服務"
+            }
+          ],
+          "example": {
+            "en": "The accountant subscribes to the daily financial paper.",
+            "zh": "那名會計師訂閱財經日報。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "subscription",
+                "ipa": "[səbˈskrɪpʃən]",
+                "meaning_zh": "訂閱費用"
+              },
+              {
+                "word": "subscriber",
+                "ipa": "[səbˈskraɪbɚ]",
+                "meaning_zh": "訂閱者，用戶"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 29,
+          "headword": {
+            "word": "expire",
+            "ipa": "[ɪkˈspaɪr]",
+            "pos": "verb",
+            "meaning_zh": "到期"
+          },
+          "phrases": [],
+          "example": {
+            "en": "After Mr. Robinson's contract expired, he looked for a new job.",
+            "zh": "羅賓森先生在合約到期之後尋找新工作。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "terminate",
+                "ipa": "[ˈtɝməˌnet]",
+                "meaning_zh": "結束，終止"
+              },
+              {
+                "word": "lapse",
+                "ipa": "[læps]",
+                "meaning_zh": "期滿終止"
+              }
+            ],
+            "noun": [
+              {
+                "word": "expiration",
+                "ipa": "[ˌɛkspəˈreʃən]",
+                "meaning_zh": "到期，期滿"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 30,
+          "headword": {
+            "word": "notify",
+            "ipa": "[ˈnotəˌfaɪ]",
+            "pos": "verb",
+            "meaning_zh": "通知，告知"
+          },
+          "phrases": [
+            {
+              "phrase": "notify A about/of B",
+              "meaning_zh": "通知 A 關於 B 的事"
+            }
+          ],
+          "example": {
+            "en": "The personnel department notified the staff about the change in working hours.",
+            "zh": "人事部門通知員工，工時變動一事。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "inform",
+                "ipa": "[ɪnˈfɔrm]",
+                "meaning_zh": "通知，告知"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "8-9",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 31,
+          "headword": {
+            "word": "calculate",
+            "ipa": "[ˈkælkjəˌlet]",
+            "pos": "verb",
+            "meaning_zh": "計算；推測"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Let us calculate the value of your house and land.",
+            "zh": "我們來算算你的房子跟土地值多少錢。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "compute",
+                "ipa": "[kəmˈpjut]",
+                "meaning_zh": "計算；推算"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 32,
+          "headword": {
+            "word": "estimate",
+            "ipa": "[ˈɛstəˌmet] / [ˈɛstəmət]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 估計；估價 / 名 估計；估價"
+          },
+          "phrases": [],
+          "example": {
+            "en": "It's difficult to estimate the results of the marketing survey in advance.",
+            "zh": "很難事先估算出市場調查的結果。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "reckon",
+                "ipa": "[ˈrɛkən]",
+                "meaning_zh": "計算；猜想"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 33,
+          "headword": {
+            "word": "earn",
+            "ipa": "[ɝn]",
+            "pos": "verb",
+            "meaning_zh": "賺取金錢；獲得"
+          },
+          "phrases": [
+            {
+              "phrase": "earn a living",
+              "meaning_zh": "維生"
+            }
+          ],
+          "example": {
+            "en": "This savings account earns over 3 percent interest on deposited funds.",
+            "zh": "這個儲蓄帳戶的存款利率超過 3%。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "earnings",
+                "ipa": "[ˈɝnɪŋz]",
+                "meaning_zh": "薪水；利潤"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 34,
+          "headword": {
+            "word": "afford",
+            "ipa": "[əˈfɔrd]",
+            "pos": "verb",
+            "meaning_zh": "負擔，買得起"
+          },
+          "phrases": [
+            {
+              "phrase": "afford to + V",
+              "meaning_zh": "有餘力或金錢做…"
+            }
+          ],
+          "example": {
+            "en": "We can't afford to buy a house now.",
+            "zh": "我們現在買不起一間房子。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "affordable",
+                "ipa": "[əˈfɔrdəbəl]",
+                "meaning_zh": "買得起的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 35,
+          "headword": {
+            "word": "donate",
+            "ipa": "[ˈdonet]",
+            "pos": "verb",
+            "meaning_zh": "捐贈，捐獻"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The firm donated proceeds from the event to a children's charity.",
+            "zh": "公司把這場活動的收入捐給一間兒童慈善機構。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "contribute",
+                "ipa": "[kənˈtrɪbjut]",
+                "meaning_zh": "貢獻，捐獻"
+              }
+            ],
+            "noun": [
+              {
+                "word": "donation",
+                "ipa": "[doˈneʃən]",
+                "meaning_zh": "捐款，捐贈"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 36,
+          "headword": {
+            "word": "hire",
+            "ipa": "[haɪr]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 雇用；租用 / 名 新進員工"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The PR department hired a new clerk to do administrative duties.",
+            "zh": "公關部門雇用了一名新職員處理行政業務。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "employ",
+                "ipa": "[ɪmˈplɔɪ]",
+                "meaning_zh": "雇用"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 37,
+          "headword": {
+            "word": "launch",
+            "ipa": "[lɔntʃ]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 推出；發起 / 名 推出；發行"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The corporation launched its new product with commercials on the major networks.",
+            "zh": "這家公司推出了新產品，並在主流電視台打廣告。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "commence",
+                "ipa": "[kəˈmɛns]",
+                "meaning_zh": "開始；著手進行"
+              },
+              {
+                "word": "embark on...",
+                "meaning_zh": "開始，著手進行…"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 38,
+          "headword": {
+            "word": "prove",
+            "ipa": "[pruv]",
+            "pos": "verb",
+            "meaning_zh": "證明，證實"
+          },
+          "phrases": [
+            {
+              "phrase": "prove to be A",
+              "meaning_zh": "證明是 A"
+            }
+          ],
+          "example": {
+            "en": "The annual report proved to be false.",
+            "zh": "結果證實這份年度報告是假的。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "validate",
+                "ipa": "[ˈvæləˌdet]",
+                "meaning_zh": "證實；認可"
+              },
+              {
+                "word": "verify",
+                "ipa": "[ˈvɛrəˌfaɪ]",
+                "meaning_zh": "證明，證實"
+              }
+            ],
+            "noun": [
+              {
+                "word": "proof",
+                "ipa": "[pruf]",
+                "meaning_zh": "證據，證物"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 39,
+          "headword": {
+            "word": "display",
+            "ipa": "[dɪˈsple]",
+            "pos": "verb",
+            "meaning_zh": "陳列，展出"
+          },
+          "phrases": [],
+          "example": {
+            "en": "This year's models are displayed in the window.",
+            "zh": "今年的模型在櫥窗中展示。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "exhibit",
+                "ipa": "[ɪgˈzɪbɪt]",
+                "meaning_zh": "展出，展覽"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 40,
+          "headword": {
+            "word": "celebrate",
+            "ipa": "[ˈsɛləˌbret]",
+            "pos": "verb",
+            "meaning_zh": "慶祝，祝賀"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The candidate celebrated with his supporters after the victory.",
+            "zh": "那位候選人勝選之後和他的支持者一起慶祝。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "commemorate",
+                "ipa": "[kəˈmɛməˌret]",
+                "meaning_zh": "紀念，緬懷"
+              },
+              {
+                "word": "toast",
+                "ipa": "[tost]",
+                "meaning_zh": "舉杯祝賀"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "celebrated",
+                "ipa": "[ˈsɛləˌbretɪd]",
+                "meaning_zh": "著名的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "10-11",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 41,
+          "headword": {
+            "word": "replace",
+            "ipa": "[rɪˈples]",
+            "pos": "verb",
+            "meaning_zh": "取代；更換"
+          },
+          "phrases": [
+            {
+              "phrase": "replace A with B",
+              "meaning_zh": "用 B 取代 A"
+            }
+          ],
+          "example": {
+            "en": "I was asked to replace Ms. Moss as host of the annual event.",
+            "zh": "我受託代替摩絲小姐擔任年度活動的主持人。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "substitute",
+                "ipa": "[ˈsʌbstəˌtjut]",
+                "meaning_zh": "替代"
+              },
+              {
+                "word": "exchange",
+                "ipa": "[ɪksˈtʃendʒ]",
+                "meaning_zh": "交換；交流"
+              }
+            ],
+            "noun": [
+              {
+                "word": "replacement",
+                "ipa": "[rɪˈplesmənt]",
+                "meaning_zh": "更換；代理"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 42,
+          "headword": {
+            "word": "adjust",
+            "ipa": "[əˈdʒʌst]",
+            "pos": "verb",
+            "meaning_zh": "適應；調整"
+          },
+          "phrases": [
+            {
+              "phrase": "adjust to A",
+              "meaning_zh": "適應 A"
+            },
+            {
+              "phrase": "adjust A to B",
+              "meaning_zh": "將 A 調整成 B"
+            }
+          ],
+          "example": {
+            "en": "The employees were unable to adjust to the strict working conditions.",
+            "zh": "這批員工沒辦法適應嚴苛的工作環境。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "adjustable",
+                "ipa": "[əˈdʒʌstəbəl]",
+                "meaning_zh": "可調整的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 43,
+          "headword": {
+            "word": "fix",
+            "ipa": "[fɪks]",
+            "pos": "verb",
+            "meaning_zh": "修理；固定"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We must fix the projector before the presentation.",
+            "zh": "我們必須在簡報開始前修理好投影機。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "repair",
+                "ipa": "[rɪˈpɛr]",
+                "meaning_zh": "修理，修補"
+              },
+              {
+                "word": "mend",
+                "ipa": "[mɛnd]",
+                "meaning_zh": "修理；縫補"
+              },
+              {
+                "word": "restore",
+                "ipa": "[rɪˈstor]",
+                "meaning_zh": "修復，復原"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 44,
+          "headword": {
+            "word": "cause",
+            "ipa": "[kɔz]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 造成；導致 / 名 原因；理由"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We apologize for the inconvenience caused by this delay.",
+            "zh": "對於此次延誤造成的不便，我們深感抱歉。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "bring about...",
+                "meaning_zh": "引起…；導致…"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 45,
+          "headword": {
+            "word": "guarantee",
+            "ipa": "[ˌgærənˈti]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 保證，擔保 / 名 保證；抵押品"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The president guaranteed wage increases in his video message.",
+            "zh": "董事長在影片中保證會調漲薪資。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "warrant",
+                "ipa": "[ˈwɔrənt]",
+                "meaning_zh": "保證，擔保"
+              },
+              {
+                "word": "pledge",
+                "ipa": "[plɛdʒ]",
+                "meaning_zh": "保證；發誓"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 46,
+          "headword": {
+            "word": "update",
+            "ipa": "[ʌpˈdet] / [ˈʌpdet]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 更新，升級 / 名 最新消息"
+          },
+          "phrases": [],
+          "example": {
+            "en": "It's a good idea to frequently update your computer system to avoid viruses.",
+            "zh": "時常更新電腦系統來防範病毒是個好主意。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "upgrade",
+                "ipa": "[ˈʌpgred]",
+                "meaning_zh": "升級"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 47,
+          "headword": {
+            "word": "describe",
+            "ipa": "[dɪˈskraɪb]",
+            "pos": "verb",
+            "meaning_zh": "描述，描寫"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Sara described the product in detail to the client.",
+            "zh": "莎拉向客戶鉅細靡遺地介紹產品。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "depict",
+                "ipa": "[dɪˈpɪkt]",
+                "meaning_zh": "描述，描畫"
+              }
+            ],
+            "noun": [
+              {
+                "word": "description",
+                "ipa": "[dɪˈskrɪpʃən]",
+                "meaning_zh": "描述，描寫"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 48,
+          "headword": {
+            "word": "instruct",
+            "ipa": "[ɪnˈstrʌkt]",
+            "pos": "verb",
+            "meaning_zh": "指示；指導"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The boss instructed me to bring the client to a nearby cafe.",
+            "zh": "老闆吩咐我帶客戶去附近的一間咖啡廳。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "instruction",
+                "ipa": "[ɪnˈstrʌkʃən]",
+                "meaning_zh": "指示；指導"
+              },
+              {
+                "word": "instructor",
+                "ipa": "[ɪnˈstrʌktɚ]",
+                "meaning_zh": "教練；教師"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 49,
+          "headword": {
+            "word": "address",
+            "ipa": "[əˈdrɛs]",
+            "pos": "verb",
+            "meaning_zh": "處理；致詞"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Her team laid out a plan to address falling sales at the firm.",
+            "zh": "她的團隊展開一項計畫來處理公司業績下滑的問題。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "tackle",
+                "ipa": "[ˈtækəl]",
+                "meaning_zh": "處理；交涉"
+              },
+              {
+                "word": "deal with...",
+                "meaning_zh": "處理…；應付…"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 50,
+          "headword": {
+            "word": "resolve",
+            "ipa": "[rɪˈzɑlv]",
+            "pos": "verb",
+            "meaning_zh": "解決；決心"
+          },
+          "phrases": [
+            {
+              "phrase": "resolve to + V",
+              "meaning_zh": "下定決心去做某事"
+            }
+          ],
+          "example": {
+            "en": "Here are some tips to resolve conflicts at work.",
+            "zh": "這裡有幾個解決職場衝突的小秘訣。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "resolution",
+                "ipa": "[ˌrɛzəˈluʃən]",
+                "meaning_zh": "決心；決議"
+              }
+            ],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "12-13",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 51,
+          "headword": {
+            "word": "conclude",
+            "ipa": "[kənˈklud]",
+            "pos": "verb",
+            "meaning_zh": "作出結論；結束"
+          },
+          "phrases": [
+            {
+              "phrase": "conclude (that)...",
+              "meaning_zh": "結論是…"
+            }
+          ],
+          "example": {
+            "en": "The company concluded it would cut labor costs by 20%.",
+            "zh": "公司最終決定削減 20% 的人力成本。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "conclusion",
+                "ipa": "[kənˈkluʒən]",
+                "meaning_zh": "結論；結果"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 52,
+          "headword": {
+            "word": "convince",
+            "ipa": "[kənˈvɪns]",
+            "pos": "verb",
+            "meaning_zh": "說服，使人信服"
+          },
+          "phrases": [
+            {
+              "phrase": "convince A of B",
+              "meaning_zh": "說服 A 相信 B"
+            },
+            {
+              "phrase": "convince A to + V",
+              "meaning_zh": "說服 A 做某事"
+            }
+          ],
+          "example": {
+            "en": "We'll need time to convince the boss of our new plan.",
+            "zh": "我們需要花時間說服老闆採納我們的新計畫。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "persuade",
+                "ipa": "[pɚˈswed]",
+                "meaning_zh": "說服；勸服"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "convincing",
+                "ipa": "[kənˈvɪnsɪŋ]",
+                "meaning_zh": "有說服力的，讓人信服的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 53,
+          "headword": {
+            "word": "determine",
+            "ipa": "[dɪˈtɝmɪn]",
+            "pos": "verb",
+            "meaning_zh": "決定；下定決心"
+          },
+          "phrases": [
+            {
+              "phrase": "be determined to + V",
+              "meaning_zh": "決心要做某事"
+            }
+          ],
+          "example": {
+            "en": "The management committee determines departmental policy.",
+            "zh": "管理階層決定各部門政策。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "determination",
+                "ipa": "[dɪˌtɝməˈneʃən]",
+                "meaning_zh": "決心；毅力"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 54,
+          "headword": {
+            "word": "insist",
+            "ipa": "[ɪnˈsɪst]",
+            "pos": "verb",
+            "meaning_zh": "堅持；堅決主張"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The manager insisted that the client accept the gift.",
+            "zh": "經理堅持要客戶收下禮物。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "insistent",
+                "ipa": "[ɪnˈsɪstənt]",
+                "meaning_zh": "堅持的；堅決的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 55,
+          "headword": {
+            "word": "ensure",
+            "ipa": "[ɪnˈʃʊr]",
+            "pos": "verb",
+            "meaning_zh": "確保，保證"
+          },
+          "phrases": [
+            {
+              "phrase": "ensure that...",
+              "meaning_zh": "確保…"
+            }
+          ],
+          "example": {
+            "en": "The company's careful preparations ensured its success.",
+            "zh": "公司小心翼翼的準備工作確保了其成功。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "insure",
+                "ipa": "[ɪnˈʃʊr]",
+                "meaning_zh": "承保；投保"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 56,
+          "headword": {
+            "word": "quote",
+            "ipa": "[kwot]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 引用；報價 / 名 引文；報價"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The author began his speech by quoting a famous historian.",
+            "zh": "作者引用一位有名的歷史學家的話做為演講的開場白。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "cite",
+                "ipa": "[saɪt]",
+                "meaning_zh": "引用；表揚"
+              }
+            ],
+            "noun": [
+              {
+                "word": "quotation",
+                "ipa": "[kwoˈteʃən]",
+                "meaning_zh": "引用；報價單"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 57,
+          "headword": {
+            "word": "realize",
+            "ipa": "[ˈrɪəˌlaɪz]",
+            "pos": "verb",
+            "meaning_zh": "實現；明白"
+          },
+          "phrases": [
+            {
+              "phrase": "realize a dream",
+              "meaning_zh": "實現夢想"
+            },
+            {
+              "phrase": "realize a risk",
+              "meaning_zh": "明白風險"
+            }
+          ],
+          "example": {
+            "en": "Dave finally realized his lifelong ambition to become a lawyer.",
+            "zh": "戴夫終於實現當律師的人生志業。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "realization",
+                "ipa": "[ˌrɪələˈzeʃən]",
+                "meaning_zh": "實現；明白"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 58,
+          "headword": {
+            "word": "achieve",
+            "ipa": "[əˈtʃiv]",
+            "pos": "verb",
+            "meaning_zh": "達成；實現"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our company achieved a record amount of sales last quarter.",
+            "zh": "我們公司上一季的銷售額創歷史新高。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "accomplish",
+                "ipa": "[əˈkɑmplɪʃ]",
+                "meaning_zh": "完成；實現"
+              },
+              {
+                "word": "attain",
+                "ipa": "[əˈten]",
+                "meaning_zh": "實現；獲得"
+              }
+            ],
+            "noun": [
+              {
+                "word": "achievement",
+                "ipa": "[əˈtʃivmənt]",
+                "meaning_zh": "成就；功績"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 59,
+          "headword": {
+            "word": "fulfill",
+            "ipa": "[fʊlˈfɪl]",
+            "pos": "verb",
+            "meaning_zh": "履行；實現"
+          },
+          "phrases": [
+            {
+              "phrase": "fulfill a promise",
+              "meaning_zh": "履行承諾"
+            }
+          ],
+          "example": {
+            "en": "The CEO fulfilled his promise to cut operating costs by 15%.",
+            "zh": "執行長履行諾言，削減了 15% 的營運成本。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "fulfillment",
+                "ipa": "[fʊlˈfɪlmənt]",
+                "meaning_zh": "完成；實現"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 60,
+          "headword": {
+            "word": "conduct",
+            "ipa": "[kənˈdʌkt]",
+            "pos": "verb",
+            "meaning_zh": "進行；指揮"
+          },
+          "phrases": [
+            {
+              "phrase": "conduct a survey",
+              "meaning_zh": "進行調查"
+            },
+            {
+              "phrase": "conduct an orchestra",
+              "meaning_zh": "指揮管弦樂團"
+            }
+          ],
+          "example": {
+            "en": "It was decided that our team would conduct the series of surveys.",
+            "zh": "後來決定由我們團隊進行一系列的調查。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "conductor",
+                "ipa": "[kənˈdʌktɚ]",
+                "meaning_zh": "管樂團指揮"
+              }
+            ],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "14-15",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 61,
+          "headword": {
+            "word": "recognize",
+            "ipa": "[ˈrɛkəgˌnaɪz]",
+            "pos": "verb",
+            "meaning_zh": "認可；認出；表揚"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Tim got a promotion because his hard work was recognized.",
+            "zh": "提姆能升遷是因為他認真工作的態度得到了認同。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "acknowledge",
+                "ipa": "[əkˈnɑlɪdʒ]",
+                "meaning_zh": "承認；認可"
+              },
+              {
+                "word": "distinguish",
+                "ipa": "[dɪˈstɪŋgwɪʃ]",
+                "meaning_zh": "區別；分辨"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 62,
+          "headword": {
+            "word": "admire",
+            "ipa": "[ədˈmaɪr]",
+            "pos": "verb",
+            "meaning_zh": "欣賞，欽佩"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Mr. Warner admires those who work hard to make a living.",
+            "zh": "華納先生很欣賞認真工作謀生的人。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "respect",
+                "ipa": "[rɪˈspɛkt]",
+                "meaning_zh": "尊重，敬重"
+              },
+              {
+                "word": "esteem",
+                "ipa": "[ɪsˈtim]",
+                "meaning_zh": "尊重，敬重"
+              }
+            ],
+            "noun": [
+              {
+                "word": "admiration",
+                "ipa": "[ˌædməˈreʃən]",
+                "meaning_zh": "欣賞，欽佩"
+              },
+              {
+                "word": "admirer",
+                "ipa": "[ədˈmaɪrɚ]",
+                "meaning_zh": "仰慕者，支持者"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 63,
+          "headword": {
+            "word": "fascinate",
+            "ipa": "[ˈfæsnˌet]",
+            "pos": "verb",
+            "meaning_zh": "令人著迷；吸引"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The private life of the famous CEO fascinates the public.",
+            "zh": "那位名執行長的私生活為大眾津津樂道。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "enchant",
+                "ipa": "[ɪnˈtʃænt]",
+                "meaning_zh": "使陶醉；使入迷"
+              },
+              {
+                "word": "attract",
+                "ipa": "[əˈtrækt]",
+                "meaning_zh": "吸引；引起"
+              },
+              {
+                "word": "entice",
+                "ipa": "[ɪnˈtaɪs]",
+                "meaning_zh": "引誘；誘使"
+              }
+            ],
+            "noun": [
+              {
+                "word": "fascination",
+                "ipa": "[ˌfæsnˈeʃən]",
+                "meaning_zh": "著迷"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 64,
+          "headword": {
+            "word": "boast",
+            "ipa": "[bost]",
+            "pos": "verb",
+            "meaning_zh": "誇耀；自豪擁有"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our company boasts a wide range of products and services.",
+            "zh": "我們公司以擁有多種產品和服務為傲。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "be proud of...",
+                "meaning_zh": "引以為傲；感到光榮"
+              },
+              {
+                "word": "brag",
+                "ipa": "[bræg]",
+                "meaning_zh": "吹牛；自誇"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 65,
+          "headword": {
+            "word": "postpone",
+            "ipa": "[postˈpon]",
+            "pos": "verb",
+            "meaning_zh": "延期，延緩"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The annual budget meeting has been postponed until next week.",
+            "zh": "年度預算會議被延到下週舉行。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "put off...",
+                "meaning_zh": "延遲…；拖延…"
+              },
+              {
+                "word": "procrastinate",
+                "ipa": "[proˈkræstəˌnet]",
+                "meaning_zh": "耽擱；拖延"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 66,
+          "headword": {
+            "word": "participate",
+            "ipa": "[pɑrˈtɪsəˌpet]",
+            "pos": "verb",
+            "meaning_zh": "參與，參加"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Many employees participated in Dr. Ayala's lecture on the latest design trends.",
+            "zh": "很多員工參加了阿亞拉博士探討最新設計趨勢的講座。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "join",
+                "ipa": "[dʒɔɪn]",
+                "meaning_zh": "參加；加入"
+              },
+              {
+                "word": "take part in...",
+                "meaning_zh": "參加…；出席…"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 67,
+          "headword": {
+            "word": "locate",
+            "ipa": "[ˈloket]",
+            "pos": "verb",
+            "meaning_zh": "定位；坐落於…"
+          },
+          "phrases": [],
+          "example": {
+            "en": "After the database crashed, the systems engineer located the source of the error.",
+            "zh": "資料庫當機之後，系統工程師找到了出錯的源頭。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "spot",
+                "ipa": "[spɑt]",
+                "meaning_zh": "看見；出現"
+              }
+            ],
+            "noun": [
+              {
+                "word": "location",
+                "ipa": "[loˈkeʃən]",
+                "meaning_zh": "地點；位置"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 68,
+          "headword": {
+            "word": "enclose",
+            "ipa": "[ɪnˈkloz]",
+            "pos": "verb",
+            "meaning_zh": "隨信附上；包圍"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Please enclose your résumé with the application and send it to our office.",
+            "zh": "請在求職信中附上您的履歷寄到本辦公室。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "enclosure",
+                "ipa": "[ɪnˈkloʒɚ]",
+                "meaning_zh": "信函附件"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 69,
+          "headword": {
+            "word": "include",
+            "ipa": "[ɪnˈklud]",
+            "pos": "verb",
+            "meaning_zh": "包含"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The budget includes financing for our planned expansion into India.",
+            "zh": "這筆預算包含我們計劃拓展印度市場的資金。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "inclusive",
+                "ipa": "[ɪnˈklusɪv]",
+                "meaning_zh": "包括在內的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 70,
+          "headword": {
+            "word": "consent",
+            "ipa": "[kənˈsɛnt]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 同意；許可 / 名 同意；承諾"
+          },
+          "phrases": [
+            {
+              "phrase": "consent to A",
+              "meaning_zh": "同意 A"
+            },
+            {
+              "phrase": "consent to + V",
+              "meaning_zh": "同意做某事"
+            }
+          ],
+          "example": {
+            "en": "She has consented to the terms of the contract.",
+            "zh": "她已同意合約條款。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "agree",
+                "ipa": "[əˈgri]",
+                "meaning_zh": "達成協議；意見一致"
+              },
+              {
+                "word": "assent",
+                "ipa": "[əˈsɛnt]",
+                "meaning_zh": "同意；贊成"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "16-17",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 71,
+          "headword": {
+            "word": "permit",
+            "ipa": "[pɚˈmɪt] / [ˈpɝmɪt]",
+            "pos": [
+              "verb",
+              "noun"
+            ],
+            "meaning_zh": "動 允許，准許 / 名 許可證"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The new agreement permits both parties to sell each other's goods.",
+            "zh": "新協議准許雙方販售彼此的商品。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "allow",
+                "ipa": "[əˈlaʊ]",
+                "meaning_zh": "允許，准許"
+              },
+              {
+                "word": "grant",
+                "ipa": "[grænt]",
+                "meaning_zh": "官方允許；同意"
+              }
+            ],
+            "noun": [
+              {
+                "word": "permission",
+                "ipa": "[pɚˈmɪʃən]",
+                "meaning_zh": "准許，許可"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 72,
+          "headword": {
+            "word": "wonder",
+            "ipa": "[ˈwʌndɚ]",
+            "pos": "verb",
+            "meaning_zh": "想知道；納悶"
+          },
+          "phrases": [
+            {
+              "phrase": "I was wondering if you could...",
+              "meaning_zh": "我在想您是否方便…"
+            }
+          ],
+          "example": {
+            "en": "I wondered how long it would take for us to reach an agreement.",
+            "zh": "我很納悶要多久才能取得共識。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "ponder",
+                "ipa": "[ˈpɑndɚ]",
+                "meaning_zh": "仔細考慮，衡量"
+              },
+              {
+                "word": "speculate",
+                "ipa": "[ˈspɛkjəˌlet]",
+                "meaning_zh": "沉思；推測"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 73,
+          "headword": {
+            "word": "quit",
+            "ipa": "[kwɪt]",
+            "pos": "verb",
+            "meaning_zh": "辭職；停止"
+          },
+          "phrases": [
+            {
+              "phrase": "quit a job",
+              "meaning_zh": "辭掉工作"
+            },
+            {
+              "phrase": "quit smoking",
+              "meaning_zh": "戒菸"
+            }
+          ],
+          "example": {
+            "en": "Frieda quit her job as a receptionist to attend business school full-time.",
+            "zh": "芙蕾達辭掉櫃台接待人員的工作，去商學院讀書了。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "cease",
+                "ipa": "[sis]",
+                "meaning_zh": "停止；中止"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 74,
+          "headword": {
+            "word": "avoid",
+            "ipa": "[əˈvɔɪd]",
+            "pos": "verb",
+            "meaning_zh": "避免；逃避"
+          },
+          "phrases": [
+            {
+              "phrase": "avoid + V-ing",
+              "meaning_zh": "避免做某事"
+            }
+          ],
+          "example": {
+            "en": "You can avoid eye strain and stress by taking a break every hour.",
+            "zh": "每小時休息一次即可避免眼睛疲勞與壓力。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "evade",
+                "ipa": "[ɪˈved]",
+                "meaning_zh": "逃避；逃稅"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 75,
+          "headword": {
+            "word": "miss",
+            "ipa": "[mɪs]",
+            "pos": "verb",
+            "meaning_zh": "錯過；想念"
+          },
+          "phrases": [
+            {
+              "phrase": "miss a deadline",
+              "meaning_zh": "錯過截止日期"
+            },
+            {
+              "phrase": "I'll miss you.",
+              "meaning_zh": "我會想念你的。"
+            }
+          ],
+          "example": {
+            "en": "Jason almost missed the project deadline, since he fell behind.",
+            "zh": "因為進度落後的緣故，傑森差點趕不上企劃案截止日期。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 76,
+          "headword": {
+            "word": "affect",
+            "ipa": "[əˈfɛkt]",
+            "pos": "verb",
+            "meaning_zh": "影響；打動"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Inflation affects the buying power of the dollar.",
+            "zh": "通貨膨脹會影響美元的購買力。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "affection",
+                "ipa": "[əˈfɛkʃən]",
+                "meaning_zh": "喜愛；疼愛"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "affectionate",
+                "ipa": "[əˈfɛkʃənɪt]",
+                "meaning_zh": "深情的；有愛心的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 77,
+          "headword": {
+            "word": "prevent",
+            "ipa": "[prɪˈvɛnt]",
+            "pos": "verb",
+            "meaning_zh": "妨礙；預防"
+          },
+          "phrases": [
+            {
+              "phrase": "prevent A from + V-ing",
+              "meaning_zh": "妨礙 A 做某事"
+            }
+          ],
+          "example": {
+            "en": "Bad weather prevented us from going on the company picnic.",
+            "zh": "由於天候不佳，公司的野餐活動無法舉辦。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "obstruct",
+                "ipa": "[əbˈstrʌkt]",
+                "meaning_zh": "妨礙；阻止"
+              },
+              {
+                "word": "deter",
+                "ipa": "[dɪˈtɝ]",
+                "meaning_zh": "制止；威懾"
+              },
+              {
+                "word": "hamper",
+                "ipa": "[ˈhæmpɚ]",
+                "meaning_zh": "妨礙"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 78,
+          "headword": {
+            "word": "prohibit",
+            "ipa": "[prəˈhɪbɪt]",
+            "pos": "verb",
+            "meaning_zh": "禁止，阻止"
+          },
+          "phrases": [
+            {
+              "phrase": "prohibit A from + V-ing",
+              "meaning_zh": "禁止 A 做某事"
+            }
+          ],
+          "example": {
+            "en": "Visitors are prohibited from using flash photography inside the cathedral.",
+            "zh": "遊客禁止在大教堂內使用閃光燈拍照。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "prohibition",
+                "ipa": "[ˌproəˈbɪʃən]",
+                "meaning_zh": "禁止，禁令"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 79,
+          "headword": {
+            "word": "restrict",
+            "ipa": "[rɪˈstrɪkt]",
+            "pos": "verb",
+            "meaning_zh": "限制；約束"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Question and answer sessions are restricted to 20 minutes.",
+            "zh": "問答時間限制為 20 分鐘。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "confine",
+                "ipa": "[kənˈfaɪn]",
+                "meaning_zh": "限制；侷限"
+              },
+              {
+                "word": "limit",
+                "ipa": "[ˈlɪmɪt]",
+                "meaning_zh": "限制；上限"
+              },
+              {
+                "word": "curb",
+                "ipa": "[kɝb]",
+                "meaning_zh": "控制；抑制；約束"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 80,
+          "headword": {
+            "word": "hesitate",
+            "ipa": "[ˈhɛzəˌtet]",
+            "pos": "verb",
+            "meaning_zh": "猶豫，躊躇"
+          },
+          "phrases": [
+            {
+              "phrase": "hesitate to + V",
+              "meaning_zh": "猶豫做某事"
+            }
+          ],
+          "example": {
+            "en": "The boss didn't hesitate to give his approval of the new plan.",
+            "zh": "老闆毫不猶豫地准許了新計畫。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "hesitation",
+                "ipa": "[ˌhɛzəˈteʃən]",
+                "meaning_zh": "猶豫，躊躇"
+              }
+            ],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "18-19",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 81,
+          "headword": {
+            "word": "disturb",
+            "ipa": "[dɪsˈtɝb]",
+            "pos": "verb",
+            "meaning_zh": "打斷，干擾"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The secretary's work was disturbed by constant phone calls.",
+            "zh": "秘書的工作被響不停的電話頻頻打斷。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "interrupt",
+                "ipa": "[ˌɪntəˈrʌpt]",
+                "meaning_zh": "打斷他人說話；暫時停止"
+              },
+              {
+                "word": "hinder",
+                "ipa": "[ˈhɪndɚ]",
+                "meaning_zh": "妨礙，阻礙"
+              }
+            ],
+            "noun": [
+              {
+                "word": "disturbance",
+                "ipa": "[dɪsˈtɝbəns]",
+                "meaning_zh": "干擾；騷亂"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 82,
+          "headword": {
+            "word": "neglect",
+            "ipa": "[nɪgˈlɛkt]",
+            "pos": "verb",
+            "meaning_zh": "忘記；忽視"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The secretary neglected to return the client's call.",
+            "zh": "秘書忘記回電給客戶。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "ignore",
+                "ipa": "[ɪgˈnor]",
+                "meaning_zh": "忽視；不理會"
+              },
+              {
+                "word": "disregard",
+                "ipa": "[ˌdɪsrɪˈgɑrd]",
+                "meaning_zh": "忽視；無視"
+              }
+            ],
+            "noun": [
+              {
+                "word": "negligence",
+                "ipa": "[ˈnɛglɪdʒəns]",
+                "meaning_zh": "過失；疏忽"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "negligent",
+                "ipa": "[ˈnɛglɪdʒənt]",
+                "meaning_zh": "失職的；疏忽的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 83,
+          "headword": {
+            "word": "decline",
+            "ipa": "[dɪˈklaɪn]",
+            "pos": "verb",
+            "meaning_zh": "拒絕；減少"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Janet politely declined my offer to help her move.",
+            "zh": "珍妮特婉拒了我幫她搬家的提議。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "refuse",
+                "ipa": "[rɪˈfjuz]",
+                "meaning_zh": "拒絕，回絕"
+              },
+              {
+                "word": "reject",
+                "ipa": "[rɪˈdʒɛkt]",
+                "meaning_zh": "拒絕，駁回"
+              },
+              {
+                "word": "turn down...",
+                "meaning_zh": "拒絕…，駁回…"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 84,
+          "headword": {
+            "word": "withdraw",
+            "ipa": "[wɪðˈdrɔ]",
+            "pos": "verb",
+            "meaning_zh": "收回；提款"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Chloe withdrew her application for employment with the trading company.",
+            "zh": "克蘿伊撤回了進入那間貿易公司工作的申請書。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "remove",
+                "ipa": "[rɪˈmuv]",
+                "meaning_zh": "消除；免職"
+              },
+              {
+                "word": "extract",
+                "ipa": "[ɪkˈstrækt]",
+                "meaning_zh": "抽出；提取"
+              }
+            ],
+            "noun": [
+              {
+                "word": "withdrawal",
+                "ipa": "[wɪðˈdrɔəl]",
+                "meaning_zh": "收回；提款"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 85,
+          "headword": {
+            "word": "recover",
+            "ipa": "[rɪˈkʌvɚ]",
+            "pos": "verb",
+            "meaning_zh": "復原；復甦"
+          },
+          "phrases": [
+            {
+              "phrase": "recover from a crisis",
+              "meaning_zh": "從危機中復原"
+            },
+            {
+              "phrase": "recover a loss",
+              "meaning_zh": "彌補損失"
+            }
+          ],
+          "example": {
+            "en": "Roy has completely recovered from the injuries he received in the accident.",
+            "zh": "羅伊在車禍中受的傷已經完全復原了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "recovery",
+                "ipa": "[rɪˈkʌvərɪ]",
+                "meaning_zh": "康復；復甦"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 86,
+          "headword": {
+            "word": "inspect",
+            "ipa": "[ɪnˈspɛkt]",
+            "pos": "verb",
+            "meaning_zh": "仔細審查；視察"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The health department inspected our restaurant kitchen without prior notice.",
+            "zh": "衛生部門未提前告知便前來視察我們餐廳的廚房。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "examine",
+                "ipa": "[ɪgˈzæmɪn]",
+                "meaning_zh": "檢查；考核"
+              }
+            ],
+            "noun": [
+              {
+                "word": "inspection",
+                "ipa": "[ɪnˈspɛkʃən]",
+                "meaning_zh": "檢查；視察"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 87,
+          "headword": {
+            "word": "protect",
+            "ipa": "[prəˈtɛkt]",
+            "pos": "verb",
+            "meaning_zh": "保護，防護"
+          },
+          "phrases": [
+            {
+              "phrase": "protect A from + V-ing",
+              "meaning_zh": "保護 A 免於…"
+            }
+          ],
+          "example": {
+            "en": "We need to come up with measures to protect our intellectual property.",
+            "zh": "我們需要想出措施來保護我們的智慧財產權。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "safeguard",
+                "ipa": "[ˈsefˌgɑrd]",
+                "meaning_zh": "保護，捍衛"
+              }
+            ],
+            "noun": [
+              {
+                "word": "protection",
+                "ipa": "[prəˈtɛkʃən]",
+                "meaning_zh": "保護"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 88,
+          "headword": {
+            "word": "obey",
+            "ipa": "[əˈbe]",
+            "pos": "verb",
+            "meaning_zh": "遵守；服從"
+          },
+          "phrases": [],
+          "example": {
+            "en": "It's impossible to obey unrealistic demands of the company president.",
+            "zh": "要遵從公司董事長不切實際的要求簡直不可能。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "disobey",
+                "ipa": "[ˌdɪsəˈbe]",
+                "meaning_zh": "不服從；違抗"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "obedient",
+                "ipa": "[əˈbidjənt]",
+                "meaning_zh": "順從的；聽話的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 89,
+          "headword": {
+            "word": "mention",
+            "ipa": "[ˈmɛnʃən]",
+            "pos": "verb",
+            "meaning_zh": "說到，提及"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The president did not mention his retirement plans during his speech.",
+            "zh": "主席未在演講中提到他的退休規劃。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "utter",
+                "ipa": "[ˈʌtɚ]",
+                "meaning_zh": "出聲"
+              },
+              {
+                "word": "remark",
+                "ipa": "[rɪˈmɑrk]",
+                "meaning_zh": "談論；提到"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 90,
+          "headword": {
+            "word": "predict",
+            "ipa": "[prɪˈdɪkt]",
+            "pos": "verb",
+            "meaning_zh": "預測，預料"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The manager predicted the marketing campaign would positively impact sales.",
+            "zh": "經理預測這場行銷活動將為營業額帶來正面的影響。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "forecast",
+                "ipa": "[ˈforkæst]",
+                "meaning_zh": "預測；天氣預報"
+              }
+            ],
+            "noun": [
+              {
+                "word": "prediction",
+                "ipa": "[prɪˈdɪkʃən]",
+                "meaning_zh": "預測，預言"
+              }
+            ],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "20-21",
+      "category": "動詞 (Verbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 91,
+          "headword": {
+            "word": "emphasize",
+            "ipa": "[ˈɛmfəˌsaɪz]",
+            "pos": "verb",
+            "meaning_zh": "強調；重視"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The CEO emphasized the positive aspects of the merger.",
+            "zh": "執行長再三強調企業合併的好處。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "stress",
+                "ipa": "[strɛs]",
+                "meaning_zh": "強調；加重"
+              },
+              {
+                "word": "reiterate",
+                "ipa": "[riˈɪtəˌret]",
+                "meaning_zh": "重申"
+              },
+              {
+                "word": "underscore",
+                "ipa": "[ˌʌndɚˈskor]",
+                "meaning_zh": "劃線強調"
+              }
+            ],
+            "noun": [
+              {
+                "word": "emphasis",
+                "ipa": "[ˈɛmfəsɪs]",
+                "meaning_zh": "強調；重視"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 92,
+          "headword": {
+            "word": "accuse",
+            "ipa": "[əˈkjuz]",
+            "pos": "verb",
+            "meaning_zh": "譴責；指控"
+          },
+          "phrases": [
+            {
+              "phrase": "accuse A of B",
+              "meaning_zh": "以 B 為理由譴責 A"
+            }
+          ],
+          "example": {
+            "en": "The mayor was accused of delaying the decision on the construction.",
+            "zh": "市長遭人譴責拖延建設決策。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "blame",
+                "ipa": "[blem]",
+                "meaning_zh": "責怪；歸咎"
+              },
+              {
+                "word": "condemn",
+                "ipa": "[kənˈdɛm]",
+                "meaning_zh": "譴責；指責"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 93,
+          "headword": {
+            "word": "comprehend",
+            "ipa": "[ˌkɑmprɪˈhɛnd]",
+            "pos": "verb",
+            "meaning_zh": "理解，明白"
+          },
+          "phrases": [],
+          "example": {
+            "en": "It took me a while to comprehend what the boss meant.",
+            "zh": "我花了一段時間才明白老闆的意思。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "grasp",
+                "ipa": "[græsp]",
+                "meaning_zh": "理解"
+              }
+            ],
+            "noun": [
+              {
+                "word": "comprehension",
+                "ipa": "[ˌkɑmprɪˈhɛnʃən]",
+                "meaning_zh": "理解力；領悟力"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 94,
+          "headword": {
+            "word": "settle",
+            "ipa": "[ˈsɛtəl]",
+            "pos": "verb",
+            "meaning_zh": "解決；安排"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The patent dispute between the two companies was settled out of court.",
+            "zh": "兩個公司之間的專利紛爭在庭外取得和解。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "settlement",
+                "ipa": "[ˈsɛtəlmənt]",
+                "meaning_zh": "庭外和解；定居地點"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 95,
+          "headword": {
+            "word": "exceed",
+            "ipa": "[ɪkˈsid]",
+            "pos": "verb",
+            "meaning_zh": "超過，超出"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The profits from the sale exceeded our expectations.",
+            "zh": "銷售利潤超出我們的預期。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "surpass",
+                "ipa": "[sɚˈpæs]",
+                "meaning_zh": "超過；勝過"
+              },
+              {
+                "word": "top",
+                "ipa": "[tɑp]",
+                "meaning_zh": "超過；高過"
+              },
+              {
+                "word": "excel",
+                "ipa": "[ɪkˈsɛl]",
+                "meaning_zh": "勝過，優於"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 96,
+          "headword": {
+            "word": "extend",
+            "ipa": "[ɪkˈstɛnd]",
+            "pos": "verb",
+            "meaning_zh": "延長；擴大"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I'd like to extend my stay until 6 P.M. as I have an evening flight.",
+            "zh": "由於我的班機在傍晚，所以我想延長住宿時間到晚上 6 點。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "prolong",
+                "ipa": "[prəˈlɔŋ]",
+                "meaning_zh": "延長；拖延"
+              }
+            ],
+            "noun": [
+              {
+                "word": "extension",
+                "ipa": "[ɪkˈstɛnʃən]",
+                "meaning_zh": "伸展；延伸"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 97,
+          "headword": {
+            "word": "spread",
+            "ipa": "[sprɛd]",
+            "pos": "verb",
+            "meaning_zh": "傳播；蔓延"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The news about the CEO's departure quickly spread throughout the nation.",
+            "zh": "執行長辭職的消息很快就傳遍了整個國家。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "diffuse",
+                "ipa": "[dɪˈfjuz]",
+                "meaning_zh": "傳播；擴散"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 98,
+          "headword": {
+            "word": "preserve",
+            "ipa": "[prɪˈzɝv]",
+            "pos": "verb",
+            "meaning_zh": "維護；保存"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Big business must also do its part to preserve natural resources.",
+            "zh": "大企業也必須盡責維護自然資源。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "conserve",
+                "ipa": "[kənˈsɝv]",
+                "meaning_zh": "保護，保存"
+              }
+            ],
+            "noun": [
+              {
+                "word": "preservation",
+                "ipa": "[ˌprɛzɚˈveʃən]",
+                "meaning_zh": "維護；保養"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 99,
+          "headword": {
+            "word": "observe",
+            "ipa": "[əbˈzɝv]",
+            "pos": "verb",
+            "meaning_zh": "遵守；監視；觀察"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Workers must observe safety guidelines in the factory.",
+            "zh": "工人必須遵守工廠的安全準則。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "observation",
+                "ipa": "[ˌɑbzɚˈveʃən]",
+                "meaning_zh": "觀察力；觀察報告；監視"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 100,
+          "headword": {
+            "word": "deserve",
+            "ipa": "[dɪˈzɝv]",
+            "pos": "verb",
+            "meaning_zh": "應得；值得"
+          },
+          "phrases": [],
+          "example": {
+            "en": "George has been working hard for years, so he deserves a raise.",
+            "zh": "喬治認真工作了好幾年，加薪是他應得的。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "be worthy of...",
+                "meaning_zh": "值得…"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    }
+  ]
+}

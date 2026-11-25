@@ -1,0 +1,2911 @@
+{
+  "total_sections": 10,
+  "total_entries": 100,
+  "sections": [
+    {
+      "page_range": "130-131",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 191,
+          "headword": {
+            "word": "norm",
+            "ipa": "[nɔrm]",
+            "pos": "noun",
+            "meaning_zh": "水準，基準"
+          },
+          "phrases": [
+            {
+              "phrase": "above/below the norm",
+              "meaning_zh": "高於／低於水準"
+            }
+          ],
+          "example": {
+            "en": "The new salesperson's performance in her first month was above the norm.",
+            "zh": "這名新來的銷售員第一個月的表現高於一般水準。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "standard",
+                "ipa": "[ˈstændərd]",
+                "meaning_zh": "標準，水準"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 192,
+          "headword": {
+            "word": "outreach",
+            "ipa": "[ˈaʊtˌritʃ]",
+            "pos": "noun",
+            "meaning_zh": "拓展；延伸"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I'm in charge of the internship's outreach program to college students.",
+            "zh": "我負責大學生實習的外展服務計畫。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 193,
+          "headword": {
+            "word": "inception",
+            "ipa": "[ɪnˈsɛpʃən]",
+            "pos": "noun",
+            "meaning_zh": "起初，開始"
+          },
+          "phrases": [],
+          "example": {
+            "en": "From its inception, the e-reader gained high market share.",
+            "zh": "電子閱讀器從一開始就獲得相當高的市占率。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "commencement",
+                "ipa": "[kəˈmɛnsmənt]",
+                "meaning_zh": "開始"
+              },
+              {
+                "word": "onset",
+                "ipa": "[ˈɑnˌsɛt]",
+                "meaning_zh": "開始；進攻"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 194,
+          "headword": {
+            "word": "disruption",
+            "ipa": "[dɪsˈrʌpʃən]",
+            "pos": "noun",
+            "meaning_zh": "中斷；擾亂"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Disruption in the power supply sometimes happens in this country.",
+            "zh": "這個國家偶爾會停電。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "discontinuance",
+                "ipa": "[ˌdɪskənˈtɪnjuəns]",
+                "meaning_zh": "中止，廢止"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 195,
+          "headword": {
+            "word": "twist",
+            "ipa": "[twɪst]",
+            "pos": "noun",
+            "meaning_zh": "變化；轉折"
+          },
+          "phrases": [
+            {
+              "phrase": "twists and turns",
+              "meaning_zh": "曲折離奇"
+            }
+          ],
+          "example": {
+            "en": "Restaurant Tan Long offers traditional local dishes with modern twists.",
+            "zh": "壇隆餐廳提供融入現代巧思的當地傳統料理。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 196,
+          "headword": {
+            "word": "realignment",
+            "ipa": "[ˌriəˈlaɪnmənt]",
+            "pos": "noun",
+            "meaning_zh": "重新編制；重新結盟"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The board is discussing a realignment of our company's organization.",
+            "zh": "董事會正在討論公司組織重組。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "realign",
+                "ipa": "[ˌriəˈlaɪn]",
+                "meaning_zh": "重新編制；重新結盟"
+              }
+            ],
+            "noun": [
+              {
+                "word": "restructuring",
+                "ipa": "[riˈstrʌktʃərɪŋ]",
+                "meaning_zh": "重組；調整"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 197,
+          "headword": {
+            "word": "stalemate",
+            "ipa": "[ˈstelˌmet]",
+            "pos": "noun",
+            "meaning_zh": "僵局；膠著"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The CEO's proposal broke the stalemate and the deal was finalized.",
+            "zh": "執行長的提議打破了僵局，交易終於定案。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "deadlock",
+                "ipa": "[ˈdɛdˌlɑk]",
+                "meaning_zh": "僵局；停擺"
+              },
+              {
+                "word": "impasse",
+                "ipa": "[ˈɪmpæs]",
+                "meaning_zh": "僵局；死路"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 198,
+          "headword": {
+            "word": "implication",
+            "ipa": "[ˌɪmpləˈkeʃən]",
+            "pos": "noun",
+            "meaning_zh": "（有可能的）影響；暗示"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The employees are worried about the implications of the planned merger.",
+            "zh": "員工擔心合併計畫所造成的可能影響。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "ramification",
+                "ipa": "[ˌræməfəˈkeʃən]",
+                "meaning_zh": "衍生後果，可能的結果"
+              },
+              {
+                "word": "repercussion",
+                "ipa": "[ˌripɚˈkʌʃən]",
+                "meaning_zh": "惡果，負面影響"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 199,
+          "headword": {
+            "word": "extravaganza",
+            "ipa": "[ɪkˌstrævəˈgænzə]",
+            "pos": "noun",
+            "meaning_zh": "盛大表演，盛會"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Every year before the final match, over-the-top extravaganzas are staged.",
+            "zh": "每年進行總決賽之前，都會先舉行一場浮誇的盛大表演。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "spectacle",
+                "ipa": "[ˈspɛktəkəl]",
+                "meaning_zh": "盛大表演，壯觀場面"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 200,
+          "headword": {
+            "word": "juncture",
+            "ipa": "[ˈdʒʌŋktʃɚ]",
+            "pos": "noun",
+            "meaning_zh": "重要關頭；接合處"
+          },
+          "phrases": [
+            {
+              "phrase": "at this juncture",
+              "meaning_zh": "此刻"
+            }
+          ],
+          "example": {
+            "en": "Our company is now at a critical juncture: whether to stay within the domestic market or expand abroad.",
+            "zh": "我們公司正面臨選擇留守國內市場或進軍海外的重要關頭。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "112-113",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 101,
+          "headword": {
+            "word": "statement",
+            "ipa": "[ˈstetmənt]",
+            "pos": "noun",
+            "meaning_zh": "對帳單；陳述"
+          },
+          "phrases": [
+            {
+              "phrase": "a bank statement",
+              "meaning_zh": "銀行對帳單"
+            },
+            {
+              "phrase": "a mission statement",
+              "meaning_zh": "宗旨說明；職責聲明"
+            }
+          ],
+          "example": {
+            "en": "Customers are encouraged to switch to online statements.",
+            "zh": "鼓勵顧客改用網路對帳單。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "state",
+                "ipa": "[stet]",
+                "meaning_zh": "陳述，說明；聲明"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 102,
+          "headword": {
+            "word": "drive",
+            "ipa": "[draɪv]",
+            "pos": "noun",
+            "meaning_zh": "幹勁；魄力"
+          },
+          "phrases": [
+            {
+              "phrase": "the drive to + V",
+              "meaning_zh": "有衝勁做某事"
+            }
+          ],
+          "example": {
+            "en": "The brokers have the drive to close deals at a very high rate.",
+            "zh": "這群經紀人幹勁十足，迅速完成交易。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "motivation",
+                "ipa": "[ˌmotəˈveʃən]",
+                "meaning_zh": "幹勁；動機"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 103,
+          "headword": {
+            "word": "input",
+            "ipa": "[ˈɪnˌpʊt]",
+            "pos": "noun",
+            "meaning_zh": "投入；輸入"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The president always values helpful input from employees on improving the workplace.",
+            "zh": "董事長總是很重視員工為改善工作環境所提出的意見。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 104,
+          "headword": {
+            "word": "feedback",
+            "ipa": "[ˈfidˌbæk]",
+            "pos": "noun",
+            "meaning_zh": "意見，回饋"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Doctor Bobson provided feedback on the new surgical equipment.",
+            "zh": "鮑伯森醫生為新的手術設備提供了意見回饋。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "response",
+                "ipa": "[rɪˈspɑns]",
+                "meaning_zh": "答覆，回答"
+              },
+              {
+                "word": "comment",
+                "ipa": "[ˈkɑmɛnt]",
+                "meaning_zh": "評論，發表意見"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 105,
+          "headword": {
+            "word": "regulation",
+            "ipa": "[ˌrɛgjəˈleʃən]",
+            "pos": "noun",
+            "meaning_zh": "規定，規則"
+          },
+          "phrases": [
+            {
+              "phrase": "rules and regulations",
+              "meaning_zh": "規定"
+            }
+          ],
+          "example": {
+            "en": "It is against company regulations to wear shorts to work.",
+            "zh": "穿著短褲上班違反公司的規定。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "regulate",
+                "ipa": "[ˈrɛgjəˌlet]",
+                "meaning_zh": "規範；管理"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 106,
+          "headword": {
+            "word": "shortcoming",
+            "ipa": "[ˈʃɔrtˌkʌmɪŋ]",
+            "pos": "noun",
+            "meaning_zh": "缺點，短處"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I think my only shortcoming is a lack of experience in management.",
+            "zh": "我認為我唯一的缺點就是缺乏管理經驗。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "imperfection",
+                "ipa": "[ˌɪmpɚˈfɛkʃən]",
+                "meaning_zh": "缺點；瑕疵"
+              },
+              {
+                "word": "deficiency",
+                "ipa": "[dɪˈfɪʃənsɪ]",
+                "meaning_zh": "缺點；不足"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 107,
+          "headword": {
+            "word": "deficit",
+            "ipa": "[ˈdɛfəsɪt]",
+            "pos": "noun",
+            "meaning_zh": "赤字；不足額"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The state government is now struggling to reduce budget deficits.",
+            "zh": "州政府正努力減少預算赤字。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "shortage",
+                "ipa": "[ˈʃɔrtɪdʒ]",
+                "meaning_zh": "缺少，匱乏"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 108,
+          "headword": {
+            "word": "inconvenience",
+            "ipa": "[ˌɪnkənˈvinjəns]",
+            "pos": "noun",
+            "meaning_zh": "不便；打擾"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Airline staff apologized to passengers for their delayed departure inconvenience.",
+            "zh": "航空公司的員工為航班誤點造成的不便向旅客致歉。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "bother",
+                "ipa": "[ˈbɑðɚ]",
+                "meaning_zh": "麻煩；費心"
+              }
+            ],
+            "noun": [
+              {
+                "word": "trouble",
+                "ipa": "[ˈtrʌbəl]",
+                "meaning_zh": "打擾；麻煩"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 109,
+          "headword": {
+            "word": "fare",
+            "ipa": "[fɛr]",
+            "pos": "noun",
+            "meaning_zh": "（交通）費用；料理"
+          },
+          "phrases": [
+            {
+              "phrase": "air fare",
+              "meaning_zh": "機票費用"
+            },
+            {
+              "phrase": "local fare",
+              "meaning_zh": "當地料理"
+            }
+          ],
+          "example": {
+            "en": "The City-Go Pass provides an easier way to cover daily commuting fares.",
+            "zh": "這張 City-Go 通行票讓大家支付每日通勤費用更方便。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 110,
+          "headword": {
+            "word": "comparison",
+            "ipa": "[kəmˈpærəsn]",
+            "pos": "noun",
+            "meaning_zh": "比較，對照"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The sales manager made a comparison between the two graphs.",
+            "zh": "銷售經理將兩張圖表做比較。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "comparable",
+                "ipa": "[ˈkɑmpərəbəl]",
+                "meaning_zh": "可比較的；比得上的"
+              },
+              {
+                "word": "comparative",
+                "ipa": "[kəmˈpærətɪv]",
+                "meaning_zh": "比較的；相對的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "114-115",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 111,
+          "headword": {
+            "word": "obstacle",
+            "ipa": "[ˈɑbstəkəl]",
+            "pos": "noun",
+            "meaning_zh": "障礙，妨礙"
+          },
+          "phrases": [
+            {
+              "phrase": "an obstacle to A",
+              "meaning_zh": "（造成）A 的障礙"
+            }
+          ],
+          "example": {
+            "en": "Ignorance is an obstacle to progress.",
+            "zh": "無知是進步的絆腳石。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "barrier",
+                "ipa": "[ˈbærɪɚ]",
+                "meaning_zh": "障礙物，妨礙"
+              },
+              {
+                "word": "impediment",
+                "ipa": "[ɪmˈpɛdəmənt]",
+                "meaning_zh": "障礙物，妨礙"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 112,
+          "headword": {
+            "word": "scope",
+            "ipa": "[skop]",
+            "pos": "noun",
+            "meaning_zh": "範圍，領域"
+          },
+          "phrases": [
+            {
+              "phrase": "expand/broaden the scope of A",
+              "meaning_zh": "拓展 A 的範圍"
+            }
+          ],
+          "example": {
+            "en": "Camille's position as quality control manager gives her a broad scope of authority.",
+            "zh": "品管經理一職賦予卡蜜兒很大的權力。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "extent",
+                "ipa": "[ɪkˈstɛnt]",
+                "meaning_zh": "範圍；限度"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 113,
+          "headword": {
+            "word": "portion",
+            "ipa": "[ˈporʃən]",
+            "pos": "noun",
+            "meaning_zh": "一部分；一份"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Beth read only a portion of the contract but signed it anyway.",
+            "zh": "貝絲只讀了一部分的合約，但還是簽了名。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "patch",
+                "ipa": "[pætʃ]",
+                "meaning_zh": "斑塊，補片"
+              },
+              {
+                "word": "segment",
+                "ipa": "[ˈsɛgmənt]",
+                "meaning_zh": "部分；部門"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 114,
+          "headword": {
+            "word": "aspect",
+            "ipa": "[ˈæspɛkt]",
+            "pos": "noun",
+            "meaning_zh": "方面；觀點"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Can you see any negative aspects of the plan?",
+            "zh": "你看得出這項計畫有什麼缺點嗎？"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "facet",
+                "ipa": "[ˈfæsɪt]",
+                "meaning_zh": "方面，部分"
+              },
+              {
+                "word": "angle",
+                "ipa": "[ˈæŋgəl]",
+                "meaning_zh": "角度；觀點"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 115,
+          "headword": {
+            "word": "perception",
+            "ipa": "[pɚˈsɛpʃən]",
+            "pos": "noun",
+            "meaning_zh": "見解，看法"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The president has a clear perception of the company's weakness.",
+            "zh": "董事長對於公司的弱點瞭若指掌。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "perceive",
+                "ipa": "[pɚˈsiv]",
+                "meaning_zh": "認為，看待"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 116,
+          "headword": {
+            "word": "harvest",
+            "ipa": "[ˈhɑrvɪst]",
+            "pos": "noun",
+            "meaning_zh": "收穫，收成"
+          },
+          "phrases": [
+            {
+              "phrase": "a harvest season",
+              "meaning_zh": "收成季節"
+            },
+            {
+              "phrase": "a meager harvest",
+              "meaning_zh": "歉收"
+            }
+          ],
+          "example": {
+            "en": "Thailand had an enormous rice harvest this year.",
+            "zh": "今年泰國稻米大豐收。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "crop",
+                "ipa": "[krɑp]",
+                "meaning_zh": "莊稼，作物"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 117,
+          "headword": {
+            "word": "initiative",
+            "ipa": "[ɪˈnɪʃətɪv]",
+            "pos": "noun",
+            "meaning_zh": "率先；主動"
+          },
+          "phrases": [
+            {
+              "phrase": "take the initiative in + V-ing / to + V",
+              "meaning_zh": "帶頭…，發起…"
+            }
+          ],
+          "example": {
+            "en": "The assistant manager took the initiative in trying to solve the problem.",
+            "zh": "襄理率先嘗試解決問題。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "initiate",
+                "ipa": "[ɪˈnɪʃɪˌet]",
+                "meaning_zh": "開始；創始"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 118,
+          "headword": {
+            "word": "vision",
+            "ipa": "[ˈvɪʒən]",
+            "pos": "noun",
+            "meaning_zh": "遠見，洞察力"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Only Ms. Hanson has the vision and the drive to make the project successful.",
+            "zh": "只有漢森小姐具備促使這項企劃成功的遠見和幹勁。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "foresight",
+                "ipa": "[ˈforˌsaɪt]",
+                "meaning_zh": "遠見；先見之明"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "visible",
+                "ipa": "[ˈvɪzəbəl]",
+                "meaning_zh": "可看見的；引人注目的"
+              },
+              {
+                "word": "visionary",
+                "ipa": "[ˈvɪʒəˌnɛrɪ]",
+                "meaning_zh": "有遠見的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 119,
+          "headword": {
+            "word": "preference",
+            "ipa": "[ˈprɛfərəns]",
+            "pos": "noun",
+            "meaning_zh": "偏愛，偏袒"
+          },
+          "phrases": [
+            {
+              "phrase": "have a preference for A",
+              "meaning_zh": "偏好 A"
+            }
+          ],
+          "example": {
+            "en": "I have no particular preference for drinks.",
+            "zh": "我沒有特別偏好的飲料。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "prefer",
+                "ipa": "[prɪˈfɝ]",
+                "meaning_zh": "較喜歡；寧願"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 120,
+          "headword": {
+            "word": "criterion",
+            "ipa": "[kraɪˈtɪrɪən]",
+            "pos": "noun",
+            "meaning_zh": "標準，準則"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The company has established criteria for employee evaluations.",
+            "zh": "公司制定了員工績效評估標準。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "116-117",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 121,
+          "headword": {
+            "word": "certificate",
+            "ipa": "[sɚˈtɪfɪkət]",
+            "pos": "noun",
+            "meaning_zh": "證明；證書"
+          },
+          "phrases": [],
+          "example": {
+            "en": "In order to receive a Social Security number, you must present your birth certificate.",
+            "zh": "為取得社會安全碼，你必須出示出生證明。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "certify",
+                "ipa": "[ˈsɝtəˌfaɪ]",
+                "meaning_zh": "證明，證實"
+              }
+            ],
+            "noun": [
+              {
+                "word": "license",
+                "ipa": "[ˈlaɪsns]",
+                "meaning_zh": "執照；許可證"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 122,
+          "headword": {
+            "word": "reminder",
+            "ipa": "[rɪˈmaɪndɚ]",
+            "pos": "noun",
+            "meaning_zh": "提醒；提示"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Thank you for your kind reminder.",
+            "zh": "謝謝你的善意提醒。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "remind",
+                "ipa": "[rɪˈmaɪnd]",
+                "meaning_zh": "提醒"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 123,
+          "headword": {
+            "word": "patronage",
+            "ipa": "[ˈpetrənɪdʒ]",
+            "pos": "noun",
+            "meaning_zh": "贊助；惠顧"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The art gallery relies heavily on guest patronage for its operating funds.",
+            "zh": "這間美術館的營運資金極度仰賴訪客的光顧。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "custom",
+                "ipa": "[ˈkʌstəm]",
+                "meaning_zh": "惠顧；光顧"
+              },
+              {
+                "word": "trade",
+                "ipa": "[tred]",
+                "meaning_zh": "顧客；主顧"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 124,
+          "headword": {
+            "word": "acquaintance",
+            "ipa": "[əˈkwentəns]",
+            "pos": "noun",
+            "meaning_zh": "認識的人；熟人"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our CEO prefers to do business with acquaintances and friends.",
+            "zh": "我們執行長比較喜歡跟熟人及朋友做生意。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 125,
+          "headword": {
+            "word": "hospitality",
+            "ipa": "[ˌhɑspɪˈtælətɪ]",
+            "pos": "noun",
+            "meaning_zh": "餐旅業；款待"
+          },
+          "phrases": [
+            {
+              "phrase": "hospitality industry",
+              "meaning_zh": "餐旅業"
+            },
+            {
+              "phrase": "cordial hospitality",
+              "meaning_zh": "盛情款待"
+            }
+          ],
+          "example": {
+            "en": "The resort chain offers exceptional hospitality in over 100 cities worldwide.",
+            "zh": "這座連鎖度假村在世界各地一百多個城市提供優良的餐旅服務。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "hospitable",
+                "ipa": "[hɑˈspɪtəbəl]",
+                "meaning_zh": "好客的；招待周到的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 126,
+          "headword": {
+            "word": "pity",
+            "ipa": "[ˈpɪtɪ]",
+            "pos": "noun",
+            "meaning_zh": "同情，憐惜"
+          },
+          "phrases": [
+            {
+              "phrase": "It's a pity that...",
+              "meaning_zh": "可惜……"
+            }
+          ],
+          "example": {
+            "en": "The CEO had pity for the laid-off workers in the process of downsizing.",
+            "zh": "執行長很同情在組織縮編過程中遭到解雇的員工。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "compassion",
+                "ipa": "[kəmˈpæʃən]",
+                "meaning_zh": "同情，憐惜"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 127,
+          "headword": {
+            "word": "enthusiasm",
+            "ipa": "[ɪnˈθjuziˌæzəm]",
+            "pos": "noun",
+            "meaning_zh": "熱忱；熱心"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Avery performs her job duties with great enthusiasm.",
+            "zh": "艾芙里滿懷熱忱盡忠職守。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "eagerness",
+                "ipa": "[ˈigɚnɪs]",
+                "meaning_zh": "熱心；熱切"
+              },
+              {
+                "word": "zeal",
+                "ipa": "[zil]",
+                "meaning_zh": "熱心；熱誠"
+              },
+              {
+                "word": "passion",
+                "ipa": "[ˈpæʃən]",
+                "meaning_zh": "熱情"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "enthusiastic",
+                "ipa": "[ɪnˌθjuziˈæstɪk]",
+                "meaning_zh": "熱心的；熱情的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 128,
+          "headword": {
+            "word": "quest",
+            "ipa": "[kwɛst]",
+            "pos": "noun",
+            "meaning_zh": "追求；尋求"
+          },
+          "phrases": [
+            {
+              "phrase": "on a quest for A",
+              "meaning_zh": "追求 A；尋求 A"
+            }
+          ],
+          "example": {
+            "en": "The athlete is on a quest for the gold medal at the Olympics.",
+            "zh": "這名運動員想在奧運上得到金牌。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 129,
+          "headword": {
+            "word": "endeavor",
+            "ipa": "[ɪnˈdɛvɚ]",
+            "pos": [
+              "noun",
+              "verb"
+            ],
+            "meaning_zh": "名 努力，盡力 / 動 努力，盡力"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We must make every endeavor to win back our market share.",
+            "zh": "我們必須竭盡全力奪回市占率。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "effort",
+                "ipa": "[ˈɛfɚt]",
+                "meaning_zh": "努力，盡力"
+              },
+              {
+                "word": "exertion",
+                "ipa": "[ɪgˈzɝʃən]",
+                "meaning_zh": "努力"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 130,
+          "headword": {
+            "word": "evolution",
+            "ipa": "[ˌɛvəˈluʃən]",
+            "pos": "noun",
+            "meaning_zh": "演變；發展"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The successful project was the result of an evolution of many good ideas.",
+            "zh": "這項成功的企劃是改良了許多好點子而有的成果。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "evolve",
+                "ipa": "[ɪˈvɑlv]",
+                "meaning_zh": "演變；發展"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "118-119",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 131,
+          "headword": {
+            "word": "transition",
+            "ipa": "[trænˈzɪʃən]",
+            "pos": "noun",
+            "meaning_zh": "過渡；轉變"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Although the office moved to another state, the staff found it easy to adjust to the transition.",
+            "zh": "雖然辦公室遷到了另一州，員工認為適應這段過渡期還算容易。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "transit",
+                "ipa": "[ˈtrænsɪt]",
+                "meaning_zh": "過渡；轉變；運輸"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "transitional",
+                "ipa": "[trænˈzɪʃənəl]",
+                "meaning_zh": "過渡的；轉變的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 132,
+          "headword": {
+            "word": "compliance",
+            "ipa": "[kəmˈplaɪəns]",
+            "pos": "noun",
+            "meaning_zh": "依照；服從"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our safety procedures are in compliance with the state regulations.",
+            "zh": "我們的安全程序符合州政府的法規。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "observance",
+                "ipa": "[əbˈzɝvəns]",
+                "meaning_zh": "遵守；奉行"
+              },
+              {
+                "word": "conformity",
+                "ipa": "[kənˈfɔrmətɪ]",
+                "meaning_zh": "遵守；順從"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 133,
+          "headword": {
+            "word": "cluster",
+            "ipa": "[ˈklʌstɚ]",
+            "pos": "noun",
+            "meaning_zh": "群；串；束；組"
+          },
+          "phrases": [],
+          "example": {
+            "en": "In the provincial city, a cluster of IT companies has formed over the past decade.",
+            "zh": "十年來，許多資訊科技公司群聚在這座省級城市。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "bunch",
+                "ipa": "[bʌntʃ]",
+                "meaning_zh": "群；串；束"
+              },
+              {
+                "word": "crowd",
+                "ipa": "[kraʊd]",
+                "meaning_zh": "人群；一堆"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 134,
+          "headword": {
+            "word": "quota",
+            "ipa": "[ˈkwotə]",
+            "pos": "noun",
+            "meaning_zh": "配額；定額"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The manager set a new sales quota for salespersons.",
+            "zh": "經理為銷售員制定新的目標銷售額。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "allocation",
+                "ipa": "[ˌæləˈkeʃən]",
+                "meaning_zh": "分配，分派"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 135,
+          "headword": {
+            "word": "array",
+            "ipa": "[əˈre]",
+            "pos": "noun",
+            "meaning_zh": "大量；一系列"
+          },
+          "phrases": [
+            {
+              "phrase": "an array of A",
+              "meaning_zh": "大量的 A"
+            }
+          ],
+          "example": {
+            "en": "There is a wonderful array of food and drinks on the table.",
+            "zh": "桌上擺滿豐盛的食物和飲料。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "selection",
+                "ipa": "[səˈlɛkʃən]",
+                "meaning_zh": "選擇，挑選"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 136,
+          "headword": {
+            "word": "phase",
+            "ipa": "[fez]",
+            "pos": "noun",
+            "meaning_zh": "階段；時期"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The mobile movie player was moved relatively quickly to a prototype phase.",
+            "zh": "那款行動電影播放器很快就進入製作原型的階段。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "stage",
+                "ipa": "[stedʒ]",
+                "meaning_zh": "階段；時期"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 137,
+          "headword": {
+            "word": "spectrum",
+            "ipa": "[ˈspɛktrəm]",
+            "pos": "noun",
+            "meaning_zh": "光譜；範圍"
+          },
+          "phrases": [
+            {
+              "phrase": "a broad/wide spectrum of A",
+              "meaning_zh": "各式各樣的 A"
+            }
+          ],
+          "example": {
+            "en": "Our school offers a broad spectrum of classes for foreign language learners.",
+            "zh": "我們學校提供各式各樣的外語學習課程。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "range",
+                "ipa": "[rendʒ]",
+                "meaning_zh": "範圍；距離"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 138,
+          "headword": {
+            "word": "fraction",
+            "ipa": "[ˈfrækʃən]",
+            "pos": "noun",
+            "meaning_zh": "小部分；片段"
+          },
+          "phrases": [
+            {
+              "phrase": "a fraction of A",
+              "meaning_zh": "一小部分的 A"
+            }
+          ],
+          "example": {
+            "en": "A growing fraction of store customers are buying from the vegetarian section.",
+            "zh": "在素食區購物的顧客比例逐漸提高。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "fragment",
+                "ipa": "[ˈfrægmənt]",
+                "meaning_zh": "碎片"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 139,
+          "headword": {
+            "word": "bulk",
+            "ipa": "[bʌlk]",
+            "pos": [
+              "noun",
+              "adjective"
+            ],
+            "meaning_zh": "名 大多數；大量 / 形 大量的"
+          },
+          "phrases": [
+            {
+              "phrase": "in bulk",
+              "meaning_zh": "大量"
+            },
+            {
+              "phrase": "bulk order",
+              "meaning_zh": "大量訂單"
+            }
+          ],
+          "example": {
+            "en": "The bulk of company branches are in Southeast Asia and Europe.",
+            "zh": "公司大多數的分部設在東南亞和歐洲。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "volume",
+                "ipa": "[ˈvɑljəm]",
+                "meaning_zh": "體積；大量"
+              },
+              {
+                "word": "mass",
+                "ipa": "[mæs]",
+                "meaning_zh": "大部分；大量"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 140,
+          "headword": {
+            "word": "stake",
+            "ipa": "[stek]",
+            "pos": "noun",
+            "meaning_zh": "股份；利害關係；賭注；風險"
+          },
+          "phrases": [
+            {
+              "phrase": "at stake",
+              "meaning_zh": "有風險；危在旦夕"
+            }
+          ],
+          "example": {
+            "en": "Pauline invested €11 million into the startup, giving her a 53 percent stake.",
+            "zh": "寶琳對這間新創公司投資 1,100 萬歐元，取得 53% 的股份。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "interest",
+                "ipa": "[ˈɪntərɪst]",
+                "meaning_zh": "股份；利息；利益"
+              },
+              {
+                "word": "share",
+                "ipa": "[ʃɛr]",
+                "meaning_zh": "股份；股票"
+              }
+            ],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "120-121",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 141,
+          "headword": {
+            "word": "venue",
+            "ipa": "[ˈvɛnju]",
+            "pos": "noun",
+            "meaning_zh": "集合地點；會場"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Midtown Conference Hall is an ideal venue for large business or association gatherings.",
+            "zh": "市中心會議廳是大型企業或協會聚會的理想場所。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "location",
+                "ipa": "[loˈkeʃən]",
+                "meaning_zh": "地點；位置"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 142,
+          "headword": {
+            "word": "premise",
+            "ipa": "[ˈprɛmɪs]",
+            "pos": "noun",
+            "meaning_zh": "（經營）場地；前提"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Guards patrol the building parking lot, lobby and other premises at night.",
+            "zh": "警衛在晚上巡邏大樓停車場、大廳和其他場所。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "compound",
+                "ipa": "[ˈkɑmpaʊnd]",
+                "meaning_zh": "（圍起來的）場地；樓群"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 143,
+          "headword": {
+            "word": "receptacle",
+            "ipa": "[rɪˈsɛptəkəl]",
+            "pos": "noun",
+            "meaning_zh": "容器；儲藏器具"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Separate receptacles for discarded glass, paper, and plastic are set up throughout the building.",
+            "zh": "整棟大樓皆設有廢玻璃、紙類和塑膠的回收桶。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "bin",
+                "ipa": "[bɪn]",
+                "meaning_zh": "容器；儲藏箱"
+              },
+              {
+                "word": "container",
+                "ipa": "[kənˈtenɚ]",
+                "meaning_zh": "容器；貨櫃"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 144,
+          "headword": {
+            "word": "literature",
+            "ipa": "[ˈlɪtərətʃɚ]",
+            "pos": "noun",
+            "meaning_zh": "宣傳資料；文獻；文學"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Zoo visitors may pick up attraction literature at the main gate.",
+            "zh": "動物園的訪客可在大門取得景點導覽簡介。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 145,
+          "headword": {
+            "word": "framework",
+            "ipa": "[ˈfremˌwɝk]",
+            "pos": "noun",
+            "meaning_zh": "架構，框架"
+          },
+          "phrases": [
+            {
+              "phrase": "steel framework",
+              "meaning_zh": "鋼筋結構"
+            }
+          ],
+          "example": {
+            "en": "Negotiators from both firms agreed to a basic contract framework.",
+            "zh": "兩家公司的協商代表在基本的合約架構上達成共識。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "frame",
+                "ipa": "[frem]",
+                "meaning_zh": "框架；骨架"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 146,
+          "headword": {
+            "word": "predecessor",
+            "ipa": "[ˈprɛdəˌsɛsɚ]",
+            "pos": "noun",
+            "meaning_zh": "前輩，前任"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We are more technologically advanced than our predecessors.",
+            "zh": "我們的技術比前人更先進。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "precursor",
+                "ipa": "[priˈkɝsɚ]",
+                "meaning_zh": "前輩；先驅"
+              },
+              {
+                "word": "successor",
+                "ipa": "[səkˈsɛsɚ]",
+                "meaning_zh": "繼任者，繼承人"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 147,
+          "headword": {
+            "word": "legacy",
+            "ipa": "[ˈlɛgəsɪ]",
+            "pos": "noun",
+            "meaning_zh": "遺產；遺贈"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The CEO retired, leaving a legacy of corporate success.",
+            "zh": "執行長將他輝煌的企業傳承下去後便功成身退。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "heritage",
+                "ipa": "[ˈhɛrɪtɪdʒ]",
+                "meaning_zh": "（文化）遺產"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 148,
+          "headword": {
+            "word": "prerequisite",
+            "ipa": "[priˈrɛkwəzɪt]",
+            "pos": [
+              "noun",
+              "adjective"
+            ],
+            "meaning_zh": "名 前提；先決條件 / 形 不可或缺的"
+          },
+          "phrases": [
+            {
+              "phrase": "a prerequisite for A",
+              "meaning_zh": "A 的先決條件"
+            }
+          ],
+          "example": {
+            "en": "An MBA degree is a prerequisite for the managerial position.",
+            "zh": "取得企管碩士學位是擔任管理階層的先決條件。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "precondition",
+                "ipa": "[ˌprikənˈdɪʃən]",
+                "meaning_zh": "前提，先決條件"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 149,
+          "headword": {
+            "word": "tribute",
+            "ipa": "[ˈtrɪbjut]",
+            "pos": "noun",
+            "meaning_zh": "禮物；貢獻"
+          },
+          "phrases": [
+            {
+              "phrase": "pay tribute to A",
+              "meaning_zh": "讚揚 A；向 A 致敬"
+            }
+          ],
+          "example": {
+            "en": "The Developer of the Year Award is a tribute to cutting-edge IT firms.",
+            "zh": "年度開發商獎是表揚尖端資訊科技公司的一份榮耀。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "commendation",
+                "ipa": "[ˌkɑmɛnˈdeʃən]",
+                "meaning_zh": "讚揚，表彰"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 150,
+          "headword": {
+            "word": "foundation",
+            "ipa": "[faʊnˈdeʃən]",
+            "pos": "noun",
+            "meaning_zh": "根據，基礎；基金會"
+          },
+          "phrases": [],
+          "example": {
+            "en": "There was no foundation in the supervisor's objections.",
+            "zh": "主管的反對毫無根據。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "found",
+                "ipa": "[faʊnd]",
+                "meaning_zh": "建立，創辦"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "122-123",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 151,
+          "headword": {
+            "word": "intuition",
+            "ipa": "[ˌɪntjuˈɪʃən]",
+            "pos": "noun",
+            "meaning_zh": "直覺；直觀"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Martin's intuition told him that he should not accept the job offer.",
+            "zh": "馬丁的直覺告訴他不該接受這份工作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "insight",
+                "ipa": "[ˈɪnˌsaɪt]",
+                "meaning_zh": "洞察力；眼光"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "intuitive",
+                "ipa": "[ɪnˈtjuɪtɪv]",
+                "meaning_zh": "憑直覺的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 152,
+          "headword": {
+            "word": "scrutiny",
+            "ipa": "[ˈskrutnɪ]",
+            "pos": "noun",
+            "meaning_zh": "詳細檢查；監視；監督"
+          },
+          "phrases": [],
+          "example": {
+            "en": "All legal agreements require close scrutiny before signing them.",
+            "zh": "所有法律協議都必須在簽署前仔細檢查內容。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "scrutinize",
+                "ipa": "[ˈskrutnˌaɪz]",
+                "meaning_zh": "詳細檢查；細看"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 153,
+          "headword": {
+            "word": "aptitude",
+            "ipa": "[ˈæptəˌtjud]",
+            "pos": "noun",
+            "meaning_zh": "才能，天賦"
+          },
+          "phrases": [],
+          "example": {
+            "en": "It takes a certain amount of skill and aptitude to do the job well.",
+            "zh": "做好這份工作需要一定的技巧和天賦。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "talent",
+                "ipa": "[ˈtælənt]",
+                "meaning_zh": "才能；天賦"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 154,
+          "headword": {
+            "word": "privilege",
+            "ipa": "[ˈprɪvəlɪdʒ]",
+            "pos": "noun",
+            "meaning_zh": "特權；優待"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Frances had the privilege of going to Europe on her business trip.",
+            "zh": "法蘭西絲享有前往歐洲出差的特權。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "advantage",
+                "ipa": "[ədˈvæntɪdʒ]",
+                "meaning_zh": "優勢；好處"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "privileged",
+                "ipa": "[ˈprɪvəlɪdʒd]",
+                "meaning_zh": "享有特權的；幸運的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 155,
+          "headword": {
+            "word": "dignity",
+            "ipa": "[ˈdɪgnətɪ]",
+            "pos": "noun",
+            "meaning_zh": "尊嚴；莊嚴"
+          },
+          "phrases": [
+            {
+              "phrase": "retain/lose one's dignity",
+              "meaning_zh": "保有／喪失尊嚴"
+            }
+          ],
+          "example": {
+            "en": "The CEO told the staff to have dignity when performing their duties.",
+            "zh": "執行長告訴員工履行職責之際也要保有尊嚴。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "dignified",
+                "ipa": "[ˈdɪgnəˌfaɪd]",
+                "meaning_zh": "有尊嚴的；莊嚴的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 156,
+          "headword": {
+            "word": "phenomenon",
+            "ipa": "[fəˈnɑməˌnɑn]",
+            "pos": "noun",
+            "meaning_zh": "現象；奇蹟"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Her first novel became the literary phenomenon of the decade.",
+            "zh": "她的第一本小說轟動了當代的文壇。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "sensation",
+                "ipa": "[sɛnˈseʃən]",
+                "meaning_zh": "轟動"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 157,
+          "headword": {
+            "word": "contingency",
+            "ipa": "[kənˈtɪndʒənsɪ]",
+            "pos": "noun",
+            "meaning_zh": "意外事故；偶發事件"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The production department plans for multiple contingencies, such as raw material shortages.",
+            "zh": "生產部門為原物料短缺等突發事件做好因應計畫。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "emergency",
+                "ipa": "[ɪˈmɝdʒənsɪ]",
+                "meaning_zh": "緊急情況；突發事件"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "contingent",
+                "ipa": "[kənˈtɪndʒənt]",
+                "meaning_zh": "偶然的，可能的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 158,
+          "headword": {
+            "word": "discrepancy",
+            "ipa": "[dɪˈskrɛpənsɪ]",
+            "pos": "noun",
+            "meaning_zh": "不一致，差異"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Please look over the agreement to make sure there isn't a discrepancy in the terms.",
+            "zh": "請詳閱協議，確保條款沒有矛盾之處。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "inconsistency",
+                "ipa": "[ˌɪnkənˈsɪstənsɪ]",
+                "meaning_zh": "不一致，前後矛盾"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 159,
+          "headword": {
+            "word": "flaw",
+            "ipa": "[flɔ]",
+            "pos": "noun",
+            "meaning_zh": "缺點，瑕疵"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our overseas investment plan seemed to have no flaws.",
+            "zh": "我們的海外投資計畫看來沒什麼瑕疵。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "defect",
+                "ipa": "[ˈdifɛkt]",
+                "meaning_zh": "缺點，缺陷"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 160,
+          "headword": {
+            "word": "burden",
+            "ipa": "[ˈbɝdn]",
+            "pos": [
+              "noun",
+              "verb"
+            ],
+            "meaning_zh": "名 重擔；負擔 / 動 加負擔於…"
+          },
+          "phrases": [
+            {
+              "phrase": "a burden of duty",
+              "meaning_zh": "責任的重擔"
+            },
+            {
+              "phrase": "share a burden",
+              "meaning_zh": "分擔責任"
+            }
+          ],
+          "example": {
+            "en": "Some men believe that it is a burden to take care of a family.",
+            "zh": "有些男人認為照顧家庭是個重擔。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "124-125",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 161,
+          "headword": {
+            "word": "bias",
+            "ipa": "[ˈbaɪəs]",
+            "pos": "noun",
+            "meaning_zh": "偏見；偏袒"
+          },
+          "phrases": [
+            {
+              "phrase": "have a bias against A",
+              "meaning_zh": "對 A 有偏見"
+            }
+          ],
+          "example": {
+            "en": "We always hire or promote staff without any individual bias.",
+            "zh": "我們從不帶個人偏見雇用或提拔員工。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "prejudice",
+                "ipa": "[ˈprɛdʒədɪs]",
+                "meaning_zh": "偏見；歧視"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 162,
+          "headword": {
+            "word": "fatigue",
+            "ipa": "[fəˈtig]",
+            "pos": "noun",
+            "meaning_zh": "疲勞，勞累"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Neal had to quit his job because he was suffering from severe fatigue.",
+            "zh": "由於尼爾飽受極度疲勞所苦，不得不辭掉工作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "tiredness",
+                "ipa": "[ˈtaɪərdnɪs]",
+                "meaning_zh": "疲勞，倦意"
+              },
+              {
+                "word": "exhaustion",
+                "ipa": "[ɪgˈzɔstʃən]",
+                "meaning_zh": "精疲力竭，疲憊"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 163,
+          "headword": {
+            "word": "plight",
+            "ipa": "[plaɪt]",
+            "pos": "noun",
+            "meaning_zh": "困境"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our company is now in a terrible plight, as it has lost substantial market share.",
+            "zh": "我們公司喪失了龐大的市占率，現在的處境非常艱辛。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "difficulty",
+                "ipa": "[ˈdɪfəkʌltɪ]",
+                "meaning_zh": "困難，難處"
+              },
+              {
+                "word": "predicament",
+                "ipa": "[prɪˈdɪkəmənt]",
+                "meaning_zh": "困境，窘境"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 164,
+          "headword": {
+            "word": "remedy",
+            "ipa": "[ˈrɛmədɪ]",
+            "pos": "noun",
+            "meaning_zh": "補救辦法；治療"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The government can't seem to come up with a remedy for the ailing economy.",
+            "zh": "政府似乎想不出任何補救辦法，以挽救低迷經濟。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "remedial",
+                "ipa": "[rɪˈmɪdɪəl]",
+                "meaning_zh": "補救的；治療的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 165,
+          "headword": {
+            "word": "proximity",
+            "ipa": "[prɑkˈsɪmətɪ]",
+            "pos": "noun",
+            "meaning_zh": "鄰近，接近"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Proximity to the railway terminal made Greenhills a prime residential area.",
+            "zh": "鄰近火車站的優點讓格林希爾變成高級住宅區。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "vicinity",
+                "ipa": "[vəˈsɪnətɪ]",
+                "meaning_zh": "鄰近地區，附近"
+              },
+              {
+                "word": "accessibility",
+                "ipa": "[ækˌsɛsəˈbɪlətɪ]",
+                "meaning_zh": "易到達，易接近"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 166,
+          "headword": {
+            "word": "liaison",
+            "ipa": "[ˈlieˌzɑn]",
+            "pos": "noun",
+            "meaning_zh": "聯絡，聯繫"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We'd like you to serve as a liaison between the R&D and production divisions.",
+            "zh": "我們想請你擔任研發部門與生產部門之間的聯絡人。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "connection",
+                "ipa": "[kəˈnɛkʃən]",
+                "meaning_zh": "聯絡；連接；關聯"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 167,
+          "headword": {
+            "word": "protocol",
+            "ipa": "[ˈprotəˌkɑl]",
+            "pos": "noun",
+            "meaning_zh": "規範；協議"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The accounting section set a new protocol for reimbursing expenses.",
+            "zh": "會計部門制定了經費報銷的新規範。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "formality",
+                "ipa": "[fɔrˈmælətɪ]",
+                "meaning_zh": "正式手續"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 168,
+          "headword": {
+            "word": "conflict",
+            "ipa": "[ˈkɑnflɪkt]",
+            "pos": "noun",
+            "meaning_zh": "衝突，矛盾"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I have a scheduling conflict this Friday.",
+            "zh": "我這週五有行程撞期。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "clash",
+                "ipa": "[klæʃ]",
+                "meaning_zh": "衝突；牴觸"
+              },
+              {
+                "word": "friction",
+                "ipa": "[ˈfrɪkʃən]",
+                "meaning_zh": "摩擦；爭執"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 169,
+          "headword": {
+            "word": "ambience",
+            "ipa": "[ˈæmbrəns]",
+            "pos": "noun",
+            "meaning_zh": "氛圍，氣氛"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The restaurant is well-known for its relaxed ambience and splendid food.",
+            "zh": "這間餐廳以輕鬆的氛圍與美食聞名。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "atmosphere",
+                "ipa": "[ˈætməsˌfɪr]",
+                "meaning_zh": "氣氛；大氣"
+              },
+              {
+                "word": "setting",
+                "ipa": "[ˈsɛtɪŋ]",
+                "meaning_zh": "環境；設定"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 170,
+          "headword": {
+            "word": "allure",
+            "ipa": "[əˈlʊr]",
+            "pos": [
+              "noun",
+              "verb"
+            ],
+            "meaning_zh": "名 誘惑；吸引 / 動 誘惑"
+          },
+          "phrases": [],
+          "example": {
+            "en": "This booklet is a great introduction to the allure of Florence.",
+            "zh": "這本小冊子將佛羅倫斯介紹的很有魅力。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "charm",
+                "ipa": "[tʃɑrm]",
+                "meaning_zh": "魅力；咒語"
+              },
+              {
+                "word": "temptation",
+                "ipa": "[tɛmpˈteʃən]",
+                "meaning_zh": "引誘，誘惑"
+              },
+              {
+                "word": "lure",
+                "ipa": "[lʊr]",
+                "meaning_zh": "誘惑，魅力"
+              }
+            ],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "126-127",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 171,
+          "headword": {
+            "word": "bustle",
+            "ipa": "[ˈbʌsl]",
+            "pos": "noun",
+            "meaning_zh": "喧囂；忙亂"
+          },
+          "phrases": [
+            {
+              "phrase": "hustle and bustle",
+              "meaning_zh": "喧囂"
+            }
+          ],
+          "example": {
+            "en": "Get away from the hustle and bustle of the city with Weekend Resorts.",
+            "zh": "歡迎來到週末度假村，遠離都市的喧囂。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "liveliness",
+                "ipa": "[ˈlaɪvlɪnɪs]",
+                "meaning_zh": "活潑，活力"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 172,
+          "headword": {
+            "word": "disclosure",
+            "ipa": "[dɪsˈkloʒɚ]",
+            "pos": "noun",
+            "meaning_zh": "公開，揭發"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Investors are demanding full disclosure of the financial details.",
+            "zh": "投資人要求公開完整的財務細節。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "disclose",
+                "ipa": "[dɪsˈkloz]",
+                "meaning_zh": "公開，揭發"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 173,
+          "headword": {
+            "word": "momentum",
+            "ipa": "[moˈmɛntəm]",
+            "pos": "noun",
+            "meaning_zh": "氣勢；推動力"
+          },
+          "phrases": [
+            {
+              "phrase": "gain / pick up momentum",
+              "meaning_zh": "增加氣勢"
+            },
+            {
+              "phrase": "lose momentum",
+              "meaning_zh": "失去氣勢"
+            }
+          ],
+          "example": {
+            "en": "The mystery novel loses momentum toward the end.",
+            "zh": "那本懸疑小說到最後草草結尾。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "impetus",
+                "ipa": "[ˈɪmpətəs]",
+                "meaning_zh": "推動力；衝力"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 174,
+          "headword": {
+            "word": "leverage",
+            "ipa": "[ˈlɛvərɪdʒ]",
+            "pos": "noun",
+            "meaning_zh": "影響力；手段"
+          },
+          "phrases": [],
+          "example": {
+            "en": "CFO Roslyn Harper has significant leverage with the board of directors.",
+            "zh": "財務長蘿絲琳．哈普對董事會有著舉足輕重的影響力。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 175,
+          "headword": {
+            "word": "preoccupation",
+            "ipa": "[priˌɑkjəˈpeʃən]",
+            "pos": "noun",
+            "meaning_zh": "全神貫注；專心的事物"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Julius has a preoccupation with languages, studying Arabic, Russian and Chinese daily.",
+            "zh": "朱利斯全神貫注地學習語言，天天讀阿拉伯文、俄文和中文。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "absorption",
+                "ipa": "[əbˈsɔrpʃən]",
+                "meaning_zh": "全神貫注"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "preoccupied",
+                "ipa": "[priˈɑkjəˌpaɪd]",
+                "meaning_zh": "全神貫注的，入神的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 176,
+          "headword": {
+            "word": "surplus",
+            "ipa": "[ˈsɝpləs]",
+            "pos": [
+              "noun",
+              "adjective"
+            ],
+            "meaning_zh": "名 剩餘；盈餘 / 形 過剩的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The farmers had a surplus of grain last year, but this year the supply is low.",
+            "zh": "去年農民還有剩餘的穀物，但今年的產量並不多。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "excess",
+                "ipa": "[ɪkˈsɛs]",
+                "meaning_zh": "過剩，過度"
+              },
+              {
+                "word": "glut",
+                "ipa": "[glʌt]",
+                "meaning_zh": "過度供給"
+              },
+              {
+                "word": "oversupply",
+                "ipa": "[ˌovɚsəˈplaɪ]",
+                "meaning_zh": "過度供給"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 177,
+          "headword": {
+            "word": "outfit",
+            "ipa": "[ˈaʊtˌfɪt]",
+            "pos": "noun",
+            "meaning_zh": "全套服裝；全套裝備"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The electrician had to wear a special outfit when performing his duties.",
+            "zh": "電工在工作時必須穿上特殊的全套服裝。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "attire",
+                "ipa": "[əˈtaɪɚ]",
+                "meaning_zh": "服裝，衣著"
+              },
+              {
+                "word": "kit",
+                "ipa": "[kɪt]",
+                "meaning_zh": "成套工具"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 178,
+          "headword": {
+            "word": "turnout",
+            "ipa": "[ˈtɝnˌaʊt]",
+            "pos": "noun",
+            "meaning_zh": "出席，到場人數"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Convention turnout was high, with people drawn to the exciting exhibits.",
+            "zh": "會議的到場人數很多，許多人深受激動人心的展品吸引。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "attendance",
+                "ipa": "[əˈtɛndəns]",
+                "meaning_zh": "出席，到場人數"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 179,
+          "headword": {
+            "word": "oversight",
+            "ipa": "[ˈovɚˌsaɪt]",
+            "pos": "noun",
+            "meaning_zh": "疏忽，失察"
+          },
+          "phrases": [
+            {
+              "phrase": "by oversight",
+              "meaning_zh": "不小心"
+            }
+          ],
+          "example": {
+            "en": "A clerical oversight left some important figures off the quarterly report.",
+            "zh": "文書工作的疏忽導致季度報告漏了一些重要數據。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 180,
+          "headword": {
+            "word": "discretion",
+            "ipa": "[dɪˈskrɛʃən]",
+            "pos": "noun",
+            "meaning_zh": "決定權；謹慎"
+          },
+          "phrases": [
+            {
+              "phrase": "at one's discretion",
+              "meaning_zh": "由…斟酌決定"
+            },
+            {
+              "phrase": "with great discretion",
+              "meaning_zh": "極其謹慎"
+            }
+          ],
+          "example": {
+            "en": "All decisions are left to the manager's discretion.",
+            "zh": "所有決定全交由經理定奪。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "128-129",
+      "category": "名詞 (Nouns) - LEVEL 2",
+      "entries": [
+        {
+          "id": 181,
+          "headword": {
+            "word": "ingredient",
+            "ipa": "[ɪnˈgridɪənt]",
+            "pos": "noun",
+            "meaning_zh": "食材；要素"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Our dishes are all made from organic ingredients.",
+            "zh": "本店料理皆使用有機食材製作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "constituent",
+                "ipa": "[kənˈstɪtʃuənt]",
+                "meaning_zh": "成分；要素"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 182,
+          "headword": {
+            "word": "appetite",
+            "ipa": "[ˈæpəˌtaɪt]",
+            "pos": "noun",
+            "meaning_zh": "渴望；食慾，胃口"
+          },
+          "phrases": [],
+          "example": {
+            "en": "James is an energetic worker and has an appetite for learning.",
+            "zh": "詹姆斯是個精力充沛的員工，而且求知若渴。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "craving",
+                "ipa": "[ˈkrevɪŋ]",
+                "meaning_zh": "渴望，渴求"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 183,
+          "headword": {
+            "word": "showcase",
+            "ipa": "[ˈʃoˌkes]",
+            "pos": "noun",
+            "meaning_zh": "展示優點的場合；玻璃陳列櫃"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The convention is a showcase of the latest video games and entertainment software.",
+            "zh": "這場大會是展示最新電玩遊戲和娛樂軟體的絕佳場合。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 184,
+          "headword": {
+            "word": "fanfare",
+            "ipa": "[ˈfænˌfɛr]",
+            "pos": "noun",
+            "meaning_zh": "號角齊鳴；大張旗鼓"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Let's celebrate the company's 100th anniversary with great fanfare!",
+            "zh": "讓我們盛大慶祝公司的一百週年紀念日吧！"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 185,
+          "headword": {
+            "word": "typo",
+            "ipa": "[ˈtaɪpo]",
+            "pos": "noun",
+            "meaning_zh": "打字錯誤；排印錯誤"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Could you check this document as there may still be some typos?",
+            "zh": "能否請你檢查這份文件，看看有沒有哪裡打錯字？"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 186,
+          "headword": {
+            "word": "resilience",
+            "ipa": "[rɪˈzɪlɪəns]",
+            "pos": "noun",
+            "meaning_zh": "韌性；彈性"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The theme of today's seminar is resilience in difficult business situations.",
+            "zh": "今天的研討會主題是：如何在艱難的景氣下維持韌性。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "resilient",
+                "ipa": "[rɪˈzɪlɪənt]",
+                "meaning_zh": "迅速恢復精力的；有彈性的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 187,
+          "headword": {
+            "word": "odds",
+            "ipa": "[ɑdz]",
+            "pos": "noun",
+            "meaning_zh": "可能性，機會"
+          },
+          "phrases": [
+            {
+              "phrase": "The odds are that...",
+              "meaning_zh": "有可能……"
+            }
+          ],
+          "example": {
+            "en": "The odds are that the candidate will decline our offer.",
+            "zh": "這名求職者可能會拒絕我們的錄取通知。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "likelihood",
+                "ipa": "[ˈlaɪklɪˌhʊd]",
+                "meaning_zh": "可能，可能性"
+              },
+              {
+                "word": "probability",
+                "ipa": "[ˌprɑbəˈbɪlətɪ]",
+                "meaning_zh": "可能性，機率"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 188,
+          "headword": {
+            "word": "proponent",
+            "ipa": "[prəˈponənt]",
+            "pos": "noun",
+            "meaning_zh": "擁護者，倡議者"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The production manager is a strong proponent of on-site employee training.",
+            "zh": "生產經理強烈支持員工在職培訓。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "advocate",
+                "ipa": "[ˈædvəkət]",
+                "meaning_zh": "擁護者，倡議者"
+              },
+              {
+                "word": "champion",
+                "ipa": "[ˈtʃæmpɪən]",
+                "meaning_zh": "擁護者；冠軍"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 189,
+          "headword": {
+            "word": "proprietor",
+            "ipa": "[prəˈpraɪətɚ]",
+            "pos": "noun",
+            "meaning_zh": "業主；經營者"
+          },
+          "phrases": [],
+          "example": {
+            "en": "You can negotiate with the proprietor on the price of his property for sale.",
+            "zh": "你可以跟業主協商房產的售價。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "owner",
+                "ipa": "[ˈonɚ]",
+                "meaning_zh": "物主，主人"
+              },
+              {
+                "word": "possessor",
+                "ipa": "[pəˈzɛsɚ]",
+                "meaning_zh": "擁有人"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 190,
+          "headword": {
+            "word": "intermission",
+            "ipa": "[ˌɪntɚˈmɪʃən]",
+            "pos": "noun",
+            "meaning_zh": "中場休息；中斷"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The concert will last approximately 4 hours including one 20-minute intermission.",
+            "zh": "音樂會總長約為四小時，包含中場休息 20 分鐘。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "interval",
+                "ipa": "[ˈɪntɚvəl]",
+                "meaning_zh": "中場休息，間隔"
+              },
+              {
+                "word": "interlude",
+                "ipa": "[ˈɪntɚˌlud]",
+                "meaning_zh": "間歇；插曲"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "intermittent",
+                "ipa": "[ˌɪntɚˈmɪtnt]",
+                "meaning_zh": "間歇的；斷斷續續的"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

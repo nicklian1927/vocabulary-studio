@@ -1,0 +1,3207 @@
+{
+  "total_sections": 10,
+  "total_entries": 100,
+  "sections": [
+    {
+      "page_range": "46-47",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 1,
+          "headword": {
+            "word": "ideal",
+            "ipa": "[aɪˈdiəl]",
+            "pos": "adjective",
+            "meaning_zh": "理想的，完美的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The ideal candidate will have a passion for customer service.",
+            "zh": "理想的人選必須對客戶服務滿懷熱忱。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "perfect",
+                "ipa": "[ˈpɝfɪkt]",
+                "meaning_zh": "完美的；最適合的"
+              },
+              {
+                "word": "exemplary",
+                "ipa": "[ɪgˈzæmplərɪ]",
+                "meaning_zh": "模範的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 2,
+          "headword": {
+            "word": "annual",
+            "ipa": "[ˈænjuəl]",
+            "pos": "adjective",
+            "meaning_zh": "每年的，一年一度的"
+          },
+          "phrases": [
+            {
+              "phrase": "annual leaves",
+              "meaning_zh": "年假"
+            },
+            {
+              "phrase": "an annual conference",
+              "meaning_zh": "年度會議"
+            }
+          ],
+          "example": {
+            "en": "The company charges an annual membership fee of €55.",
+            "zh": "那間公司每年收取 55 歐元的會費。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "yearly",
+                "ipa": "[ˈjɪrlɪ]",
+                "meaning_zh": "每年的，一年一度的"
+              }
+            ],
+            "adverb": [
+              {
+                "word": "annually",
+                "ipa": "[ˈænjuəlɪ]",
+                "meaning_zh": "每年地，一年一度地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "headword": {
+            "word": "familiar",
+            "ipa": "[fəˈmɪljɚ]",
+            "pos": "adjective",
+            "meaning_zh": "熟悉的，熟稔的"
+          },
+          "phrases": [
+            {
+              "phrase": "be familiar to A",
+              "meaning_zh": "為 A 所熟知"
+            },
+            {
+              "phrase": "be familiar with A",
+              "meaning_zh": "熟知 A"
+            }
+          ],
+          "example": {
+            "en": "This brand of shoes will be familiar to almost all female shoppers.",
+            "zh": "幾乎所有的女性消費者都很熟悉這個品牌的鞋子。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "well-known",
+                "ipa": "[ˌwɛlˈnon]",
+                "meaning_zh": "有名的，眾所皆知的"
+              },
+              {
+                "word": "acquainted",
+                "ipa": "[əˈkwentɪd]",
+                "meaning_zh": "認識的，通曉的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "headword": {
+            "word": "convenient",
+            "ipa": "[kənˈvinjənt]",
+            "pos": "adjective",
+            "meaning_zh": "方便的，便利的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Let me know which day is convenient for you.",
+            "zh": "請讓我知道你哪一天比較方便。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "convenience",
+                "ipa": "[kənˈvinjəns]",
+                "meaning_zh": "方便；合宜"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "inconvenient",
+                "ipa": "[ˌɪnkənˈvinjənt]",
+                "meaning_zh": "不便的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "headword": {
+            "word": "whole",
+            "ipa": "[hol]",
+            "pos": [
+              "adjective",
+              "noun"
+            ],
+            "meaning_zh": "形 整個的，全部的 / 名 全部"
+          },
+          "phrases": [
+            {
+              "phrase": "the whole A",
+              "meaning_zh": "整個 A"
+            }
+          ],
+          "example": {
+            "en": "We spent the whole week inspecting the new software.",
+            "zh": "我們花了整整一週的時間檢測新軟體。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "entire",
+                "ipa": "[ɪnˈtaɪr]",
+                "meaning_zh": "整個的，全部的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "headword": {
+            "word": "previous",
+            "ipa": "[ˈprivɪəs]",
+            "pos": "adjective",
+            "meaning_zh": "先前的，以前的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The house looks new, as the previous owner remodeled it entirely.",
+            "zh": "這間房子看起來很新，因為前屋主把整棟房子重新改造過了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "former",
+                "ipa": "[ˈfɔrmɚ]",
+                "meaning_zh": "前任的，前者的"
+              },
+              {
+                "word": "foregoing",
+                "ipa": "[fɔrˈgoɪŋ]",
+                "meaning_zh": "上述的，前面的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "headword": {
+            "word": "further",
+            "ipa": "[ˈfɝðɚ]",
+            "pos": [
+              "adjective",
+              "adverb"
+            ],
+            "meaning_zh": "形 進一步的；更遠的 / 副 而且；再者"
+          },
+          "phrases": [
+            {
+              "phrase": "further notice",
+              "meaning_zh": "進一步的通知"
+            },
+            {
+              "phrase": "further details",
+              "meaning_zh": "進一步的詳細情況；更多細節"
+            }
+          ],
+          "example": {
+            "en": "The park is closed to the public until further notice.",
+            "zh": "在進一步的通知以前，本公園暫不對外開放。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "additional",
+                "ipa": "[əˈdɪʃənəl]",
+                "meaning_zh": "額外的，附加的"
+              },
+              {
+                "word": "extra",
+                "ipa": "[ˈɛkstrə]",
+                "meaning_zh": "額外的，附加的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "headword": {
+            "word": "informative",
+            "ipa": "[ɪnˈfɔrmətɪv]",
+            "pos": "adjective",
+            "meaning_zh": "提供資訊的，增廣見聞的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The sales seminar was both informative and motivational.",
+            "zh": "這場銷售研討會資訊豐富且激勵人心。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "instructive",
+                "ipa": "[ɪnˈstrʌktɪv]",
+                "meaning_zh": "增廣見聞的，有教育意義的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "headword": {
+            "word": "brief",
+            "ipa": "[brif]",
+            "pos": "adjective",
+            "meaning_zh": "簡短的；短暫的"
+          },
+          "phrases": [
+            {
+              "phrase": "brief and to the point",
+              "meaning_zh": "簡明扼要"
+            }
+          ],
+          "example": {
+            "en": "We have little time left, so please be brief.",
+            "zh": "我們剩下的時間不多了，請長話短說。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "concise",
+                "ipa": "[kənˈsaɪs]",
+                "meaning_zh": "簡潔的，簡明的"
+              },
+              {
+                "word": "succinct",
+                "ipa": "[səkˈsɪŋkt]",
+                "meaning_zh": "簡潔的，言簡意賅的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "headword": {
+            "word": "obvious",
+            "ipa": "[ˈɑbvɪəs]",
+            "pos": "adjective",
+            "meaning_zh": "明顯的，清楚的"
+          },
+          "phrases": [
+            {
+              "phrase": "It is obvious that...",
+              "meaning_zh": "顯然……"
+            }
+          ],
+          "example": {
+            "en": "It was obvious that the expansion plan wouldn't work out.",
+            "zh": "這個擴展計畫顯然行不通。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "clear",
+                "ipa": "[klɪr]",
+                "meaning_zh": "明顯的；易懂的"
+              },
+              {
+                "word": "plain",
+                "ipa": "[plen]",
+                "meaning_zh": "明顯的；簡單的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "48-49",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 11,
+          "headword": {
+            "word": "individual",
+            "ipa": "[ˌɪndəˈvɪdʒuəl]",
+            "pos": [
+              "adjective",
+              "noun"
+            ],
+            "meaning_zh": "形 個人的，單獨的 / 名 個人"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Always keep your individual workspace clean and tidy.",
+            "zh": "請隨時保持個人工作空間的乾淨整齊。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "independent",
+                "ipa": "[ˌɪndɪˈpɛndənt]",
+                "meaning_zh": "獨立的，自立的"
+              },
+              {
+                "word": "sole",
+                "ipa": "[sol]",
+                "meaning_zh": "唯一的，獨自的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "headword": {
+            "word": "overall",
+            "ipa": "[ˈovɚˌɔl]",
+            "pos": [
+              "adjective",
+              "adverb"
+            ],
+            "meaning_zh": "形 總體的，全面的 / 副 全面地"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The doctor assured me that my overall health is quite sound.",
+            "zh": "醫生向我保證我的整體健康情況十分良好。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "general",
+                "ipa": "[ˈdʒɛnərəl]",
+                "meaning_zh": "總體的，普遍的"
+              },
+              {
+                "word": "universal",
+                "ipa": "[ˌjunəˈvɝsəl]",
+                "meaning_zh": "全體的，共同的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "headword": {
+            "word": "particular",
+            "ipa": "[pəˈtɪkjələr]",
+            "pos": "adjective",
+            "meaning_zh": "特定的；特別的"
+          },
+          "phrases": [
+            {
+              "phrase": "a particular region",
+              "meaning_zh": "特定區域"
+            },
+            {
+              "phrase": "be particular about A",
+              "meaning_zh": "對 A 很講究"
+            }
+          ],
+          "example": {
+            "en": "Pay particular attention to which letters and symbols you select for your password.",
+            "zh": "請特別注意您選擇哪些字母和符號當密碼。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "particularly",
+                "ipa": "[pəˈtɪkjələrli]",
+                "meaning_zh": "特別，尤其"
+              }
+            ]
+          }
+        },
+        {
+          "id": 14,
+          "headword": {
+            "word": "ongoing",
+            "ipa": "[ˈɑnˌgoɪŋ]",
+            "pos": "adjective",
+            "meaning_zh": "持續進行的，不斷發展的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The attached file contains the list of ongoing projects.",
+            "zh": "附件檔案涵蓋持續進行的企劃清單。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "advancing",
+                "ipa": "[ədˈvænsɪŋ]",
+                "meaning_zh": "前進的；年長的"
+              }
+            ],
+            "phrase": [
+              {
+                "word": "in progress",
+                "meaning_zh": "進行中"
+              }
+            ]
+          }
+        },
+        {
+          "id": 15,
+          "headword": {
+            "word": "punctual",
+            "ipa": "[ˈpʌŋktʃuəl]",
+            "pos": "adjective",
+            "meaning_zh": "準時的；精確的"
+          },
+          "phrases": [
+            {
+              "phrase": "be punctual for A",
+              "meaning_zh": "某人按時出席 A"
+            }
+          ],
+          "example": {
+            "en": "She is very punctual and never late for work.",
+            "zh": "她非常守時，上班從不遲到。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "timely",
+                "ipa": "[ˈtaɪmlɪ]",
+                "meaning_zh": "及時的，適時的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 16,
+          "headword": {
+            "word": "challenging",
+            "ipa": "[ˈtʃælɪndʒɪŋ]",
+            "pos": "adjective",
+            "meaning_zh": "有難度的，充滿挑戰的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "This job may be a bit challenging for a new hire.",
+            "zh": "這份工作對於新進職員來說可能會有點難度。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "demanding",
+                "ipa": "[dɪˈmændɪŋ]",
+                "meaning_zh": "苛刻的；費時費力的；要求高的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 17,
+          "headword": {
+            "word": "accurate",
+            "ipa": "[ˈækjərət]",
+            "pos": "adjective",
+            "meaning_zh": "精確的，準確的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The accountant gave an accurate estimate of the year-end figures.",
+            "zh": "會計師提供年終數據的準確估計。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "accuracy",
+                "ipa": "[ˈækjərəsɪ]",
+                "meaning_zh": "精確，準確"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "precise",
+                "ipa": "[prɪˈsaɪs]",
+                "meaning_zh": "精確的，準確的"
+              },
+              {
+                "word": "exact",
+                "ipa": "[ɪgˈzækt]",
+                "meaning_zh": "精確的，正確的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 18,
+          "headword": {
+            "word": "complete",
+            "ipa": "[kəmˈplit]",
+            "pos": "adjective",
+            "meaning_zh": "完整的，徹底的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We should eat three complete meals a day to maintain health and energy.",
+            "zh": "我們一天應進食三餐來維持健康和活力。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "thorough",
+                "ipa": "[ˈθɝo]",
+                "meaning_zh": "完整的，徹底的"
+              },
+              {
+                "word": "incomplete",
+                "ipa": "[ˌɪnkəmˈplit]",
+                "meaning_zh": "不完整的，未完成的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 19,
+          "headword": {
+            "word": "favorite",
+            "ipa": "[ˈfevərɪt]",
+            "pos": [
+              "adjective",
+              "noun"
+            ],
+            "meaning_zh": "形 特別喜愛的 / 名 最喜歡的東西"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The Italian restaurant up the road is Jackie's favorite place to eat.",
+            "zh": "路邊那家義大利餐廳是傑姬最喜歡用餐的地方。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "favor",
+                "ipa": "[ˈfevɚ]",
+                "meaning_zh": "擁護；支持"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "favorable",
+                "ipa": "[ˈfevərəbəl]",
+                "meaning_zh": "贊同的；適合的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 20,
+          "headword": {
+            "word": "appropriate",
+            "ipa": "[əˈproprɪɪt]",
+            "pos": "adjective",
+            "meaning_zh": "合適的，適當的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The office is small, and doesn't have an appropriate place to hold a meeting.",
+            "zh": "這間辦公室很小，也沒有合適的地方開會。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "proper",
+                "ipa": "[ˈprɑpɚ]",
+                "meaning_zh": "合適的，適當的"
+              },
+              {
+                "word": "suitable",
+                "ipa": "[ˈsutəbəl]",
+                "meaning_zh": "合適的，適當的"
+              },
+              {
+                "word": "adequate",
+                "ipa": "[ˈædəkwɪt]",
+                "meaning_zh": "適當的；足夠的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "50-51",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 21,
+          "headword": {
+            "word": "domestic",
+            "ipa": "[dəˈmɛstɪk]",
+            "pos": "adjective",
+            "meaning_zh": "家庭的；國內的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Many women are becoming more and more frustrated with domestic chores.",
+            "zh": "許多女性對於做家事感到愈來愈不滿。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "internal",
+                "ipa": "[ɪnˈtɝnəl]",
+                "meaning_zh": "內部的；國內的"
+              },
+              {
+                "word": "indigenous",
+                "ipa": "[ɪnˈdɪdʒənəs]",
+                "meaning_zh": "本土的；土生土長的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 22,
+          "headword": {
+            "word": "opposite",
+            "ipa": "[ˈɑpəzɪt]",
+            "pos": [
+              "adjective",
+              "adverb"
+            ],
+            "meaning_zh": "形 完全相反的，迥異的 / 副 與…相對"
+          },
+          "phrases": [
+            {
+              "phrase": "opposite to A",
+              "meaning_zh": "跟 A 相反；在 A 對面"
+            },
+            {
+              "phrase": "opposite sides",
+              "meaning_zh": "兩側；對面"
+            }
+          ],
+          "example": {
+            "en": "Bus Route 381 serves opposite sides of the city.",
+            "zh": "381 路公車在城市兩側往返服務。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "opposition",
+                "ipa": "[ˌɑpəˈzɪʃən]",
+                "meaning_zh": "反對；反對黨"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "contrary",
+                "ipa": "[ˈkɑntrɛrɪ]",
+                "meaning_zh": "相反的，對立的"
+              },
+              {
+                "word": "reverse",
+                "ipa": "[rɪˈvɝs]",
+                "meaning_zh": "相反的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 23,
+          "headword": {
+            "word": "reasonable",
+            "ipa": "[ˈriznəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "合理的；公平的"
+          },
+          "phrases": [
+            {
+              "phrase": "a reasonable solution",
+              "meaning_zh": "合理的解決方案"
+            },
+            {
+              "phrase": "a reasonable price",
+              "meaning_zh": "實惠的價格"
+            }
+          ],
+          "example": {
+            "en": "The staff had a meeting to find a reasonable solution to the problem.",
+            "zh": "員工開了一場會議，欲尋找解決問題的合理方案。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "rational",
+                "ipa": "[ˈræʃənəl]",
+                "meaning_zh": "理性的；合理的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 24,
+          "headword": {
+            "word": "available",
+            "ipa": "[əˈveləbəl]",
+            "pos": "adjective",
+            "meaning_zh": "有空的；可獲得的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Please stay on the line and the next available agent will help you.",
+            "zh": "請不要掛斷電話，下一位有空的接線人員將為您服務。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "usable",
+                "ipa": "[ˈjuzəbəl]",
+                "meaning_zh": "可用的，合用的"
+              },
+              {
+                "word": "unavailable",
+                "ipa": "[ˌʌnəˈveləbəl]",
+                "meaning_zh": "無用的；得不到的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 25,
+          "headword": {
+            "word": "essential",
+            "ipa": "[ɪˈsɛnʃəl]",
+            "pos": "adjective",
+            "meaning_zh": "必要的，不可或缺的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The contract was changed except for its essential terms.",
+            "zh": "合約內容除必要條款以外皆有所更動。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "essence",
+                "ipa": "[ˈɛsns]",
+                "meaning_zh": "本質，要素"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "requisite",
+                "ipa": "[ˈrɛkwəzɪt]",
+                "meaning_zh": "必要的，必需的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 26,
+          "headword": {
+            "word": "due",
+            "ipa": "[dju]",
+            "pos": "adjective",
+            "meaning_zh": "預期的；到期的；應支付的"
+          },
+          "phrases": [
+            {
+              "phrase": "a due date",
+              "meaning_zh": "到期日；預產期"
+            },
+            {
+              "phrase": "with due care",
+              "meaning_zh": "謹慎；小心翼翼"
+            }
+          ],
+          "example": {
+            "en": "The accountant neglected to pay the amount due on the bill.",
+            "zh": "會計師一時疏忽，未付清帳單上的應付金額。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 27,
+          "headword": {
+            "word": "apparent",
+            "ipa": "[əˈpærənt]",
+            "pos": "adjective",
+            "meaning_zh": "顯而易見的；表面上的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "There is an apparent advantage to hiring a headhunter when making a career change.",
+            "zh": "轉換職場跑道時，聘請獵頭的優勢顯而易見。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "evident",
+                "ipa": "[ˈɛvədənt]",
+                "meaning_zh": "顯而易見的，明顯的"
+              },
+              {
+                "word": "outward",
+                "ipa": "[ˈaʊtwɚd]",
+                "meaning_zh": "外表的；向外的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 28,
+          "headword": {
+            "word": "urgent",
+            "ipa": "[ˈɝdʒənt]",
+            "pos": "adjective",
+            "meaning_zh": "緊急的，急迫的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We received an urgent message from the boss calling for an emergency meeting.",
+            "zh": "我們收到老闆傳來的緊急訊息，要召開一場緊急會議。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "imminent",
+                "ipa": "[ˈɪmənənt]",
+                "meaning_zh": "即將發生的，迫在眉睫的"
+              },
+              {
+                "word": "pressing",
+                "ipa": "[ˈprɛsɪŋ]",
+                "meaning_zh": "緊迫的，迫切的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 29,
+          "headword": {
+            "word": "stable",
+            "ipa": "[ˈstebəl]",
+            "pos": "adjective",
+            "meaning_zh": "穩定的，穩固的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The exchange rate remained stable throughout the week.",
+            "zh": "整週下來匯率相當穩定。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "steady",
+                "ipa": "[ˈstɛdɪ]",
+                "meaning_zh": "穩定的，固定不動的"
+              },
+              {
+                "word": "firm",
+                "ipa": "[fɝm]",
+                "meaning_zh": "堅固的；堅決的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 30,
+          "headword": {
+            "word": "competitive",
+            "ipa": "[kəmˈpɛtətɪv]",
+            "pos": "adjective",
+            "meaning_zh": "競爭的；好勝的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The retail sector is highly competitive and many shops close after one year in business.",
+            "zh": "零售業的競爭相當激烈，許多店家經營一年後就關門大吉了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "competitor",
+                "ipa": "[kəmˈpɛtətɚ]",
+                "meaning_zh": "競爭者；參賽者"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "cutthroat",
+                "ipa": "[ˈkʌtˌθrot]",
+                "meaning_zh": "競爭激烈的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "52-53",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 31,
+          "headword": {
+            "word": "remarkable",
+            "ipa": "[rɪˈmɑrkəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "非凡的，了不起的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Those who make remarkable achievements win the Nobel Prize.",
+            "zh": "擁有非凡成就的人才能獲得諾貝爾獎。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "distinguished",
+                "ipa": "[dɪˈstɪŋgwɪʃt]",
+                "meaning_zh": "傑出的，卓越的"
+              },
+              {
+                "word": "conspicuous",
+                "ipa": "[kənˈspɪkjuəs]",
+                "meaning_zh": "顯眼的，醒目的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 32,
+          "headword": {
+            "word": "potential",
+            "ipa": "[pəˈtɛnʃəl]",
+            "pos": [
+              "adjective",
+              "noun"
+            ],
+            "meaning_zh": "形 潛在的；可能的 / 名 潛力，潛能"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Several potential sites were considered for the new call center.",
+            "zh": "新客服中心的位置考量了數個潛在地點。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "possible",
+                "ipa": "[ˈpɑsəbəl]",
+                "meaning_zh": "可能的"
+              },
+              {
+                "word": "likely",
+                "ipa": "[ˈlaɪklɪ]",
+                "meaning_zh": "可能的"
+              },
+              {
+                "word": "latent",
+                "ipa": "[ˈletnt]",
+                "meaning_zh": "潛在的；潛伏的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 33,
+          "headword": {
+            "word": "critical",
+            "ipa": "[ˈkrɪtɪkəl]",
+            "pos": "adjective",
+            "meaning_zh": "重要的；批評的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "As the election drew near, the candidate reached a critical point in the campaign.",
+            "zh": "隨著大選將至，那名候選人在競選活動中迎來最重要的一刻。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "critic",
+                "ipa": "[ˈkrɪtɪk]",
+                "meaning_zh": "批評者，評論家"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "crucial",
+                "ipa": "[ˈkruʃəl]",
+                "meaning_zh": "非常重要的，關鍵的"
+              },
+              {
+                "word": "vital",
+                "ipa": "[ˈvaɪtəl]",
+                "meaning_zh": "非常重要的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 34,
+          "headword": {
+            "word": "deliberate",
+            "ipa": "[dɪˈlɪbərɪt]",
+            "pos": "adjective",
+            "meaning_zh": "深思熟慮的；故意的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The section chief is deliberate in her decision-making process.",
+            "zh": "課長做決策時相當深思熟慮。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "discreet",
+                "ipa": "[dɪˈskrit]",
+                "meaning_zh": "謹慎的；小心的"
+              },
+              {
+                "word": "intentional",
+                "ipa": "[ɪnˈtɛnʃənəl]",
+                "meaning_zh": "有意的，故意的"
+              },
+              {
+                "word": "conscious",
+                "ipa": "[ˈkɑnʃəs]",
+                "meaning_zh": "意識到；察覺到"
+              }
+            ]
+          }
+        },
+        {
+          "id": 35,
+          "headword": {
+            "word": "mutual",
+            "ipa": "[ˈmjutʃuəl]",
+            "pos": "adjective",
+            "meaning_zh": "互相的，共同的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The two powerful leaders had mutual respect for each other.",
+            "zh": "兩位強大的領導人互相敬重彼此。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "reciprocal",
+                "ipa": "[rɪˈsɪprəkəl]",
+                "meaning_zh": "相互的；互惠的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 36,
+          "headword": {
+            "word": "liable",
+            "ipa": "[ˈlaɪəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "負法律責任的；可能發生的"
+          },
+          "phrases": [
+            {
+              "phrase": "be liable for A",
+              "meaning_zh": "對 A 負有法律責任"
+            },
+            {
+              "phrase": "be liable to + V",
+              "meaning_zh": "很可能費…"
+            }
+          ],
+          "example": {
+            "en": "We are not liable for accidents caused by misuse by the user.",
+            "zh": "對於用戶因使用不當而引起的意外事故，我們不負法律責任。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "responsible",
+                "ipa": "[rɪˈspɑnsəbəl]",
+                "meaning_zh": "有責任的"
+              },
+              {
+                "word": "prone",
+                "ipa": "[pron]",
+                "meaning_zh": "易於…；有一…傾向的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 37,
+          "headword": {
+            "word": "generous",
+            "ipa": "[ˈdʒɛnərəs]",
+            "pos": "adjective",
+            "meaning_zh": "慷慨的，大方的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The CEO is a generous man and pays his employees well.",
+            "zh": "執行長是個很慷慨的人，給員工的薪資也很優渥。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "generosity",
+                "ipa": "[ˌdʒɛnəˈrɑsətɪ]",
+                "meaning_zh": "慷慨，大方"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "benevolent",
+                "ipa": "[bəˈnɛvələnt]",
+                "meaning_zh": "仁慈的，慈善的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 38,
+          "headword": {
+            "word": "decent",
+            "ipa": "[ˈdisnt]",
+            "pos": "adjective",
+            "meaning_zh": "正派的；體面的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The president stressed the need to follow decent business practices at all times.",
+            "zh": "董事長強調無論何時都需要遵循正派合宜的商業行為。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "decency",
+                "ipa": "[ˈdisnsɪ]",
+                "meaning_zh": "正派，正經"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "indecent",
+                "ipa": "[ɪnˈdisnt]",
+                "meaning_zh": "不合適的；下流的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 39,
+          "headword": {
+            "word": "sufficient",
+            "ipa": "[səˈfɪʃənt]",
+            "pos": "adjective",
+            "meaning_zh": "足夠的，充足的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Ann has sufficient savings and can retire early.",
+            "zh": "安擁有充足的存款，可以提早退休。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "suffice",
+                "ipa": "[səˈfaɪs]",
+                "meaning_zh": "足夠"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "ample",
+                "ipa": "[ˈæmpəl]",
+                "meaning_zh": "足夠的，充足的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 40,
+          "headword": {
+            "word": "dedicated",
+            "ipa": "[ˈdɛdəˌketɪd]",
+            "pos": "adjective",
+            "meaning_zh": "盡心盡力的；專門的"
+          },
+          "phrases": [
+            {
+              "phrase": "be dedicated to A",
+              "meaning_zh": "為 A 盡心盡力"
+            }
+          ],
+          "example": {
+            "en": "The firm is a dedicated protector of natural resources in the region.",
+            "zh": "這間公司盡心盡力保護當地區域的自然資源。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "committed",
+                "ipa": "[kəˈmɪtɪd]",
+                "meaning_zh": "盡忠職守的，忠誠的"
+              },
+              {
+                "word": "devoted",
+                "ipa": "[dɪˈvotɪd]",
+                "meaning_zh": "忠實的；獻身的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "54-55",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 41,
+          "headword": {
+            "word": "upcoming",
+            "ipa": "[ˈʌpˌkʌmɪŋ]",
+            "pos": "adjective",
+            "meaning_zh": "即將到來的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The coach promised to lead his team to a championship in the upcoming season.",
+            "zh": "教練承諾要帶領全隊在下一個賽季中贏得冠軍。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "forthcoming",
+                "ipa": "[ˌfɔrθˈkʌmɪŋ]",
+                "meaning_zh": "即將發生的"
+              },
+              {
+                "word": "impending",
+                "ipa": "[ɪmˈpɛndɪŋ]",
+                "meaning_zh": "（不幸）即將來臨的；逼近的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 42,
+          "headword": {
+            "word": "alternative",
+            "ipa": "[ɔlˈtɝnətɪv]",
+            "pos": [
+              "adjective",
+              "noun"
+            ],
+            "meaning_zh": "形 替代的，另類的 / 名 替代品；可供選擇的事物"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The first sales campaign failed so we must come up with an alternative plan for the next one.",
+            "zh": "由於第一次的促銷活動失敗了，所以我們得為下一場活動想出替代方案。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "alternate",
+                "ipa": "[ˈɔltɚˌnet]",
+                "meaning_zh": "輪流，交替"
+              }
+            ],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "alternate",
+                "ipa": "[ˈɔltɚnɪt]",
+                "meaning_zh": "輪流的；交替的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 43,
+          "headword": {
+            "word": "competent",
+            "ipa": "[ˈkɑmpətənt]",
+            "pos": "adjective",
+            "meaning_zh": "能幹的；稱職的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Jan is a competent employee and deserves a raise.",
+            "zh": "珍是位能幹的員工，理應得到加薪。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "competence",
+                "ipa": "[ˈkɑmpətəns]",
+                "meaning_zh": "能力，水準"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "qualified",
+                "ipa": "[ˈkwɑləˌfaɪd]",
+                "meaning_zh": "合格的，有資格的"
+              },
+              {
+                "word": "proficient",
+                "ipa": "[prəˈfɪʃənt]",
+                "meaning_zh": "熟練的，精通的"
+              },
+              {
+                "word": "adept",
+                "ipa": "[əˈdɛpt]",
+                "meaning_zh": "遊刃有餘的，熟練的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 44,
+          "headword": {
+            "word": "conventional",
+            "ipa": "[kənˈvɛnʃənəl]",
+            "pos": "adjective",
+            "meaning_zh": "傳統的，平凡的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The boss likes to wear a conventional navy suit.",
+            "zh": "老闆喜歡穿傳統的藍色西裝。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "traditional",
+                "ipa": "[trəˈdɪʃənəl]",
+                "meaning_zh": "傳統的，保守的"
+              },
+              {
+                "word": "conservative",
+                "ipa": "[kənˈsɝvətɪv]",
+                "meaning_zh": "守舊的；傳統的"
+              },
+              {
+                "word": "radical",
+                "ipa": "[ˈrædɪkəl]",
+                "meaning_zh": "激進的；徹底的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 45,
+          "headword": {
+            "word": "typical",
+            "ipa": "[ˈtɪpɪkəl]",
+            "pos": "adjective",
+            "meaning_zh": "典型的；特有的"
+          },
+          "phrases": [
+            {
+              "phrase": "be typical of A",
+              "meaning_zh": "是 A 的特點"
+            }
+          ],
+          "example": {
+            "en": "Harold is a typical businessperson with a 9 to 5 job.",
+            "zh": "哈羅德是個典型的上班族，做著朝九晚五的工作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "typically",
+                "ipa": "[ˈtɪpɪklɪ]",
+                "meaning_zh": "典型地；一般來說"
+              }
+            ]
+          }
+        },
+        {
+          "id": 46,
+          "headword": {
+            "word": "diligent",
+            "ipa": "[ˈdɪlədʒənt]",
+            "pos": "adjective",
+            "meaning_zh": "勤奮的，勤勞的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The diligent manager revived the failing business.",
+            "zh": "那位勤奮的經理讓衰敗的企業重新振作起來。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "industrious",
+                "ipa": "[ɪnˈdʌstrɪəs]",
+                "meaning_zh": "勤奮的，勤勞的"
+              },
+              {
+                "word": "hardworking",
+                "ipa": "[ˌhɑrdˈwɝkɪŋ]",
+                "meaning_zh": "勤奮的；用功的"
+              },
+              {
+                "word": "lazy",
+                "ipa": "[ˈlezɪ]",
+                "meaning_zh": "懶惰的；悠閒的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 47,
+          "headword": {
+            "word": "temporary",
+            "ipa": "[ˈtɛmpəˌrɛrɪ]",
+            "pos": "adjective",
+            "meaning_zh": "臨時的，暫時的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Ms. Mansfield will be the temporary editor while Mr. Chang is on leave.",
+            "zh": "張先生休假期間，曼斯菲爾德小姐將擔任臨時編輯。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "tentative",
+                "ipa": "[ˈtɛntətɪv]",
+                "meaning_zh": "暫時的；試驗性的"
+              },
+              {
+                "word": "interim",
+                "ipa": "[ˈɪntərɪm]",
+                "meaning_zh": "暫時的；過渡期的"
+              },
+              {
+                "word": "provisional",
+                "ipa": "[prəˈvɪʒənəl]",
+                "meaning_zh": "暫時的，臨時的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 48,
+          "headword": {
+            "word": "reliable",
+            "ipa": "[rɪˈlaɪəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "可靠的，可信的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Alex is proving to be a hardworking and reliable assistant.",
+            "zh": "事實證明艾力克斯是一位認真工作又可靠的助理。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "trustworthy",
+                "ipa": "[ˈtrʌstˌwɝðɪ]",
+                "meaning_zh": "可靠的；值得信賴的"
+              },
+              {
+                "word": "dependable",
+                "ipa": "[dɪˈpɛndəbəl]",
+                "meaning_zh": "可靠的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 49,
+          "headword": {
+            "word": "respective",
+            "ipa": "[rɪˈspɛktɪv]",
+            "pos": "adjective",
+            "meaning_zh": "各自的，分別的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The sisters are skilled in their own respective areas of science.",
+            "zh": "這對姊妹精通各自的科學領域。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "respectively",
+                "ipa": "[rɪˈspɛktɪvlɪ]",
+                "meaning_zh": "各自地，分別地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 50,
+          "headword": {
+            "word": "considerable",
+            "ipa": "[kənˈsɪdərəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "相當多的；重要的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We spent a considerable amount of money on refurbishing the office.",
+            "zh": "我們花了一大筆錢整修辦公室。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "consider",
+                "ipa": "[kənˈsɪdɚ]",
+                "meaning_zh": "考慮，細想"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "56-57",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 51,
+          "headword": {
+            "word": "promising",
+            "ipa": "[ˈprɑmɪsɪŋ]",
+            "pos": "adjective",
+            "meaning_zh": "前景看好的，大有可為的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Analysts forecast promising stock market gains for next quarter.",
+            "zh": "分析師預測下一季的股市將有不錯的成長。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "prospective",
+                "ipa": "[prəˈspɛktɪv]",
+                "meaning_zh": "有希望的；潛在的"
+              },
+              {
+                "word": "up-and-coming",
+                "ipa": "[ˌʌpəndˈkʌmɪŋ]",
+                "meaning_zh": "嶄露頭角的；有前途的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 52,
+          "headword": {
+            "word": "luxury",
+            "ipa": "[ˈlʌkʃərɪ]",
+            "pos": [
+              "adjective",
+              "noun"
+            ],
+            "meaning_zh": "形 豪華的，奢侈的 / 名 奢華；奢侈品"
+          },
+          "phrases": [],
+          "example": {
+            "en": "When Liz got a raise, she was able to afford a luxury car.",
+            "zh": "莉茲加薪之後就買得起豪華轎車了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "luxurious",
+                "ipa": "[lʌgˈʒʊrɪəs]",
+                "meaning_zh": "豪華的，奢侈的"
+              },
+              {
+                "word": "posh",
+                "ipa": "[pɑʃ]",
+                "meaning_zh": "奢侈的；一流的"
+              },
+              {
+                "word": "plush",
+                "ipa": "[plʌʃ]",
+                "meaning_zh": "豪華的，奢侈的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 53,
+          "headword": {
+            "word": "lucrative",
+            "ipa": "[ˈlukrətɪv]",
+            "pos": "adjective",
+            "meaning_zh": "賺大錢的，有利可圖的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The sales manager was praised for coming up with a lucrative marketing strategy.",
+            "zh": "銷售經理因為想出一個獲利豐厚的行銷策略而受到讚揚。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "profitable",
+                "ipa": "[ˈprɑfɪtəbəl]",
+                "meaning_zh": "有利可圖的，有收益的"
+              },
+              {
+                "word": "gainful",
+                "ipa": "[ˈgenfəl]",
+                "meaning_zh": "有利可圖的，有報酬的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 54,
+          "headword": {
+            "word": "affluent",
+            "ipa": "[ˈæfluənt]",
+            "pos": "adjective",
+            "meaning_zh": "富有的，有錢的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Ms. Han is an affluent investor who is active in the stock market.",
+            "zh": "韓小姐是位富有的投資人，在股市中相當活躍。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "wealthy",
+                "ipa": "[ˈwɛlθɪ]",
+                "meaning_zh": "富有的，有錢的"
+              },
+              {
+                "word": "prosperous",
+                "ipa": "[ˈprɑspərəs]",
+                "meaning_zh": "富裕的；繁榮的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 55,
+          "headword": {
+            "word": "primary",
+            "ipa": "[ˈpraɪˌmɛrɪ]",
+            "pos": "adjective",
+            "meaning_zh": "首要的，主要的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Joshua has primary responsibility for guest services at the hotel.",
+            "zh": "約書亞主要負責旅館的顧客服務。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "secondary",
+                "ipa": "[ˈsɛkənˌdɛrɪ]",
+                "meaning_zh": "次要的；中學的"
+              },
+              {
+                "word": "tertiary",
+                "ipa": "[ˈtɝʃɪˌɛrɪ]",
+                "meaning_zh": "第三級的；高等教育的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 56,
+          "headword": {
+            "word": "inexpensive",
+            "ipa": "[ˌɪnɪkˈspɛnsɪv]",
+            "pos": "adjective",
+            "meaning_zh": "價格不貴的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Paul searched for the most inexpensive flight over the internet.",
+            "zh": "保羅在網路上尋找最便宜的機票。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "cheap",
+                "ipa": "[tʃip]",
+                "meaning_zh": "便宜的；廉價的"
+              },
+              {
+                "word": "budget",
+                "ipa": "[ˈbʌdʒɪt]",
+                "meaning_zh": "低廉的"
+              },
+              {
+                "word": "expensive",
+                "ipa": "[ɪkˈspɛnsɪv]",
+                "meaning_zh": "昂貴的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 57,
+          "headword": {
+            "word": "affordable",
+            "ipa": "[əˈfɔrdəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "買得起的；付得起的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I have been searching for affordable housing for a year now.",
+            "zh": "我尋找買得起的房子已經找了一年了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "economical",
+                "ipa": "[ˌikəˈnɑmɪkəl]",
+                "meaning_zh": "省錢的；節約的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 58,
+          "headword": {
+            "word": "incredible",
+            "ipa": "[ɪnˈkrɛdəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "難以置信的；極好的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Aaron gave an incredible excuse for why he was late this morning.",
+            "zh": "亞倫為他今天早上遲到找了一個難以置信的理由。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "unbelievable",
+                "ipa": "[ˌʌnbɪˈlivəbəl]",
+                "meaning_zh": "難以置信的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 59,
+          "headword": {
+            "word": "flexible",
+            "ipa": "[ˈflɛksəbəl]",
+            "pos": "adjective",
+            "meaning_zh": "彈性的，靈活的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The firm grants staff flexible work hours, with some of them telecommuting.",
+            "zh": "公司給員工彈性的上下班時間，某些員工甚至可以遠距工作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "flexibility",
+                "ipa": "[ˌflɛksəˈbɪlətɪ]",
+                "meaning_zh": "彈性，靈活性"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "elastic",
+                "ipa": "[ɪˈlæstɪk]",
+                "meaning_zh": "有彈性的，可伸縮的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 60,
+          "headword": {
+            "word": "exclusive",
+            "ipa": "[ɪkˈsklusɪv]",
+            "pos": "adjective",
+            "meaning_zh": "高級的；獨家的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Mary was finally made a member of the exclusive club.",
+            "zh": "瑪麗終於成為這間高級俱樂部的一員。"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "exclude",
+                "ipa": "[ɪkˈsklud]",
+                "meaning_zh": "排除在外，不包括"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "58-59",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 61,
+          "headword": {
+            "word": "equivalent",
+            "ipa": "[ɪˈkwɪvələnt]",
+            "pos": "adjective",
+            "meaning_zh": "相等的，等值的"
+          },
+          "phrases": [
+            {
+              "phrase": "equivalent to A",
+              "meaning_zh": "與 A 相等"
+            }
+          ],
+          "example": {
+            "en": "After the prototype was destroyed, the engineers couldn't make an equivalent model.",
+            "zh": "原型被破壞之後，工程師無法再做出相同的模型了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "similar",
+                "ipa": "[ˈsɪməlɚ]",
+                "meaning_zh": "相似的"
+              },
+              {
+                "word": "identical",
+                "ipa": "[aɪˈdɛntɪkəl]",
+                "meaning_zh": "完全相同的；極相似的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 62,
+          "headword": {
+            "word": "valid",
+            "ipa": "[ˈvælɪd]",
+            "pos": "adjective",
+            "meaning_zh": "有效的，有法律效力的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Passengers boarding ES Flight 623 to Bucharest must hold valid passports.",
+            "zh": "乘坐 ES623 航班前往布加勒斯特的旅客必須攜帶有效護照。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "validity",
+                "ipa": "[vəˈlɪdətɪ]",
+                "meaning_zh": "正當；合法性"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "invalid",
+                "ipa": "[ɪnˈvælɪd]",
+                "meaning_zh": "無效的"
+              },
+              {
+                "word": "void",
+                "ipa": "[vɔɪd]",
+                "meaning_zh": "無效的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 63,
+          "headword": {
+            "word": "ambitious",
+            "ipa": "[æmˈbɪʃəs]",
+            "pos": "adjective",
+            "meaning_zh": "雄心壯志的，有野心的"
+          },
+          "phrases": [
+            {
+              "phrase": "be ambitious to + V",
+              "meaning_zh": "滿懷雄心壯志做某事"
+            }
+          ],
+          "example": {
+            "en": "Ken is an ambitious man who wants to climb up the corporate ladder.",
+            "zh": "肯懷有雄心壯志，想在公司裡一路往上爬。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "ambition",
+                "ipa": "[æmˈbɪʃən]",
+                "meaning_zh": "雄心，野心"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "aspiring",
+                "ipa": "[əˈspaɪrɪŋ]",
+                "meaning_zh": "有志氣的，有抱負的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 64,
+          "headword": {
+            "word": "reluctant",
+            "ipa": "[rɪˈlʌktənt]",
+            "pos": "adjective",
+            "meaning_zh": "不願意的，不情願的"
+          },
+          "phrases": [
+            {
+              "phrase": "be reluctant to + V",
+              "meaning_zh": "不願意做某事"
+            }
+          ],
+          "example": {
+            "en": "Ms. Zales is reluctant to help with such a risky endeavor.",
+            "zh": "札萊絲小姐不願意協助進行這麼危險的嘗試。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "hesitant",
+                "ipa": "[ˈhɛzətənt]",
+                "meaning_zh": "猶豫的，躊躇的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 65,
+          "headword": {
+            "word": "indifferent",
+            "ipa": "[ɪnˈdɪfərənt]",
+            "pos": "adjective",
+            "meaning_zh": "無動於衷的；冷淡的"
+          },
+          "phrases": [
+            {
+              "phrase": "be indifferent to A",
+              "meaning_zh": "對 A 無動於衷"
+            }
+          ],
+          "example": {
+            "en": "No matter how hard we tried to convince him, the client was indifferent to our proposal.",
+            "zh": "無論我們多麼努力地試著說服客戶，他還是對我們的提案無動於衷。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "lukewarm",
+                "ipa": "[ˈlukˌwɔrm]",
+                "meaning_zh": "冷淡的；微熱的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 66,
+          "headword": {
+            "word": "current",
+            "ipa": "[ˈkɝənt]",
+            "pos": "adjective",
+            "meaning_zh": "目前的，現在的"
+          },
+          "phrases": [
+            {
+              "phrase": "one's current job",
+              "meaning_zh": "某人的現職"
+            },
+            {
+              "phrase": "one's current address",
+              "meaning_zh": "某人的現址"
+            }
+          ],
+          "example": {
+            "en": "It's difficult to penetrate the market with our current product line.",
+            "zh": "我們目前的產品很難打入市場。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "present",
+                "ipa": "[ˈprɛznt]",
+                "meaning_zh": "目前的；在場的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 67,
+          "headword": {
+            "word": "unanimous",
+            "ipa": "[juˈnænəməs]",
+            "pos": "adjective",
+            "meaning_zh": "一致通過的，全體一致的"
+          },
+          "phrases": [
+            {
+              "phrase": "a unanimous decision",
+              "meaning_zh": "意見一致的決定"
+            }
+          ],
+          "example": {
+            "en": "The staff made a unanimous decision to set up a break room.",
+            "zh": "員工們一致決定布置一間休息室。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "unanimously",
+                "ipa": "[juˈnænəməslɪ]",
+                "meaning_zh": "全體一致地，無異議地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 68,
+          "headword": {
+            "word": "terrific",
+            "ipa": "[təˈrɪfɪk]",
+            "pos": "adjective",
+            "meaning_zh": "非常傑出的；可怕的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The singer gave a terrific performance and raised a lot of money for charity.",
+            "zh": "那位歌手的表演非常精彩，也為慈善機構募集到許多捐款。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "marvelous",
+                "ipa": "[ˈmɑrvələs]",
+                "meaning_zh": "了不起的，非凡的"
+              },
+              {
+                "word": "fabulous",
+                "ipa": "[ˈfæbjələs]",
+                "meaning_zh": "極好的，驚人的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 69,
+          "headword": {
+            "word": "vacant",
+            "ipa": "[ˈvekənt]",
+            "pos": "adjective",
+            "meaning_zh": "空缺的；心不在焉的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The firm put a help-wanted ad in the paper to fill the vacant manager position.",
+            "zh": "那間公司在報紙上登了一則招聘廣告，想找人填補經理職缺。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "vacancy",
+                "ipa": "[ˈvekənsɪ]",
+                "meaning_zh": "空缺；心不在焉"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "occupied",
+                "ipa": "[ˈɑkjəˌpaɪd]",
+                "meaning_zh": "已占用的；沒有空間的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 70,
+          "headword": {
+            "word": "embarrassed",
+            "ipa": "[ɪmˈbærəst]",
+            "pos": "adjective",
+            "meaning_zh": "尷尬的，窘迫的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I'm a bit embarrassed by all your praise.",
+            "zh": "您的讚美讓我覺得有點不好意思。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "shy",
+                "ipa": "[ʃaɪ]",
+                "meaning_zh": "害羞的"
+              },
+              {
+                "word": "ashamed",
+                "ipa": "[əˈʃemd]",
+                "meaning_zh": "羞愧的，難為情的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "60-61",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 71,
+          "headword": {
+            "word": "delighted",
+            "ipa": "[dɪˈlaɪtɪd]",
+            "pos": "adjective",
+            "meaning_zh": "讓人愉快的；滿意的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Customers will be delighted by our virtual try-on services.",
+            "zh": "顧客會很喜歡我們的虛擬試穿服務。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "pleased",
+                "ipa": "[plizd]",
+                "meaning_zh": "開心的；滿意的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 72,
+          "headword": {
+            "word": "nervous",
+            "ipa": "[ˈnɝvəs]",
+            "pos": "adjective",
+            "meaning_zh": "緊張的，擔心的"
+          },
+          "phrases": [
+            {
+              "phrase": "be nervous about A",
+              "meaning_zh": "很擔心 A"
+            }
+          ],
+          "example": {
+            "en": "Some people get very nervous when they board an aircraft.",
+            "zh": "有些人上飛機的時候會變得非常緊張。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "nerve",
+                "ipa": "[nɝv]",
+                "meaning_zh": "神經；勇氣"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 73,
+          "headword": {
+            "word": "complicated",
+            "ipa": "[ˈkɑmpləˌketɪd]",
+            "pos": "adjective",
+            "meaning_zh": "複雜的；麻煩的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The dispute between the two companies is a complicated one.",
+            "zh": "那兩家公司之間的糾紛很複雜。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "complex",
+                "ipa": "[ˈkɑmplɛks]",
+                "meaning_zh": "複雜的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 74,
+          "headword": {
+            "word": "sensitive",
+            "ipa": "[ˈsɛnsətɪv]",
+            "pos": "adjective",
+            "meaning_zh": "機密的；敏感的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Only approved employees have access to sensitive internal information.",
+            "zh": "只有經核准的員工才能接觸內部機密消息。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "sense",
+                "ipa": "[sɛns]",
+                "meaning_zh": "感官，感覺"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "sensible",
+                "ipa": "[ˈsɛnsəbəl]",
+                "meaning_zh": "明智的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 75,
+          "headword": {
+            "word": "patient",
+            "ipa": "[ˈpeʃənt]",
+            "pos": "adjective",
+            "meaning_zh": "有耐心的，忍耐的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Please be patient when waiting for a response to your inquiry.",
+            "zh": "請耐心等候我們回覆您的提問。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "patience",
+                "ipa": "[ˈpeʃəns]",
+                "meaning_zh": "忍耐，耐心"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "persevering",
+                "ipa": "[ˌpɝsəˈvɪrɪŋ]",
+                "meaning_zh": "堅持不懈的"
+              },
+              {
+                "word": "impatient",
+                "ipa": "[ɪmˈpeʃənt]",
+                "meaning_zh": "不耐煩的，沒有耐心的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 76,
+          "headword": {
+            "word": "permanent",
+            "ipa": "[ˈpɝmənənt]",
+            "pos": "adjective",
+            "meaning_zh": "固定的，永久的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I'm seeking a permanent position, not a temporary one.",
+            "zh": "我想找的是固定的工作，而不是臨時的職務。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "long-term",
+                "ipa": "[ˈlɔŋˌtɝm]",
+                "meaning_zh": "長期的"
+              },
+              {
+                "word": "perpetual",
+                "ipa": "[pɚˈpɛtʃuəl]",
+                "meaning_zh": "永久的，終身的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 77,
+          "headword": {
+            "word": "inferior",
+            "ipa": "[ɪnˈfɪrɪɚ]",
+            "pos": "adjective",
+            "meaning_zh": "低等的；較差的"
+          },
+          "phrases": [
+            {
+              "phrase": "inferior/superior to A",
+              "meaning_zh": "比不上 A／比 A 優秀"
+            }
+          ],
+          "example": {
+            "en": "Mr. Danforth's low rank made him feel inferior.",
+            "zh": "丹佛先生因為地位低微而感到自不如人。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "superior",
+                "ipa": "[səˈpɪrɪɚ]",
+                "meaning_zh": "高人一等的；優越的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 78,
+          "headword": {
+            "word": "overnight",
+            "ipa": "[ˌovɚˈnaɪt]",
+            "pos": [
+              "adjective",
+              "adverb"
+            ],
+            "meaning_zh": "形 一夜的，過夜的 / 副 一夜"
+          },
+          "phrases": [],
+          "example": {
+            "en": "My wife left this morning for an overnight business trip.",
+            "zh": "我太太今天早上出門出差兩天一夜。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "overnighter",
+                "ipa": "[ˌovɚˈnaɪtɚ]",
+                "meaning_zh": "兩天一夜的旅行；過夜包"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 79,
+          "headword": {
+            "word": "clerical",
+            "ipa": "[ˈklɛrɪkəl]",
+            "pos": "adjective",
+            "meaning_zh": "文書的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Ms. Kramer got a clerical job at a law firm downtown.",
+            "zh": "克萊默小姐在市中心的一間律師事務所找到一份文書工作。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "clerk",
+                "ipa": "[klɝk]",
+                "meaning_zh": "店員，職員"
+              }
+            ],
+            "adjective": [
+              {
+                "word": "administrative",
+                "ipa": "[ədˈmɪnəˌstretɪv]",
+                "meaning_zh": "行政的；管理的"
+              },
+              {
+                "word": "secretarial",
+                "ipa": "[ˌsɛkrəˈtɛrɪəl]",
+                "meaning_zh": "秘書的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 80,
+          "headword": {
+            "word": "jammed",
+            "ipa": "[dʒæmd]",
+            "pos": "adjective",
+            "meaning_zh": "卡住的，堵塞的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Paper has got jammed in the copier again.",
+            "zh": "影印機又卡紙了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "congested",
+                "ipa": "[kənˈdʒɛstɪd]",
+                "meaning_zh": "堵塞的；擁擠的"
+              },
+              {
+                "word": "stuck",
+                "ipa": "[stʌk]",
+                "meaning_zh": "卡住的；動彈不得的"
+              },
+              {
+                "word": "clogged",
+                "ipa": "[klɑgd]",
+                "meaning_zh": "堵塞的；阻塞的"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "62-63",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 81,
+          "headword": {
+            "word": "significant",
+            "ipa": "[sɪgˈnɪfəkənt]",
+            "pos": "adjective",
+            "meaning_zh": "顯著的；重要的"
+          },
+          "phrases": [
+            {
+              "phrase": "significant increase",
+              "meaning_zh": "大幅上升"
+            },
+            {
+              "phrase": "significant difference",
+              "meaning_zh": "顯著差異"
+            }
+          ],
+          "example": {
+            "en": "The report predicts a significant increase in oil prices.",
+            "zh": "這份報告預測油價將大幅上漲。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [
+              {
+                "word": "significance",
+                "ipa": "[sɪgˈnɪfəkəns]",
+                "meaning_zh": "重要性；特殊含義"
+              }
+            ],
+            "adjective": []
+          }
+        },
+        {
+          "id": 82,
+          "headword": {
+            "word": "specific",
+            "ipa": "[spɪˈsɪfɪk]",
+            "pos": "adjective",
+            "meaning_zh": "明確的；特定的"
+          },
+          "phrases": [
+            {
+              "phrase": "a specific topic",
+              "meaning_zh": "特定的話題"
+            }
+          ],
+          "example": {
+            "en": "Can you be more specific?",
+            "zh": "你能不能講得再明確一點？"
+          },
+          "related_words": {
+            "verb": [
+              {
+                "word": "specify",
+                "ipa": "[ˈspɛsəˌfaɪ]",
+                "meaning_zh": "具體說明，明確指出"
+              }
+            ],
+            "noun": [],
+            "adjective": []
+          }
+        },
+        {
+          "id": 83,
+          "headword": {
+            "word": "elementary",
+            "ipa": "[ˌɛləˈmɛntərɪ]",
+            "pos": "adjective",
+            "meaning_zh": "初級的，基本的"
+          },
+          "phrases": [],
+          "example": {
+            "en": "These classes take students from elementary to advanced level.",
+            "zh": "這些課程幫助學生從初級學到高級。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "basic",
+                "ipa": "[ˈbesɪk]",
+                "meaning_zh": "基礎的，根本的"
+              },
+              {
+                "word": "rudimentary",
+                "ipa": "[ˌrudəˈmɛntərɪ]",
+                "meaning_zh": "基本的，初步的"
+              }
+            ]
+          }
+        },
+        {
+          "id": 84,
+          "headword": {
+            "word": "fairly",
+            "ipa": "[ˈfɛrlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "相當地；一定程度地"
+          },
+          "phrases": [],
+          "example": {
+            "en": "This isn't a top brand but is fairly popular among young people.",
+            "zh": "雖然這不是頂級品牌，但是在年輕族群中相當受歡迎。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "quite",
+                "ipa": "[kwaɪt]",
+                "meaning_zh": "相當地；完全地"
+              },
+              {
+                "word": "justly",
+                "ipa": "[ˈdʒʌstlɪ]",
+                "meaning_zh": "公正地；正當地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 85,
+          "headword": {
+            "word": "initially",
+            "ipa": "[ɪˈnɪʃəlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "一開始；最初"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The boss was initially opposed to my proposal.",
+            "zh": "一開始，老闆反對我的提案。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "phrase": [
+              {
+                "word": "at first",
+                "meaning_zh": "起初，當初"
+              },
+              {
+                "word": "to begin with",
+                "meaning_zh": "起初；首先"
+              }
+            ]
+          }
+        },
+        {
+          "id": 86,
+          "headword": {
+            "word": "immediately",
+            "ipa": "[ɪˈmidɪətlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "立即，馬上"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Please contact the manufacturer immediately if there are any defects found in the product.",
+            "zh": "如果發現產品有任何瑕疵，請立即聯絡製造商。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "promptly",
+                "ipa": "[ˈprɑmptlɪ]",
+                "meaning_zh": "立即，迅速地"
+              }
+            ],
+            "phrase": [
+              {
+                "word": "right away",
+                "meaning_zh": "立即，馬上"
+              }
+            ]
+          }
+        },
+        {
+          "id": 87,
+          "headword": {
+            "word": "certainly",
+            "ipa": "[ˈsɝtnlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "一定，當然"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Jan and Susan are certainly welcome to join us for dinner tonight.",
+            "zh": "非常歡迎珍和蘇珊今晚和我們一起共進晚餐。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": []
+          }
+        },
+        {
+          "id": 88,
+          "headword": {
+            "word": "relatively",
+            "ipa": "[ˈrɛlətɪvlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "比較上；相對來說"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Relatively affluent people tend to buy this product line.",
+            "zh": "往往是比較有錢的人會購買這個產品。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "comparatively",
+                "ipa": "[kəmˈpærətɪvlɪ]",
+                "meaning_zh": "比較上；相對來說"
+              },
+              {
+                "word": "somewhat",
+                "ipa": "[ˈsʌmˌhwʌt]",
+                "meaning_zh": "有點，稍微有些"
+              }
+            ]
+          }
+        },
+        {
+          "id": 89,
+          "headword": {
+            "word": "hardly",
+            "ipa": "[ˈhɑrdlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "幾乎不；絕不"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We sat in the back row and could hardly hear the speaker.",
+            "zh": "我們坐在後排，幾乎聽不到講者說什麼。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "barely",
+                "ipa": "[ˈbɛrlɪ]",
+                "meaning_zh": "僅僅；幾乎沒有"
+              },
+              {
+                "word": "scarcely",
+                "ipa": "[ˈskɛrslɪ]",
+                "meaning_zh": "幾乎不；絕不"
+              }
+            ]
+          }
+        },
+        {
+          "id": 90,
+          "headword": {
+            "word": "actually",
+            "ipa": "[ˈæktʃuəlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "實際上"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Actually, I am the manager of the Miami branch, not the Houston one.",
+            "zh": "事實上，我是邁阿密分公司的經理，而非休士頓分公司。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [
+              {
+                "word": "actual",
+                "ipa": "[ˈæktʃuəl]",
+                "meaning_zh": "實際的，真正的"
+              }
+            ],
+            "adverb": [
+              {
+                "word": "really",
+                "ipa": "[ˈrɪlɪ]",
+                "meaning_zh": "事實上；非常"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "page_range": "64-65",
+      "category": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 1",
+      "entries": [
+        {
+          "id": 91,
+          "headword": {
+            "word": "eventually",
+            "ipa": "[ɪˈvɛntʃuəlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "終於，最終"
+          },
+          "phrases": [],
+          "example": {
+            "en": "After long negotiations, we eventually reached an agreement.",
+            "zh": "經過漫長的協商後，我們終於達成協議了。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "consequently",
+                "ipa": "[ˈkɑnsəkwɛntlɪ]",
+                "meaning_zh": "結果，因此"
+              }
+            ],
+            "phrase": [
+              {
+                "word": "as a result",
+                "meaning_zh": "結果，因此"
+              }
+            ]
+          }
+        },
+        {
+          "id": 92,
+          "headword": {
+            "word": "otherwise",
+            "ipa": "[ˈʌðɚˌwaɪz]",
+            "pos": "adverb",
+            "meaning_zh": "否則，不然"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Don't forget to send your deposit in advance; otherwise, your reservation will not be processed.",
+            "zh": "請記得預先支付訂金，否則將不受理您的預訂。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": []
+          }
+        },
+        {
+          "id": 93,
+          "headword": {
+            "word": "moreover",
+            "ipa": "[mɔrˈovɚ]",
+            "pos": "adverb",
+            "meaning_zh": "而且，此外"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The CEO is hard-working; moreover, he is quite decisive.",
+            "zh": "執行長非常認真，而且行事也很果斷。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "furthermore",
+                "ipa": "[ˌfɝðɚˈmɔr]",
+                "meaning_zh": "而且；再者"
+              }
+            ]
+          }
+        },
+        {
+          "id": 94,
+          "headword": {
+            "word": "nevertheless",
+            "ipa": "[ˌnɛvɚðəˈlɛs]",
+            "pos": "adverb",
+            "meaning_zh": "不過，儘管如此"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The climbing was difficult, but fun nevertheless.",
+            "zh": "登山雖然很困難，不過也很有趣。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "nonetheless",
+                "ipa": "[ˌnʌnðəˈlɛs]",
+                "meaning_zh": "然而；儘管"
+              },
+              {
+                "word": "notwithstanding",
+                "ipa": "[ˌnɑtwɪθˈstændɪŋ]",
+                "meaning_zh": "儘管"
+              }
+            ]
+          }
+        },
+        {
+          "id": 95,
+          "headword": {
+            "word": "approximately",
+            "ipa": "[əˈprɑksəmətlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "大約，大概"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The flight is scheduled to arrive in approximately ten hours.",
+            "zh": "班機預計約在十個鐘頭後抵達。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "roughly",
+                "ipa": "[ˈrʌflɪ]",
+                "meaning_zh": "大約，大致"
+              },
+              {
+                "word": "exactly",
+                "ipa": "[ɪgˈzæktlɪ]",
+                "meaning_zh": "精確地，確切地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 96,
+          "headword": {
+            "word": "rarely",
+            "ipa": "[ˈrɛrlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "很少，難得"
+          },
+          "phrases": [],
+          "example": {
+            "en": "We rarely have heavy snow like this in our area.",
+            "zh": "我們這一帶很少會下這麼大的雪。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "seldom",
+                "ipa": "[ˈsɛldəm]",
+                "meaning_zh": "很少，幾乎沒有"
+              }
+            ]
+          }
+        },
+        {
+          "id": 97,
+          "headword": {
+            "word": "gradually",
+            "ipa": "[ˈgrædʒuəlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "逐漸地；平緩地"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Why have our sales been decreasing gradually?",
+            "zh": "為什麼我們的銷售額逐漸往下掉了呢？"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "steadily",
+                "ipa": "[ˈstɛdəlɪ]",
+                "meaning_zh": "平穩地，穩固地"
+              }
+            ],
+            "phrase": [
+              {
+                "word": "by degrees",
+                "meaning_zh": "逐漸地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 98,
+          "headword": {
+            "word": "preferably",
+            "ipa": "[ˈprɛfərəblɪ]",
+            "pos": "adverb",
+            "meaning_zh": "更好地；最好"
+          },
+          "phrases": [],
+          "example": {
+            "en": "I want to meet you tomorrow morning, preferably at ten.",
+            "zh": "我明天早上想見你，最好是約十點碰面。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [],
+            "phrase": [
+              {
+                "word": "if possible",
+                "meaning_zh": "如果可能的話"
+              }
+            ]
+          }
+        },
+        {
+          "id": 99,
+          "headword": {
+            "word": "extremely",
+            "ipa": "[ɪkˈstrimlɪ]",
+            "pos": "adverb",
+            "meaning_zh": "非常，極其"
+          },
+          "phrases": [],
+          "example": {
+            "en": "Carl is extremely good at chess and plays it every day.",
+            "zh": "卡爾非常擅長西洋棋，而且他天天天下。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": [
+              {
+                "word": "exceedingly",
+                "ipa": "[ɪkˈsidɪŋlɪ]",
+                "meaning_zh": "非常，極其"
+              },
+              {
+                "word": "exceptionally",
+                "ipa": "[ɪkˈsɛpʃənəlɪ]",
+                "meaning_zh": "非常，特別地"
+              }
+            ]
+          }
+        },
+        {
+          "id": 100,
+          "headword": {
+            "word": "understandably",
+            "ipa": "[ˌʌndɚˈstændəblɪ]",
+            "pos": "adverb",
+            "meaning_zh": "易懂地；可理解地"
+          },
+          "phrases": [],
+          "example": {
+            "en": "The colleagues were understandably shocked by her sudden resignation.",
+            "zh": "同事們因她突然辭職而感到震驚是可以理解的。"
+          },
+          "related_words": {
+            "verb": [],
+            "noun": [],
+            "adjective": [],
+            "adverb": []
+          }
+        }
+      ]
+    }
+  ]
+}

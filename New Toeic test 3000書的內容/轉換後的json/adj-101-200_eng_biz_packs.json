@@ -1,0 +1,1588 @@
+{
+  "schema_version": "1.0.0",
+  "active_pack_id": "adj_level2_sec_01_68_69",
+  "packs": [
+    {
+      "pack_id": "adj_level2_sec_01_68_69",
+      "title": "形容詞 Level 2 第 1 組（頁碼 68-69）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-101-inevitable",
+          "word": "inevitable",
+          "ipa": "[ɪnˈɛvətəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "必然發生的，無可避免的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The scientist said that a big earthquake in the near future is inevitable.",
+              "zh": "科學家說不久之後必定會發生一場大地震。"
+            }
+          ]
+        },
+        {
+          "id": "a2-102-legitimate",
+          "word": "legitimate",
+          "ipa": "[ləˈdʒɪtəmət]",
+          "pos": "adjective",
+          "meaning_zh": "合法的，正當的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The bank insisted that they have been engaging in legitimate business practices.",
+              "zh": "銀行堅稱其一向從事合法的商業活動。"
+            }
+          ]
+        },
+        {
+          "id": "a2-103-superficial",
+          "word": "superficial",
+          "ipa": "[ˌsupɚˈfɪʃəl]",
+          "pos": "adjective",
+          "meaning_zh": "膚淺的，表面的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Jane and Jack was not simply a superficial romantic comedy but a heartwarming film.",
+              "zh": "《珍與傑克》並非僅僅是一部膚淺的愛情喜劇，而是一部溫暖人心的電影。"
+            }
+          ]
+        },
+        {
+          "id": "a2-104-humble",
+          "word": "humble",
+          "ipa": "[ˈhʌmbəl]",
+          "pos": "adjective",
+          "meaning_zh": "真誠的；謙虛的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The sales manager made a humble apology to the client for the mistake in the order.",
+              "zh": "銷售經理為訂單出差向客戶真誠致歉。"
+            }
+          ]
+        },
+        {
+          "id": "a2-105-mandatory",
+          "word": "mandatory",
+          "ipa": "[ˈmændəˌtɔrɪ]",
+          "pos": "adjective",
+          "meaning_zh": "強制的；法定的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The CEO told the employees that it is mandatory to attend the seminar.",
+              "zh": "執行長告知員工必須出席研討會。"
+            }
+          ]
+        },
+        {
+          "id": "a2-106-adjacent",
+          "word": "adjacent",
+          "ipa": "[əˈdʒesənt]",
+          "pos": "adjective",
+          "meaning_zh": "相鄰的，鄰近的",
+          "collocations": [
+            {
+              "phrase": "adjacent to A",
+              "meaning_zh": "在 A 隔壁"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Meg's office is adjacent to my office.",
+              "zh": "梅格的辦公室在我的辦公室隔壁。"
+            }
+          ]
+        },
+        {
+          "id": "a2-107-confidential",
+          "word": "confidential",
+          "ipa": "[ˌkɑnfəˈdɛnʃəl]",
+          "pos": "adjective",
+          "meaning_zh": "機密的；表示信任的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Confidential documents must be stored in locked cabinets.",
+              "zh": "機密文件務必存放在上鎖的櫃子裡。"
+            }
+          ]
+        },
+        {
+          "id": "a2-108-courteous",
+          "word": "courteous",
+          "ipa": "[ˈkɝtɪəs]",
+          "pos": "adjective",
+          "meaning_zh": "有禮貌的，謙恭的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "A good salesclerk should greet the customers in a courteous manner.",
+              "zh": "優秀的銷售人員應當禮貌地問候顧客。"
+            }
+          ]
+        },
+        {
+          "id": "a2-109-consecutive",
+          "word": "consecutive",
+          "ipa": "[kənˈsɛkjʊtɪv]",
+          "pos": "adjective",
+          "meaning_zh": "連續的，連貫的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Our company has posted profits for six consecutive years.",
+              "zh": "我們公司已經連續盈利六年了。"
+            }
+          ]
+        },
+        {
+          "id": "a2-110-diverse",
+          "word": "diverse",
+          "ipa": "[daɪˈvɝs]",
+          "pos": "adjective",
+          "meaning_zh": "形形色色的；多樣的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The country is made up of many diverse cultures that must be preserved.",
+              "zh": "這個國家由形形色色的文化所組成，這些文化必須保存下來才行。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_02_70_71",
+      "title": "形容詞 Level 2 第 2 組（頁碼 70-71）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-111-intense",
+          "word": "intense",
+          "ipa": "[ɪnˈtɛns]",
+          "pos": "adjective",
+          "meaning_zh": "熱切的；認真的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Craig had an intense discussion with the boss about business ethics.",
+              "zh": "克雷格跟老闆就商業倫理議題展開一場熱烈的討論。"
+            }
+          ]
+        },
+        {
+          "id": "a2-112-relevant",
+          "word": "relevant",
+          "ipa": "[ˈrɛləvənt]",
+          "pos": "adjective",
+          "meaning_zh": "相關的；合適的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "He was asked to make his speech relevant to the current project.",
+              "zh": "他的演講內容被要求要和目前的企劃案有關。"
+            }
+          ]
+        },
+        {
+          "id": "a2-113-feasible",
+          "word": "feasible",
+          "ipa": "[ˈfizəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "可行的；合理的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The factory managers decided 10 percent more output was feasible.",
+              "zh": "工廠經理認為產量增加 10% 是可行的。"
+            }
+          ]
+        },
+        {
+          "id": "a2-114-remote",
+          "word": "remote",
+          "ipa": "[rɪˈmot]",
+          "pos": "adjective",
+          "meaning_zh": "偏僻的，遙遠的；微乎其微的",
+          "collocations": [
+            {
+              "phrase": "remote chance",
+              "meaning_zh": "機會渺茫"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Liz lives in a remote area, far from any town or city.",
+              "zh": "麗茲住在很偏僻的地方，離任何城鎮或都市都很遠。"
+            }
+          ]
+        },
+        {
+          "id": "a2-115-synthetic",
+          "word": "synthetic",
+          "ipa": "[sɪnˈθɛtɪk]",
+          "pos": "adjective",
+          "meaning_zh": "人工的；合成的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "It's bad for your health to consume beverages with synthetic flavoring.",
+              "zh": "飲用含人工香料的飲品有害健康。"
+            }
+          ]
+        },
+        {
+          "id": "a2-116-preceding",
+          "word": "preceding",
+          "ipa": "[prɪˈsidɪŋ]",
+          "pos": "adjective",
+          "meaning_zh": "前一次的；在先的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "During the preceding meeting, one of the directors was dismissed.",
+              "zh": "有位董事在上次會議中被解雇了。"
+            }
+          ]
+        },
+        {
+          "id": "a2-117-discreet",
+          "word": "discreet",
+          "ipa": "[dɪˈskrit]",
+          "pos": "adjective",
+          "meaning_zh": "考慮周到的；謹慎的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Scott Consulting is discreet with all client matters.",
+              "zh": "斯科特顧問公司對於客戶的事情向來考慮周到。"
+            }
+          ]
+        },
+        {
+          "id": "a2-118-abundant",
+          "word": "abundant",
+          "ipa": "[əˈbʌndənt]",
+          "pos": "adjective",
+          "meaning_zh": "豐富的，充足的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The area was found to have abundant supplies of rare metal.",
+              "zh": "人們發現該區域擁有豐富的稀有金屬蘊藏。"
+            }
+          ]
+        },
+        {
+          "id": "a2-119-genuine",
+          "word": "genuine",
+          "ipa": "[ˈdʒɛnjuɪn]",
+          "pos": "adjective",
+          "meaning_zh": "真的，非偽造的；真誠的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We looked over the document many times to make sure it was a genuine one.",
+              "zh": "我們反覆檢查很多次以確認這份文件是真的。"
+            }
+          ]
+        },
+        {
+          "id": "a2-120-enormous",
+          "word": "enormous",
+          "ipa": "[ɪˈnɔrməs]",
+          "pos": "adjective",
+          "meaning_zh": "巨大的，龐大的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Solar energy has enormous potential which is yet to be tapped.",
+              "zh": "太陽能擁有龐大的潛能，尚且有待開發。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_03_72_73",
+      "title": "形容詞 Level 2 第 3 組（頁碼 72-73）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-121-terse",
+          "word": "terse",
+          "ipa": "[tɝs]",
+          "pos": "adjective",
+          "meaning_zh": "精簡的，簡練的",
+          "collocations": [
+            {
+              "phrase": "a terse report",
+              "meaning_zh": "精簡的報告書"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The boss always gives us terse answers to our questions.",
+              "zh": "老闆對於我們問的問題總是給予精簡扼要的答覆。"
+            }
+          ]
+        },
+        {
+          "id": "a2-122-intensive",
+          "word": "intensive",
+          "ipa": "[ɪnˈtɛnsɪv]",
+          "pos": "adjective",
+          "meaning_zh": "密集的；加強的",
+          "collocations": [
+            {
+              "phrase": "intensive care unit",
+              "meaning_zh": "加護病房，ICU"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "All new recruits must undergo intensive training at our firm.",
+              "zh": "所有的新進人員都必須參與公司的密集培訓。"
+            }
+          ]
+        },
+        {
+          "id": "a2-123-fragile",
+          "word": "fragile",
+          "ipa": "[ˈfrædʒəl]",
+          "pos": "adjective",
+          "meaning_zh": "易碎的；脆弱的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Ackien Express takes care with fragile items, placing them in special wrapping.",
+              "zh": "愛琴快遞公司小心處理易碎物品，採用特殊包裝材質加以保護。"
+            }
+          ]
+        },
+        {
+          "id": "a2-124-overwhelming",
+          "word": "overwhelming",
+          "ipa": "[ˌovɚˈhwɛlmɪŋ]",
+          "pos": "adjective",
+          "meaning_zh": "難以忍受的；壓倒性的",
+          "collocations": [
+            {
+              "phrase": "an overwhelming feeling",
+              "meaning_zh": "非常強烈的感受"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The large workload seemed overwhelming to some staff.",
+              "zh": "龐大的工作量似乎讓一些員工吃不消。"
+            }
+          ]
+        },
+        {
+          "id": "a2-125-obsolete",
+          "word": "obsolete",
+          "ipa": "[ˌɑbsəˈlit]",
+          "pos": "adjective",
+          "meaning_zh": "過時的；淘汰的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "My smartphone is obsolete compared to newer models but adequate for my purposes.",
+              "zh": "雖然我的智慧型手機跟新機型相比已經過時了，但它非常符合我的需求。"
+            }
+          ]
+        },
+        {
+          "id": "a2-126-complimentary",
+          "word": "complimentary",
+          "ipa": "[ˌkɑmpləˈmɛntərɪ]",
+          "pos": "adjective",
+          "meaning_zh": "贈送的；讚美的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Some airlines no longer give out complimentary meals during flights.",
+              "zh": "有些航空公司不再於飛行期間提供免費餐點。"
+            }
+          ]
+        },
+        {
+          "id": "a2-127-splendid",
+          "word": "splendid",
+          "ipa": "[ˈsplɛndɪd]",
+          "pos": "adjective",
+          "meaning_zh": "傑出的；輝煌的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Dr. Cook is known for his splendid achievements in medicine.",
+              "zh": "庫克醫生以傑出的醫術為人所知。"
+            }
+          ]
+        },
+        {
+          "id": "a2-128-cozy",
+          "word": "cozy",
+          "ipa": "[ˈkozɪ]",
+          "pos": "adjective",
+          "meaning_zh": "舒適的；愜意的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The new restaurant is popular with women because it has a cozy atmosphere.",
+              "zh": "這家新餐廳有著舒適的氛圍，因此廣受女性歡迎。"
+            }
+          ]
+        },
+        {
+          "id": "a2-129-rigid",
+          "word": "rigid",
+          "ipa": "[ˈrɪdʒɪd]",
+          "pos": "adjective",
+          "meaning_zh": "嚴格的；死板的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "There are many rigid rules we have to follow while working at the factory.",
+              "zh": "我們在工廠工作時要遵守很多嚴格的規定。"
+            }
+          ]
+        },
+        {
+          "id": "a2-130-consistent",
+          "word": "consistent",
+          "ipa": "[kənˈsɪstənt]",
+          "pos": "adjective",
+          "meaning_zh": "一致的，始終如一的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We train staff thoroughly in order to provide consistent service levels.",
+              "zh": "我們對員工進行完整的訓練，以提供一致的服務水準。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_04_74_75",
+      "title": "形容詞 Level 2 第 4 組（頁碼 74-75）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-131-sustainable",
+          "word": "sustainable",
+          "ipa": "[səˈstenəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "永續的，可長期發展的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Our company helps cities move toward sustainable energy consumption.",
+              "zh": "我們公司幫助城市朝向永續能源消費的目標邁進。"
+            }
+          ]
+        },
+        {
+          "id": "a2-132-impeccable",
+          "word": "impeccable",
+          "ipa": "[ɪmˈpɛkəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "無懈可擊的，完美的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Rena had impeccable leadership credentials, so she was often approached by executive recruiters.",
+              "zh": "雷娜擁有無懈可擊的領導資歷，所以高階獵頭常常找上她。"
+            }
+          ]
+        },
+        {
+          "id": "a2-133-versatile",
+          "word": "versatile",
+          "ipa": "[ˈvɝsətl]",
+          "pos": "adjective",
+          "meaning_zh": "多用途的；多才多藝的",
+          "collocations": [
+            {
+              "phrase": "a versatile player",
+              "meaning_zh": "多才多藝的選手"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The Super Sponge is a versatile item usable on most home surfaces.",
+              "zh": "超級海綿是一款多用途的商品，適用於絕大部分的屋內表面。"
+            }
+          ]
+        },
+        {
+          "id": "a2-134-spacious",
+          "word": "spacious",
+          "ipa": "[ˈspesəs]",
+          "pos": "adjective",
+          "meaning_zh": "寬敞的，廣闊的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Rhonda's new house has a spacious kitchen.",
+              "zh": "朗達的新家有個寬敞的廚房。"
+            }
+          ]
+        },
+        {
+          "id": "a2-135-unprecedented",
+          "word": "unprecedented",
+          "ipa": "[ʌnˈprɛsəˌdɛntɪd]",
+          "pos": "adjective",
+          "meaning_zh": "空前的，史無前例的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The company enjoyed unprecedented success this year.",
+              "zh": "這家公司今年獲得了空前的成功。"
+            }
+          ]
+        },
+        {
+          "id": "a2-136-outstanding",
+          "word": "outstanding",
+          "ipa": "[aʊtˈstændɪŋ]",
+          "pos": "adjective",
+          "meaning_zh": "未付清的；傑出的",
+          "collocations": [
+            {
+              "phrase": "an outstanding achievement",
+              "meaning_zh": "傑出成就"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "I have a balance of over $300 outstanding on my account.",
+              "zh": "我還有 300 多美金的欠款未付清。"
+            }
+          ]
+        },
+        {
+          "id": "a2-137-cordial",
+          "word": "cordial",
+          "ipa": "[ˈkɔrdʒəl]",
+          "pos": "adjective",
+          "meaning_zh": "友好的；誠摯的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Shareholders were mostly cordial at the conference, but tension remained over some policies.",
+              "zh": "雖然股東們在大會上態度多半很友善，但談到某些政策時仍是劍拔弩張。"
+            }
+          ]
+        },
+        {
+          "id": "a2-138-in-depth",
+          "word": "in-depth",
+          "ipa": "[ˈɪnˈdɛpθ]",
+          "pos": "adjective",
+          "meaning_zh": "深入的；全面的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "An in-depth study of the technical problem is necessary.",
+              "zh": "深入探討這個技術問題是必要的。"
+            }
+          ]
+        },
+        {
+          "id": "a2-139-hostile",
+          "word": "hostile",
+          "ipa": "[ˈhɑstl]",
+          "pos": "adjective",
+          "meaning_zh": "敵對的；有敵意的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The candidate made a hostile campaign against his rival.",
+              "zh": "那位候選人發起一場充滿敵意的競選活動打擊對手。"
+            }
+          ]
+        },
+        {
+          "id": "a2-140-extraordinary",
+          "word": "extraordinary",
+          "ipa": "[ɪkˈstrɔrdnˌɛrɪ]",
+          "pos": "adjective",
+          "meaning_zh": "不同凡響的，令人驚奇的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We must think up something extraordinary to increase sales.",
+              "zh": "我們必須想出不同凡響的策略來提升業績。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_05_76_77",
+      "title": "形容詞 Level 2 第 5 組（頁碼 76-77）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-141-tidy",
+          "word": "tidy",
+          "ipa": "[ˈtaɪdɪ]",
+          "pos": "adjective",
+          "meaning_zh": "整齊的，整潔的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Anna likes to keep a tidy desk, and has her files in alphabetical order.",
+              "zh": "安娜喜歡保持書桌乾淨整齊，並按照字母順序排放文件。"
+            }
+          ]
+        },
+        {
+          "id": "a2-142-preliminary",
+          "word": "preliminary",
+          "ipa": "[prɪˈlɪməˌnɛrɪ]",
+          "pos": "adjective",
+          "meaning_zh": "初步的；預備的",
+          "collocations": [
+            {
+              "phrase": "preliminary to A",
+              "meaning_zh": "為 A 準備的；先於 A 的"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The preliminary Quarter 3 report had information that was confirmed later.",
+              "zh": "第三季的初步報告資訊後來得到確認。"
+            }
+          ]
+        },
+        {
+          "id": "a2-143-durable",
+          "word": "durable",
+          "ipa": "[ˈdʒʊrəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "耐久的，耐用的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The new jeans are made of a durable fabric that can stand hundreds of washings.",
+              "zh": "這條新牛仔褲以耐用的布料製成，經得起好幾百次的洗滌。"
+            }
+          ]
+        },
+        {
+          "id": "a2-144-acclaimed",
+          "word": "acclaimed",
+          "ipa": "[əˈklemd]",
+          "pos": "adjective",
+          "meaning_zh": "受到讚揚的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The critically acclaimed movie Knights of the Mist won prizes in 28 countries.",
+              "zh": "廣受好評的電影《迷霧騎士》榮獲 28 個國家的獎項。"
+            }
+          ]
+        },
+        {
+          "id": "a2-145-redundant",
+          "word": "redundant",
+          "ipa": "[rɪˈdʌndənt]",
+          "pos": "adjective",
+          "meaning_zh": "多餘的，累贅的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I deleted some redundant agenda points.",
+              "zh": "我刪除了某些多餘的議程細項。"
+            }
+          ]
+        },
+        {
+          "id": "a2-146-vulnerable",
+          "word": "vulnerable",
+          "ipa": "[ˈvʌlnərəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "脆弱的；易受影響的",
+          "collocations": [
+            {
+              "phrase": "be vulnerable to A",
+              "meaning_zh": "容易受到 A 影響；在 A 面前不堪一擊"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The glassware company feels it is vulnerable to some emerging competitors.",
+              "zh": "那家玻璃製品公司認為自己在某些崛起的競爭對手面前顯得地位不保。"
+            }
+          ]
+        },
+        {
+          "id": "a2-147-negligible",
+          "word": "negligible",
+          "ipa": "[ˈnɛglɪdʒəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "微不足道的；可忽略的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Interest rates increased only a negligible amount, relieving many borrowers.",
+              "zh": "利率只有調漲一點點，讓借方鬆了一口氣。"
+            }
+          ]
+        },
+        {
+          "id": "a2-148-indispensable",
+          "word": "indispensable",
+          "ipa": "[ˌɪndɪˈspɛnsəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "不可或缺的，必需的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The R&D department is indispensable to the expansion plans of our company.",
+              "zh": "研發部門對我們公司的擴張計畫來說不可或缺。"
+            }
+          ]
+        },
+        {
+          "id": "a2-149-cutting-edge",
+          "word": "cutting-edge",
+          "ipa": "[ˈkʌtɪŋˌɛdʒ]",
+          "pos": "adjective",
+          "meaning_zh": "最新的；尖端的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The electronics firm is always creating cutting-edge products.",
+              "zh": "這家電子公司總是能創造出最先進的產品。"
+            }
+          ]
+        },
+        {
+          "id": "a2-150-high-profile",
+          "word": "high-profile",
+          "ipa": "[ˈhaɪˈprofaɪl]",
+          "pos": "adjective",
+          "meaning_zh": "備受關注的，引人注目的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Francine Patton is a high-profile executive who has often been interviewed by the business media.",
+              "zh": "法蘭辛．派頓是位備受關注的高階主管，常常受到商業媒體的採訪。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_06_78_79",
+      "title": "形容詞 Level 2 第 6 組（頁碼 78-79）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-151-top-notch",
+          "word": "top-notch",
+          "ipa": "[ˈtɑpˈnɑtʃ]",
+          "pos": "adjective",
+          "meaning_zh": "一流的，頂尖的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Marvin Xia is a top-notch currency trader who earns his firm substantial profits.",
+              "zh": "夏馬文是一位一流的外匯交易員，為公司帶來龐大的收益。"
+            }
+          ]
+        },
+        {
+          "id": "a2-152-commensurate",
+          "word": "commensurate",
+          "ipa": "[kəˈmɛnsərət]",
+          "pos": "adjective",
+          "meaning_zh": "相當的，相稱的",
+          "collocations": [
+            {
+              "phrase": "be commensurate with A",
+              "meaning_zh": "與 A 相稱"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "I was offered a salary commensurate with my experience.",
+              "zh": "我得到與我資歷相稱的薪資。"
+            }
+          ]
+        },
+        {
+          "id": "a2-153-irrevocable",
+          "word": "irrevocable",
+          "ipa": "[ɪˈrɛvəkəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "無法撤銷的；不可改變的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The client was warned that his decision would be irrevocable.",
+              "zh": "客戶被告知他的決定將無法撤銷。"
+            }
+          ]
+        },
+        {
+          "id": "a2-154-assorted",
+          "word": "assorted",
+          "ipa": "[əˈsɔrtɪd]",
+          "pos": "adjective",
+          "meaning_zh": "各式各樣的；混雜的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We offer assorted chocolates in white, milk, dark and more.",
+              "zh": "我們提供白巧克力、牛奶巧克力、黑巧克力等各色巧克力。"
+            }
+          ]
+        },
+        {
+          "id": "a2-155-ardent",
+          "word": "ardent",
+          "ipa": "[ˈɑrdnt]",
+          "pos": "adjective",
+          "meaning_zh": "熱情的；強烈的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The mayor is well-known as an ardent supporter of forest preservation.",
+              "zh": "市長是著名的森林保育熱情支持者。"
+            }
+          ]
+        },
+        {
+          "id": "a2-156-pertinent",
+          "word": "pertinent",
+          "ipa": "[ˈpɝtnənt]",
+          "pos": "adjective",
+          "meaning_zh": "直接相關的，有關的",
+          "collocations": [
+            {
+              "phrase": "pertinent to A",
+              "meaning_zh": "跟 A 有關的"
+            },
+            {
+              "phrase": "a pertinent question",
+              "meaning_zh": "切中要害的問題"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "We need more data pertinent to the reliability of the device.",
+              "zh": "我們需要更多跟設備可靠度有關的資料。"
+            }
+          ]
+        },
+        {
+          "id": "a2-157-comprehensive",
+          "word": "comprehensive",
+          "ipa": "[ˌkɑmprɪˈhɛnsɪv]",
+          "pos": "adjective",
+          "meaning_zh": "綜合的；詳盡的；全面的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "This booklet is a comprehensive guide to the tax returns in the country.",
+              "zh": "這本小冊子是該國報稅的綜合指南。"
+            }
+          ]
+        },
+        {
+          "id": "a2-158-substantial",
+          "word": "substantial",
+          "ipa": "[səbˈstænʃəl]",
+          "pos": "adjective",
+          "meaning_zh": "可觀的；重大的",
+          "collocations": [
+            {
+              "phrase": "substantial evidence",
+              "meaning_zh": "重要證據"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "I booked the 5-star hotel at a substantial discount.",
+              "zh": "我以超優惠的折扣價訂到一間五星級飯店。"
+            }
+          ]
+        },
+        {
+          "id": "a2-159-multiple",
+          "word": "multiple",
+          "ipa": "[ˈmʌltəpəl]",
+          "pos": "adjective",
+          "meaning_zh": "很多的；複合的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We have considered multiple sites for our new factory.",
+              "zh": "我們為新工廠認真考慮了很多設廠地點。"
+            }
+          ]
+        },
+        {
+          "id": "a2-160-mature",
+          "word": "mature",
+          "ipa": "[məˈtʃʊr]",
+          "pos": "adjective",
+          "meaning_zh": "成熟的；深思熟慮的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We must shift from mature car markets such as Japan and the EU.",
+              "zh": "我們必須轉移重心，撤出日本和歐盟等成熟車市。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_07_80_81",
+      "title": "形容詞 Level 2 第 7 組（頁碼 80-81）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-161-eligible",
+          "word": "eligible",
+          "ipa": "[ˈɛlɪdʒəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "有資格的",
+          "collocations": [
+            {
+              "phrase": "be eligible to + V",
+              "meaning_zh": "有資格做某事"
+            },
+            {
+              "phrase": "be eligible for A",
+              "meaning_zh": "符合 A 的資格"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "All employees are eligible to enter the national pension plan.",
+              "zh": "所有員工都有資格加入國家養老金計畫。"
+            }
+          ]
+        },
+        {
+          "id": "a2-162-prominent",
+          "word": "prominent",
+          "ipa": "[ˈprɑmənənt]",
+          "pos": "adjective",
+          "meaning_zh": "著名的；卓越的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Our guest tonight is the prominent composer and pianist, David Mackenzie.",
+              "zh": "我們今晚的嘉賓是著名作曲家及鋼琴家大衛．麥肯齊。"
+            }
+          ]
+        },
+        {
+          "id": "a2-163-ultimate",
+          "word": "ultimate",
+          "ipa": "[ˈʌltəmət]",
+          "pos": "adjective",
+          "meaning_zh": "最終的；根本的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We must seek an ultimate solution to the problem.",
+              "zh": "我們必須找出這個問題的最終解決方案。"
+            }
+          ]
+        },
+        {
+          "id": "a2-164-intact",
+          "word": "intact",
+          "ipa": "[ɪnˈtækt]",
+          "pos": "adjective",
+          "meaning_zh": "完好無損的，原封不動的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Pack fragile goods securely to ensure they arrive intact.",
+              "zh": "請妥善包裝易碎物品，以確保物品送達時完好無損。"
+            }
+          ]
+        },
+        {
+          "id": "a2-165-utmost",
+          "word": "utmost",
+          "ipa": "[ˈʌtˌmost]",
+          "pos": "adjective",
+          "meaning_zh": "極度的；最大的",
+          "collocations": [
+            {
+              "phrase": "utmost hospitality",
+              "meaning_zh": "最高級的款待"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "We assemble watch movements with the utmost precision.",
+              "zh": "我們以最高的精確度組裝手錶機芯。"
+            }
+          ]
+        },
+        {
+          "id": "a2-166-concerted",
+          "word": "concerted",
+          "ipa": "[kənˈsɝtɪd]",
+          "pos": "adjective",
+          "meaning_zh": "齊心協力的；一致的",
+          "collocations": [
+            {
+              "phrase": "a concerted effort",
+              "meaning_zh": "齊心協力"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "The two carmakers made a concerted effort to jointly develop a new engine.",
+              "zh": "兩家汽車製造商齊心協力，共同開發出一款新型引擎。"
+            }
+          ]
+        },
+        {
+          "id": "a2-167-exquisite",
+          "word": "exquisite",
+          "ipa": "[ɪkˈskwɪzɪt]",
+          "pos": "adjective",
+          "meaning_zh": "講究的；製作精良的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Her flat is furnished with exquisite taste.",
+              "zh": "她的公寓布置得相當講究。"
+            }
+          ]
+        },
+        {
+          "id": "a2-168-iconic",
+          "word": "iconic",
+          "ipa": "[aɪˈkɑnɪk]",
+          "pos": "adjective",
+          "meaning_zh": "極度受歡迎的；非常有名的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The Singapore Sling is an iconic cocktail of the colonial-style hotel.",
+              "zh": "新加坡司令是殖民風格酒店中相當受歡迎的一種雞尾酒。"
+            }
+          ]
+        },
+        {
+          "id": "a2-169-anonymous",
+          "word": "anonymous",
+          "ipa": "[əˈnɑnəməs]",
+          "pos": "adjective",
+          "meaning_zh": "匿名的",
+          "collocations": [
+            {
+              "phrase": "an anonymous source",
+              "meaning_zh": "匿名情報來源"
+            },
+            {
+              "phrase": "an anonymous gift",
+              "meaning_zh": "匿名贈禮"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Do you want your donation to be anonymous?",
+              "zh": "請問您希望匿名捐款嗎？"
+            }
+          ]
+        },
+        {
+          "id": "a2-170-commendable",
+          "word": "commendable",
+          "ipa": "[kəˈmɛndəbəl]",
+          "pos": "adjective",
+          "meaning_zh": "值得讚賞的；值得稱許的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The rescue teams did commendable work in the flood-damaged area.",
+              "zh": "救災團隊在洪災區的行動值得讚賞。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_08_82_83",
+      "title": "形容詞 Level 2 第 8 組（頁碼 82-83）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-171-congenial",
+          "word": "congenial",
+          "ipa": "[kənˈdʒinjəl]",
+          "pos": "adjective",
+          "meaning_zh": "怡人的；友善的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The small village is a congenial place for raising children.",
+              "zh": "這個小村莊是個適合養育孩子的好地方。"
+            }
+          ]
+        },
+        {
+          "id": "a2-172-cumulative",
+          "word": "cumulative",
+          "ipa": "[ˈkjumjʊlətɪv]",
+          "pos": "adjective",
+          "meaning_zh": "累積的，漸增的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "How do you plan to deal with your cumulative debts?",
+              "zh": "你打算怎麼處理日益累積的債務？"
+            }
+          ]
+        },
+        {
+          "id": "a2-173-touching",
+          "word": "touching",
+          "ipa": "[ˈtʌtʃɪŋ]",
+          "pos": "adjective",
+          "meaning_zh": "動人的，感人的",
+          "collocations": [
+            {
+              "phrase": "a touching speech",
+              "meaning_zh": "感人的演講"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "Her singing was the most touching part of the ceremony.",
+              "zh": "她的演唱是整場典禮最動人的部分。"
+            }
+          ]
+        },
+        {
+          "id": "a2-174-sweeping",
+          "word": "sweeping",
+          "ipa": "[ˈswipɪŋ]",
+          "pos": "adjective",
+          "meaning_zh": "寬闊的；影響廣泛的",
+          "collocations": [
+            {
+              "phrase": "a sweeping victory",
+              "meaning_zh": "大獲全勝"
+            }
+          ],
+          "short_sentences": [
+            {
+              "en": "You can enjoy a sweeping view of the city from here.",
+              "zh": "你可以從這裡飽覽城市全景。"
+            }
+          ]
+        },
+        {
+          "id": "a2-175-optimal",
+          "word": "optimal",
+          "ipa": "[ˈɑptəməl]",
+          "pos": "adjective",
+          "meaning_zh": "最佳的，最理想的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "We must look for the optimal timing to promote our new product.",
+              "zh": "我們必須找個最佳時機推銷新產品。"
+            }
+          ]
+        },
+        {
+          "id": "a2-176-pivotal",
+          "word": "pivotal",
+          "ipa": "[ˈpɪvətl]",
+          "pos": "adjective",
+          "meaning_zh": "關鍵的，核心的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Exposure to social media is pivotal to our sales campaigns.",
+              "zh": "在社群媒體上曝光對於我們的銷售活動來說非常重要。"
+            }
+          ]
+        },
+        {
+          "id": "a2-177-ubiquitous",
+          "word": "ubiquitous",
+          "ipa": "[juˈbɪkwətəs]",
+          "pos": "adjective",
+          "meaning_zh": "無所不在的，隨處可見的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Free WiFi spots in the city are ubiquitous, from cafes to public spaces.",
+              "zh": "這座城市從咖啡廳到公共場所，到處都有免費無線網路。"
+            }
+          ]
+        },
+        {
+          "id": "a2-178-prevailing",
+          "word": "prevailing",
+          "ipa": "[prɪˈvelɪŋ]",
+          "pos": "adjective",
+          "meaning_zh": "流行的；占優勢的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Visiting locations of famous scenes is a prevailing trend among young moviegoers.",
+              "zh": "拜訪著名場景的拍攝地點在年輕影迷族群中蔚為風潮。"
+            }
+          ]
+        },
+        {
+          "id": "a2-179-agile",
+          "word": "agile",
+          "ipa": "[ˈædʒəl]",
+          "pos": "adjective",
+          "meaning_zh": "敏銳的；敏捷的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The investor was agile enough to sell all her stocks just before the crash.",
+              "zh": "那名投資人相當敏銳，在股市崩盤前夕賣掉所有股票。"
+            }
+          ]
+        },
+        {
+          "id": "a2-180-robust",
+          "word": "robust",
+          "ipa": "[roˈbʌst]",
+          "pos": "adjective",
+          "meaning_zh": "蓬勃發展的，茁壯的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The CEO pledged the company would see robust growth next year.",
+              "zh": "執行長保證公司明年將強勁成長。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_09_84_85",
+      "title": "形容詞 Level 2 第 9 組（頁碼 84-85）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-181-stagnant",
+          "word": "stagnant",
+          "ipa": "[ˈstægnənt]",
+          "pos": "adjective",
+          "meaning_zh": "停滯的；混濁的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The economy is stagnant partly because people prefer saving to spending.",
+              "zh": "經濟停滯的部分原因是人們偏好儲蓄過於消費。"
+            }
+          ]
+        },
+        {
+          "id": "a2-182-contentious",
+          "word": "contentious",
+          "ipa": "[kənˈtɛnʃəs]",
+          "pos": "adjective",
+          "meaning_zh": "引發爭議的；愛爭論的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The president finally dropped his contentious restructuring plan after facing fierce criticism.",
+              "zh": "在強烈的批評聲浪下，董事長終於放棄了備受爭議的改組計畫。"
+            }
+          ]
+        },
+        {
+          "id": "a2-183-austere",
+          "word": "austere",
+          "ipa": "[ɔˈstɪr]",
+          "pos": "adjective",
+          "meaning_zh": "嚴峻的；嚴苛的；樸素的",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Under austere financial conditions, the company had to slash 20% of its workforce.",
+              "zh": "在嚴峻的財務情況下，公司必須削減 20% 的勞動力。"
+            }
+          ]
+        },
+        {
+          "id": "a2-184-beforehand",
+          "word": "beforehand",
+          "ipa": "[bɪˈforˌhænd]",
+          "pos": "adverb",
+          "meaning_zh": "提前；事先",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Please make your reservations beforehand to secure a space at the event.",
+              "zh": "請提前預訂以確保活動座位。"
+            }
+          ]
+        },
+        {
+          "id": "a2-185-literally",
+          "word": "literally",
+          "ipa": "[ˈlɪtərəlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "照字面地；逐字地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Ms. Jenner misunderstood her boss and took what he said literally.",
+              "zh": "珍娜小姐誤會老闆說的話，把字面意思當真了。"
+            }
+          ]
+        },
+        {
+          "id": "a2-186-regrettably",
+          "word": "regrettably",
+          "ipa": "[rɪˈgrɛtəblɪ]",
+          "pos": "adverb",
+          "meaning_zh": "很遺憾地，很可惜地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Regrettably, your application has not been accepted.",
+              "zh": "很遺憾，您的申請未獲受理。"
+            }
+          ]
+        },
+        {
+          "id": "a2-187-virtually",
+          "word": "virtually",
+          "ipa": "[ˈvɝtʃʊəlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "幾乎；虛擬地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The entire city was virtually at a standstill during the blackout.",
+              "zh": "整座城市在停電期間幾乎處於停擺狀態。"
+            }
+          ]
+        },
+        {
+          "id": "a2-188-drastically",
+          "word": "drastically",
+          "ipa": "[ˈdræstɪklɪ]",
+          "pos": "adverb",
+          "meaning_zh": "劇烈地；徹底地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Our company drastically changed after the new CEO came in.",
+              "zh": "新執行長上任後，我們公司起了劇烈的變化。"
+            }
+          ]
+        },
+        {
+          "id": "a2-189-separately",
+          "word": "separately",
+          "ipa": "[ˈsɛpərɪtlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "各自地，分別地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Ron and I decided to go to the trade show separately.",
+              "zh": "我和羅恩決定各自前往商展。"
+            }
+          ]
+        },
+        {
+          "id": "a2-190-definitely",
+          "word": "definitely",
+          "ipa": "[ˈdɛfənɪtlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "一定；明確地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I will definitely go on a trip to Europe this year.",
+              "zh": "我今年一定要去歐洲旅行。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pack_id": "adj_level2_sec_10_86_87",
+      "title": "形容詞 Level 2 第 10 組（頁碼 86-87）",
+      "description": "形容詞 & 副詞 (Adjectives & Adverbs) - LEVEL 2｜商用與軟體工程師語境｜共 10 個核心單字",
+      "level": "Level 2",
+      "words": [
+        {
+          "id": "a2-191-hence",
+          "word": "hence",
+          "ipa": "[hɛns]",
+          "pos": "adverb",
+          "meaning_zh": "因此；所以",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The company had posted losses for three consecutive years; hence, the CEO resigned.",
+              "zh": "那間公司已經連續虧損三年，執行長也因此辭職。"
+            }
+          ]
+        },
+        {
+          "id": "a2-192-subsequently",
+          "word": "subsequently",
+          "ipa": "[ˈsʌbsɪˌkwɛntlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "接著，隨後",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "She bought an old house in the suburbs, and subsequently renovated it completely.",
+              "zh": "她在郊區買下一棟老房子，接著進行徹底整修。"
+            }
+          ]
+        },
+        {
+          "id": "a2-193-arguably",
+          "word": "arguably",
+          "ipa": "[ˈɑrgjʊəblɪ]",
+          "pos": "adverb",
+          "meaning_zh": "大概，可能",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "This is arguably the best Madonna painted by Raffaello.",
+              "zh": "這幅畫可說是拉斐爾最好的聖母畫作。"
+            }
+          ]
+        },
+        {
+          "id": "a2-194-clockwise",
+          "word": "clockwise",
+          "ipa": "[ˈklɑkˌwaɪz]",
+          "pos": "adverb",
+          "meaning_zh": "順時針地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Please state your opinions, going clockwise around the table.",
+              "zh": "請按順時針方向繞桌一圈，輪番陳述意見。"
+            }
+          ]
+        },
+        {
+          "id": "a2-195-eloquently",
+          "word": "eloquently",
+          "ipa": "[ˈɛləkwəntlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "雄辯地；有說服力地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "The president spoke eloquently on the benefits of the merger deal.",
+              "zh": "董事長滔滔不絕地說著企業合併的好處。"
+            }
+          ]
+        },
+        {
+          "id": "a2-196-legibly",
+          "word": "legibly",
+          "ipa": "[ˈlɛdʒəblɪ]",
+          "pos": "adverb",
+          "meaning_zh": "字跡易讀地；清晰地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "This is an important document, so please write legibly in it.",
+              "zh": "這份文件非常重要，請書寫清楚。"
+            }
+          ]
+        },
+        {
+          "id": "a2-197-incidentally",
+          "word": "incidentally",
+          "ipa": "[ˌɪnsəˈdɛntəlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "順帶一提；不經意地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "I know the deadline. Incidentally, is there enough left in the project budget?",
+              "zh": "我知道截止期限。順便問一下，企劃案剩餘的預算還夠用嗎？"
+            }
+          ]
+        },
+        {
+          "id": "a2-198-simultaneously",
+          "word": "simultaneously",
+          "ipa": "[ˌsaɪməlˈtenɪəslɪ]",
+          "pos": "adverb",
+          "meaning_zh": "同時",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "A translation of the speech could be simultaneously heard during the broadcast.",
+              "zh": "廣播期間可同步收聽演講的譯文。"
+            }
+          ]
+        },
+        {
+          "id": "a2-199-presumably",
+          "word": "presumably",
+          "ipa": "[prɪˈzuməblɪ]",
+          "pos": "adverb",
+          "meaning_zh": "大概；想必",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Jen presumably missed the bus because she is very late.",
+              "zh": "珍想必是錯過了公車，因為她大遲到。"
+            }
+          ]
+        },
+        {
+          "id": "a2-200-exponentially",
+          "word": "exponentially",
+          "ipa": "[ˌɛkspoˈnɛnʃəlɪ]",
+          "pos": "adverb",
+          "meaning_zh": "呈現指數成長地",
+          "collocations": [],
+          "short_sentences": [
+            {
+              "en": "Online views of the dance video rose exponentially as word spread about it.",
+              "zh": "隨著舞蹈影片的廣泛流傳，該影片的線上觀看次數呈現指數成長。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
