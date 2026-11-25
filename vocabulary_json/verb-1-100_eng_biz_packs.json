@@ -30,12 +30,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Apply rate limits now.",
-              "zh": "現在套用速率限制。"
+              "en": "We should apply the rate limits to the public API immediately.",
+              "zh": "我們應該立即將速率限制套用到公開 API 上。"
             },
             {
-              "en": "Apply the hotfix immediately.",
-              "zh": "立刻套用緊急修補。"
+              "en": "The on-call engineer applied the hotfix to the production cluster right away.",
+              "zh": "值班工程師立刻將緊急修補程式套用到正式環境叢集。"
             }
           ]
         },
@@ -61,12 +61,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Submit the PR today.",
-              "zh": "今天提交 Pull Request。"
+              "en": "Please submit your pull request before the code freeze this afternoon.",
+              "zh": "請在今天下午程式碼凍結前提交你的 Pull Request。"
             },
             {
-              "en": "Submit a support ticket.",
-              "zh": "提交一份支援工單。"
+              "en": "Our customer support team submitted a high-priority ticket for the billing bug.",
+              "zh": "我們的客服團隊針對計費錯誤提交了一張高優先級工單。"
             }
           ]
         },
@@ -92,12 +92,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Let's discuss trade-offs first.",
-              "zh": "我們先討論取捨。"
+              "en": "Let's discuss the architectural trade-offs before we finalize the design doc.",
+              "zh": "在定案設計文件之前，我們先討論一下架構上的取捨。"
             },
             {
-              "en": "Discuss scope before coding.",
-              "zh": "寫程式前先談範圍。"
+              "en": "The engineering lead discussed the project scope with the product manager yesterday.",
+              "zh": "工程主管昨天與產品經理討論了專案的需求範圍。"
             }
           ]
         },
@@ -123,12 +123,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Ship it to production.",
-              "zh": "把它發布到正式環境。"
+              "en": "We are ready to ship the new payment service to the production environment.",
+              "zh": "我們已經準備好將新的支付服務發布到正式環境。"
             },
             {
-              "en": "We shipped on time.",
-              "zh": "我們準時交付上線了。"
+              "en": "Our backend team shipped the refactored notification pipeline right on schedule.",
+              "zh": "我們的後端團隊準時將重構後的通知管線交付上線了。"
             }
           ]
         },
@@ -154,12 +154,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Release the patch now.",
-              "zh": "現在發布修補程式。"
+              "en": "The DevOps team will release the security patch during the maintenance window.",
+              "zh": "DevOps 團隊將在維護時段發布這個安全性修補程式。"
             },
             {
-              "en": "Canary release looks healthy.",
-              "zh": "灰度發布看起來很正常。"
+              "en": "The canary release looks healthy across all regional Kubernetes clusters.",
+              "zh": "灰度發布在所有區域的 Kubernetes 叢集中看起來都很正常。"
             }
           ]
         },
@@ -185,12 +185,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Promote build to prod.",
-              "zh": "將建置推上正式環境。"
+              "en": "The release manager promoted the verified build from staging to production.",
+              "zh": "發布經理將通過驗證的建置版本從預備環境推送至正式環境。"
             },
             {
-              "en": "Promote this feature first.",
-              "zh": "先推廣這個功能。"
+              "en": "Our marketing team plans to promote this enterprise feature next quarter.",
+              "zh": "我們的行銷團隊計畫在下一季推廣這項企業級功能。"
             }
           ]
         },
@@ -216,12 +216,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Provide full error logs.",
-              "zh": "提供完整的錯誤日誌。"
+              "en": "Please provide the full error logs from the gateway so we can trace the failure.",
+              "zh": "請提供來自閘道器的完整錯誤日誌，以便我們追蹤失敗原因。"
             },
             {
-              "en": "Provide clear reproduction steps.",
-              "zh": "提供清楚的重現步驟。"
+              "en": "The QA engineer provided clear reproduction steps in the bug report.",
+              "zh": "QA 工程師在錯誤報告中提供了清楚的重現步驟。"
             }
           ]
         },
@@ -247,12 +247,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Charge per API call.",
-              "zh": "依每次 API 呼叫計費。"
+              "en": "Our billing engine charges enterprise clients based on their monthly API calls.",
+              "zh": "我們的計費引擎會根據企業客戶每月的 API 呼叫次數收費。"
             },
             {
-              "en": "Payment charged twice today.",
-              "zh": "今天扣款了兩次。"
+              "en": "The payment gateway accidentally charged the customer's credit card twice today.",
+              "zh": "支付閘道今天意外對該客戶的信用卡重複扣款了兩次。"
             }
           ]
         },
@@ -278,12 +278,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Appreciate the quick heads-up.",
-              "zh": "感謝及時提前提醒。"
+              "en": "I really appreciate the quick heads-up regarding the upstream database maintenance.",
+              "zh": "我非常感謝你針對上游資料庫維護所做的及時事前提醒。"
             },
             {
-              "en": "Appreciate your code review.",
-              "zh": "感謝你的程式碼審查。"
+              "en": "We appreciate your thorough code review on the distributed lock implementation.",
+              "zh": "我們非常感謝你對分散式鎖實作所進行的詳細程式碼審查。"
             }
           ]
         },
@@ -309,12 +309,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Stop accepting new traffic.",
-              "zh": "停止接收新流量。"
+              "en": "The overloaded node stopped accepting new incoming traffic until its queue drained.",
+              "zh": "過載的節點在佇列消化完畢前，已停止接收新的連入流量。"
             },
             {
-              "en": "Client accepted the proposal.",
-              "zh": "客戶接受了提案。"
+              "en": "The enterprise client officially accepted our technical proposal this morning.",
+              "zh": "該企業客戶今天早上正式接受了我們的技術提案。"
             }
           ]
         }
@@ -348,12 +348,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Approve this PR please.",
-              "zh": "請核准這個 PR。"
+              "en": "Could you please approve this pull request once the integration tests pass?",
+              "zh": "整合測試通過後，你可以幫忙核准這個 Pull Request 嗎？"
             },
             {
-              "en": "Budget got approved today.",
-              "zh": "預算今天核准了。"
+              "en": "The finance committee approved our cloud infrastructure budget for next year.",
+              "zh": "財務委員會今天核准了我們明年的雲端基礎設施預算。"
             }
           ]
         },
@@ -379,12 +379,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Adopt async messaging here.",
-              "zh": "這裡採用非同步訊息。"
+              "en": "We decided to adopt an asynchronous messaging architecture to decouple the services.",
+              "zh": "我們決定採用非同步訊息架構來解耦各個微服務。"
             },
             {
-              "en": "Team adopted new guidelines.",
-              "zh": "團隊採納了新規範。"
+              "en": "The entire engineering department adopted the new API security guidelines last month.",
+              "zh": "整個工程部門上個月採納了新的 API 資安規範。"
             }
           ]
         },
@@ -410,12 +410,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Increase worker pool size.",
-              "zh": "調大工作執行緒池。"
+              "en": "We need to increase the worker thread pool size to handle the holiday traffic spike.",
+              "zh": "我們需要調大工作執行緒池的規模，以應對假期的流量高峰。"
             },
             {
-              "en": "Throughput increased after tuning.",
-              "zh": "調校後吞吐量提升了。"
+              "en": "Our system throughput increased by forty percent after we tuned the JVM garbage collector.",
+              "zh": "在我們調校 JVM 垃圾回收器之後，系統吞吐量提升了百分之四十。"
             }
           ]
         },
@@ -441,12 +441,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Expand DB capacity soon.",
-              "zh": "盡快擴充資料庫容量。"
+              "en": "The infrastructure team must expand the database storage capacity before the campaign.",
+              "zh": "基礎設施團隊必須在行銷活動前擴充資料庫的儲存容量。"
             },
             {
-              "en": "Expand test coverage first.",
-              "zh": "先擴大測試覆蓋率。"
+              "en": "We should expand our unit test coverage before refactoring the core billing module.",
+              "zh": "在重構核心計費模組之前，我們應該先擴大單元測試的覆蓋率。"
             }
           ]
         },
@@ -472,12 +472,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Endpoint requires auth token.",
-              "zh": "端點需要驗證權杖。"
+              "en": "Every external API endpoint requires a valid authentication token in the header.",
+              "zh": "每個外部 API 端點都需要在標頭中帶入有效的驗證權杖。"
             },
             {
-              "en": "This requires a rollback.",
-              "zh": "這需要執行回滾。"
+              "en": "This critical schema migration error requires an immediate rollback to the previous version.",
+              "zh": "這個嚴重的資料庫結構遷移錯誤需要立即回滾到上一個版本。"
             }
           ]
         },
@@ -503,12 +503,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Inquire about enterprise pricing.",
-              "zh": "詢問企業版定價。"
+              "en": "Several prospective clients called to inquire about our enterprise SLA pricing.",
+              "zh": "有幾位潛在客戶來電詢問我們的企業版 SLA 定價方案。"
             },
             {
-              "en": "Customer inquired about SLA.",
-              "zh": "客戶詢問了 SLA。"
+              "en": "The account manager inquired about the current status of the custom integration.",
+              "zh": "客戶經理詢問了客製化整合專案目前的處理進度。"
             }
           ]
         },
@@ -534,12 +534,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Assign an incident owner.",
-              "zh": "指派事故負責人。"
+              "en": "The engineering manager assigned a dedicated incident owner to coordinate the recovery.",
+              "zh": "工程經理指派了一位專責的事故負責人來協調系統復原工作。"
             },
             {
-              "en": "Assign P1 to me.",
-              "zh": "把 P1 分派給我。"
+              "en": "Please assign the P1 production outage ticket to me so I can start investigating.",
+              "zh": "請把這張 P1 正式環境中斷工單分派給我，讓我可以開始調查。"
             }
           ]
         },
@@ -565,12 +565,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Designate an on-call lead.",
-              "zh": "指定值班主責人。"
+              "en": "We always designate a primary on-call engineer for each microservice domain.",
+              "zh": "我們都會為每個微服務領域指定一位主要的值班工程師。"
             },
             {
-              "en": "Use the designated queue.",
-              "zh": "使用指定的佇列。"
+              "en": "The consumer service reads messages directly from the designated dead-letter queue.",
+              "zh": "消費者服務會直接從指定的死信佇列中讀取訊息。"
             }
           ]
         },
@@ -596,12 +596,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Metrics indicate DB locks.",
-              "zh": "指標顯示資料庫鎖定。"
+              "en": "The Grafana metrics clearly indicate heavy row-level lock contention in the database.",
+              "zh": "Grafana 監控指標清楚顯示資料庫中存在嚴重的列級鎖競爭。"
             },
             {
-              "en": "Logs indicate a timeout.",
-              "zh": "日誌顯示發生逾時。"
+              "en": "The application logs indicate that the upstream payment gateway timed out repeatedly.",
+              "zh": "應用程式日誌顯示上游支付閘道器反覆發生連線逾時。"
             }
           ]
         },
@@ -627,12 +627,12 @@
           ],
           "short_sentences": [
             {
-              "en": "That implies breaking changes.",
-              "zh": "那代表有破壞性變更。"
+              "en": "Removing that legacy field from the response implies a breaking change for mobile clients.",
+              "zh": "從回應中移除那個舊欄位意味著對行動端客戶會造成破壞性變更。"
             },
             {
-              "en": "Higher QPS implies cost.",
-              "zh": "更高 QPS 代表成本增加。"
+              "en": "A higher QPS target generally implies additional compute and caching infrastructure costs.",
+              "zh": "更高的 QPS 目標通常意味著需要額外的運算與快取基礎設施成本。"
             }
           ]
         }
@@ -666,12 +666,12 @@
           ],
           "short_sentences": [
             {
-              "en": "File a bug ticket.",
-              "zh": "開一張 Bug 工單。"
+              "en": "The support engineer filed a detailed bug ticket after reproducing the checkout issue.",
+              "zh": "支援工程師在重現結帳問題後，提交了一張詳細的錯誤工單。"
             },
             {
-              "en": "File an incident report.",
-              "zh": "建立事故報告。"
+              "en": "We must file an official incident report within twenty-four hours of any major outage.",
+              "zh": "在任何重大中斷發生後的二十四小時內，我們都必須提交正式的事故報告。"
             }
           ]
         },
@@ -697,12 +697,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Consult the DBA first.",
-              "zh": "先諮詢 DBA。"
+              "en": "You should consult the senior DBA before adding new composite indexes to large tables.",
+              "zh": "在對大型資料表新增複合索引之前，你應該先諮詢資深資料庫管理員。"
             },
             {
-              "en": "Consult security on auth.",
-              "zh": "針對驗證諮詢資安。"
+              "en": "Our backend team consulted the security architects regarding the OAuth token rotation.",
+              "zh": "我們的後端團隊針對 OAuth 權杖輪換機制諮詢了資安架構師。"
             }
           ]
         },
@@ -728,12 +728,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Recommend adding a cache.",
-              "zh": "建議加上快取。"
+              "en": "I strongly recommend adding a distributed Redis cache to offload the primary database.",
+              "zh": "我強烈建議加上分散式 Redis 快取，以減輕主資料庫的負載。"
             },
             {
-              "en": "I recommend rolling back.",
-              "zh": "我建議先回滾。"
+              "en": "The incident commander recommended rolling back the deployment immediately to restore service.",
+              "zh": "事故指揮官建議立即回滾本次部署以恢復服務。"
             }
           ]
         },
@@ -759,12 +759,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Encourage small pull requests.",
-              "zh": "鼓勵提交小而精的 PR。"
+              "en": "We encourage developers to submit small, focused pull requests for faster code reviews.",
+              "zh": "我們鼓勵開發人員提交小而精準的 Pull Request，以加快程式碼審查速度。"
             },
             {
-              "en": "Encourage early QA testing.",
-              "zh": "鼓勵及早進行 QA 測試。"
+              "en": "The tech lead encourages early QA involvement during the initial API design phase.",
+              "zh": "技術主管鼓勵在最初的 API 設計階段就讓 QA 團隊及早參與。"
             }
           ]
         },
@@ -790,12 +790,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Register the webhook URL.",
-              "zh": "註冊 Webhook 網址。"
+              "en": "The partner developer registered their callback webhook URL in our developer portal.",
+              "zh": "合作夥伴開發人員在我們的開發者入口網站註冊了他們的回呼 Webhook 網址。"
             },
             {
-              "en": "Register service in registry.",
-              "zh": "向註冊中心註冊服務。"
+              "en": "Every newly deployed microservice automatically registers itself with the service registry.",
+              "zh": "每個新部署的微服務都會自動向服務註冊中心完成註冊。"
             }
           ]
         },
@@ -821,12 +821,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Enroll accounts in MFA.",
-              "zh": "將帳號納入 MFA 驗證。"
+              "en": "All internal administrator accounts must be enrolled in multi-factor authentication.",
+              "zh": "所有內部管理員帳號都必須納入多因素身分驗證。"
             },
             {
-              "en": "Enroll beta users now.",
-              "zh": "現在納入測試使用者。"
+              "en": "We plan to enroll five hundred enterprise users into the beta testing program next week.",
+              "zh": "我們計畫下週將五百名企業使用者納入測試版體驗計畫。"
             }
           ]
         },
@@ -852,12 +852,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Search logs by traceId.",
-              "zh": "依 traceId 搜尋日誌。"
+              "en": "You can search the centralized ELK logs by the unique trace ID to debug the request.",
+              "zh": "你可以透過唯一的追蹤 ID 搜尋集中的 ELK 日誌來除錯該請求。"
             },
             {
-              "en": "Add an index first.",
-              "zh": "先建立索引。"
+              "en": "The database takes too long to search unindexed text columns across millions of rows.",
+              "zh": "資料庫在數百萬筆資料列中搜尋未建立索引的文字欄位時耗時過久。"
             }
           ]
         },
@@ -883,12 +883,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Subscribe to order events.",
-              "zh": "訂閱訂單事件。"
+              "en": "The fulfillment service subscribes to the order-created topic on our Kafka cluster.",
+              "zh": "履約服務訂閱了我們 Kafka 叢集上的訂單建立主題。"
             },
             {
-              "en": "Subscribe to alert webhooks.",
-              "zh": "訂閱告警 Webhook。"
+              "en": "On-call engineers subscribe to critical alert webhooks in our dedicated Slack channel.",
+              "zh": "值班工程師在專屬的 Slack 頻道中訂閱了重要告警的 Webhook。"
             }
           ]
         },
@@ -914,12 +914,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Auth token expired early.",
-              "zh": "驗證權杖提早過期了。"
+              "en": "The user's authentication token expired prematurely due to clock drift on the server.",
+              "zh": "由於伺服器時鐘偏移，使用者的驗證權杖提早過期了。"
             },
             {
-              "en": "Session expires in ten.",
-              "zh": "工作階段十分鐘後到期。"
+              "en": "An inactive shopping cart session automatically expires after thirty minutes in Redis.",
+              "zh": "閒置的購物車工作階段在 Redis 中經過三十分鐘後會自動到期。"
             }
           ]
         },
@@ -945,12 +945,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Notify on-call right now.",
-              "zh": "立刻通知值班人員。"
+              "en": "The monitoring system automatically notifies the on-call engineer whenever error rates spike.",
+              "zh": "每當錯誤率飆升時，監控系統都會自動通知值班工程師。"
             },
             {
-              "en": "Notify stakeholders on status.",
-              "zh": "向利害關係人更新狀態。"
+              "en": "Please notify all key stakeholders as soon as the root cause analysis is complete.",
+              "zh": "一旦根本原因分析完成，請立即通知所有主要利害關係人。"
             }
           ]
         }
@@ -984,12 +984,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Calculate P99 latency now.",
-              "zh": "現在計算 P99 延遲。"
+              "en": "The observability platform calculates the P99 tail latency across all API gateways.",
+              "zh": "可觀測性平台會計算所有 API 閘道器的 P99 長尾延遲。"
             },
             {
-              "en": "Calculate monthly cloud cost.",
-              "zh": "計算每月雲端成本。"
+              "en": "We need to calculate the projected monthly cloud hosting cost for the new cluster.",
+              "zh": "我們需要計算新叢集預估的每月雲端託管成本。"
             }
           ]
         },
@@ -1015,12 +1015,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Estimate story points carefully.",
-              "zh": "仔細估算故事點數。"
+              "en": "The engineering team carefully estimated the story points for the database migration.",
+              "zh": "工程團隊仔細估算了這次資料庫遷移任務的故事點數。"
             },
             {
-              "en": "Estimate peak traffic load.",
-              "zh": "估算尖峰流量負載。"
+              "en": "It is difficult to estimate the exact peak traffic load during a flash sale event.",
+              "zh": "在限時搶購活動期間，很難精確估算尖峰流量的負載。"
             }
           ]
         },
@@ -1046,12 +1046,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Earn trust via reliability.",
-              "zh": "靠可靠性贏得信任。"
+              "en": "Our platform team earned the trust of product squads through consistent system reliability.",
+              "zh": "我們的平台團隊憑藉持續穩定的系統可靠性贏得了產品團隊的信任。"
             },
             {
-              "en": "Earn recurring SaaS revenue.",
-              "zh": "賺取經常性 SaaS 營收。"
+              "en": "The company earns predictable recurring revenue from its enterprise SaaS subscriptions.",
+              "zh": "該公司透過企業版 SaaS 訂閱服務賺取穩定的經常性營收。"
             }
           ]
         },
@@ -1077,12 +1077,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Can we afford downtime?",
-              "zh": "我們承受得起停機嗎？"
+              "en": "Our global payment platform cannot afford any unscheduled downtime during peak hours.",
+              "zh": "我們的全球支付平台在尖峰時段承受不起任何非計畫性的停機。"
             },
             {
-              "en": "Avoid costly lock contention.",
-              "zh": "避免高代價的鎖競爭。"
+              "en": "We cannot afford the performance penalty caused by heavy database lock contention.",
+              "zh": "我們承受不起嚴重資料庫鎖競爭所帶來的效能損耗。"
             }
           ]
         },
@@ -1108,12 +1108,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Sponsor open-source maintainers.",
-              "zh": "贊助開源維護者。"
+              "en": "Our company regularly donates funds to support the open-source maintainers we rely on.",
+              "zh": "我們公司定期捐款支持我們所依賴的開源專案維護者。"
             },
             {
-              "en": "Company donates unused credits.",
-              "zh": "公司捐贈未用完額度。"
+              "en": "The cloud vendor donated unused compute credits to local university research labs.",
+              "zh": "這家雲端供應商將未用完的運算額度捐贈給當地大學的研究實驗室。"
             }
           ]
         },
@@ -1139,12 +1139,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Hire senior backend engineers.",
-              "zh": "招募資深後端工程師。"
+              "en": "We are actively looking to hire two senior backend engineers with distributed systems experience.",
+              "zh": "我們正積極招募兩位具備分散式系統經驗的資深後端工程師。"
             },
             {
-              "en": "Hiring freeze this quarter.",
-              "zh": "本季凍結招募。"
+              "en": "Management announced a temporary hiring freeze until the fourth-quarter budget is finalized.",
+              "zh": "管理層宣布在第四季預算定案前暫時凍結招募。"
             }
           ]
         },
@@ -1170,12 +1170,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Launch MVP next week.",
-              "zh": "下週推出 MVP。"
+              "en": "The product team plans to launch the minimum viable product to early adopters next week.",
+              "zh": "產品團隊計畫下週向早期採用者推出最小可行性產品。"
             },
             {
-              "en": "Feature launched to ten.",
-              "zh": "功能已向 10% 開放。"
+              "en": "We gradually launched the new recommendation engine to ten percent of our active users.",
+              "zh": "我們將新的推薦引擎逐步向百分之十的活躍使用者開放上線。"
             }
           ]
         },
@@ -1201,12 +1201,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Prove it with benchmarks.",
-              "zh": "用基準測試證明它。"
+              "en": "You must prove that the new caching layer reduces latency by running realistic benchmarks.",
+              "zh": "你必須透過執行貼近真實情境的基準測試，來證明新的快取層能降低延遲。"
             },
             {
-              "en": "Load test proved stability.",
-              "zh": "壓測證明了穩定性。"
+              "en": "The stress test proved that our auto-scaling configuration handles triple the normal load.",
+              "zh": "壓力測試證明了我們的自動擴展設定能夠承受三倍於平時的負載。"
             }
           ]
         },
@@ -1232,12 +1232,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Display clear error banners.",
-              "zh": "顯示清楚的錯誤提示。"
+              "en": "The frontend application displays a clear error banner whenever the network connection drops.",
+              "zh": "每當網路連線中斷時，前端應用程式都會顯示清楚的錯誤提示橫幅。"
             },
             {
-              "en": "Display latency on dashboard.",
-              "zh": "在儀表板顯示延遲。"
+              "en": "Our real-time Grafana dashboard displays the request latency for every microservice.",
+              "zh": "我們的即時 Grafana 儀表板會顯示每個微服務的請求延遲。"
             }
           ]
         },
@@ -1263,12 +1263,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Zero-downtime deploy succeeded!",
-              "zh": "零停機部署成功了！"
+              "en": "The engineering team celebrated a smooth, zero-downtime deployment of the core ledger.",
+              "zh": "工程團隊慶祝核心帳本系統順利完成零停機部署。"
             },
             {
-              "en": "Celebrate hitting SLA goals.",
-              "zh": "慶祝達成 SLA 目標。"
+              "en": "We celebrated hitting our ninety-nine-point-nine-nine percent SLA uptime goal this quarter.",
+              "zh": "我們慶祝本季達成了百分之九十九點九九的 SLA 可用性目標。"
             }
           ]
         }
@@ -1302,12 +1302,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Replace legacy cron jobs.",
-              "zh": "替換老舊排程工作。"
+              "en": "We plan to replace the fragile legacy cron jobs with a distributed task scheduler.",
+              "zh": "我們計畫用分散式任務排程器來取代脆弱的老舊排程工作。"
             },
             {
-              "en": "Replace sync call async.",
-              "zh": "把同步呼叫改非同步。"
+              "en": "The architect replaced the blocking synchronous HTTP calls with an event-driven queue.",
+              "zh": "架構師用事件驅動的訊息佇列取代了阻塞式的同步 HTTP 呼叫。"
             }
           ]
         },
@@ -1333,12 +1333,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Adjust connection pool limit.",
-              "zh": "調整連線池上限。"
+              "en": "The DBA adjusted the database connection pool limit to prevent connection exhaustion.",
+              "zh": "資料庫管理員調整了資料庫連線池上限，以防止連線耗盡。"
             },
             {
-              "en": "Adjust retry backoff window.",
-              "zh": "調整重試退避視窗。"
+              "en": "We adjusted the exponential retry backoff window to avoid overwhelming downstream services.",
+              "zh": "我們調整了指數重試退避視窗，以避免壓垮下游服務。"
             }
           ]
         },
@@ -1364,12 +1364,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Fix the race condition.",
-              "zh": "修復那個競爭條件。"
+              "en": "The backend developer fixed the race condition in the inventory deduction logic.",
+              "zh": "後端開發人員修復了庫存扣減邏輯中的競爭條件問題。"
             },
             {
-              "en": "Fix memory leak today.",
-              "zh": "今天修復記憶體洩漏。"
+              "en": "We need to fix the severe memory leak in the worker container before it crashes again.",
+              "zh": "我們必須在工作容器再次崩潰之前修復其中嚴重的記憶體洩漏。"
             }
           ]
         },
@@ -1395,12 +1395,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Locks caused thread starvation.",
-              "zh": "鎖造成了執行緒飢餓。"
+              "en": "Unindexed table scans caused severe thread starvation across the entire API cluster.",
+              "zh": "未建立索引的整表掃描在整個 API 叢集中造成了嚴重的執行緒飢餓。"
             },
             {
-              "en": "Find the root cause.",
-              "zh": "找出根本原因。"
+              "en": "The engineering team worked overnight to identify the root cause of the replication lag.",
+              "zh": "工程團隊連夜工作以找出主從複製延遲的根本原因。"
             }
           ]
         },
@@ -1426,12 +1426,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Guarantee at-least-once delivery.",
-              "zh": "保證至少一次投遞。"
+              "en": "Our message broker guarantees at-least-once delivery for all financial transaction events.",
+              "zh": "我們的訊息代理器保證所有金融交易事件至少會被投遞一次。"
             },
             {
-              "en": "Check SLA guarantees first.",
-              "zh": "先確認 SLA 保證條款。"
+              "en": "Please review the vendor's SLA guarantees before signing the cloud hosting contract.",
+              "zh": "在簽署雲端託管合約之前，請先確認供應商的 SLA 保證條款。"
             }
           ]
         },
@@ -1457,12 +1457,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Update API docs first.",
-              "zh": "先更新 API 文件。"
+              "en": "Developers must update the OpenAPI specification whenever they modify an endpoint.",
+              "zh": "每當修改端點時，開發人員都必須同步更新 OpenAPI 規格文件。"
             },
             {
-              "en": "Update config and reload.",
-              "zh": "更新設定並重新載入。"
+              "en": "The operator updated the Nginx configuration and reloaded the service without dropping connections.",
+              "zh": "維運人員更新了 Nginx 設定並在不中斷現有連線的情況下重新載入服務。"
             }
           ]
         },
@@ -1488,12 +1488,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Describe exact failure steps.",
-              "zh": "描述確切的失敗步驟。"
+              "en": "Please describe the exact steps that triggered the unhandled exception in production.",
+              "zh": "請描述在正式環境中觸發該未處理例外的確切步驟。"
             },
             {
-              "en": "Describe system trade-offs clearly.",
-              "zh": "清楚說明系統取捨。"
+              "en": "The architecture proposal clearly describes the trade-offs between consistency and availability.",
+              "zh": "這份架構提案清楚說明了一致性與可用性之間的技術取捨。"
             }
           ]
         },
@@ -1519,12 +1519,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Instruct clients to retry.",
-              "zh": "指示客戶端進行重試。"
+              "en": "The gateway instructs client applications to retry after a brief delay using a Retry-After header.",
+              "zh": "閘道器透過 Retry-After 標頭指示客戶端應用程式在短暫延遲後重試。"
             },
             {
-              "en": "Follow setup instructions carefully.",
-              "zh": "仔細依照設定說明操作。"
+              "en": "New engineers must follow the local environment setup instructions carefully.",
+              "zh": "新進工程師必須仔細依照本地環境的設定說明進行操作。"
             }
           ]
         },
@@ -1550,12 +1550,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Address high CPU first.",
-              "zh": "先處理高 CPU 問題。"
+              "en": "We must address the high CPU utilization on the primary database node before traffic peaks.",
+              "zh": "我們必須在流量達到高峰前先處理主資料庫節點 CPU 使用率過高的問題。"
             },
             {
-              "en": "Address tech debt gradually.",
-              "zh": "逐步處理技術債。"
+              "en": "The team allocates twenty percent of every sprint to address accumulated technical debt.",
+              "zh": "團隊在每個衝刺週期中都會分配百分之二十的時間來逐步處理累積的技術債。"
             }
           ]
         },
@@ -1581,12 +1581,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Resolve merge conflicts now.",
-              "zh": "現在解決合併衝突。"
+              "en": "Please resolve all merge conflicts in your feature branch before requesting a final review.",
+              "zh": "在請求最終審查之前，請先解決你功能分支中的所有合併衝突。"
             },
             {
-              "en": "Incident resolved in ten.",
-              "zh": "十分鐘內解決事故。"
+              "en": "The on-call team resolved the network routing incident in less than ten minutes.",
+              "zh": "值班團隊在不到十分鐘內就解決了這次網路路由事故。"
             }
           ]
         }
@@ -1620,12 +1620,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Conclude RCA with actions.",
-              "zh": "以行動項結束 RCA。"
+              "en": "We always conclude every postmortem review with concrete, assigned action items.",
+              "zh": "我們總是以具體且指派好負責人的行動項目來結束每一次事後檢討。"
             },
             {
-              "en": "We concluded the review.",
-              "zh": "我們結束了審查。"
+              "en": "The architecture committee concluded its security review and approved the deployment.",
+              "zh": "架構委員會結束了安全性審查並核准了此次部署。"
             }
           ]
         },
@@ -1651,12 +1651,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Convince them with metrics.",
-              "zh": "用指標說服他們。"
+              "en": "The performance engineer convinced the team to rewrite the parser using concrete benchmark metrics.",
+              "zh": "效能工程師用具體的基準測試指標說服團隊重寫該解析器。"
             },
             {
-              "en": "Data convinced the lead.",
-              "zh": "數據說服了主管。"
+              "en": "The load testing data convinced the engineering lead that we needed read replicas.",
+              "zh": "負載測試數據說服了工程主管我們需要建立唯讀副本。"
             }
           ]
         },
@@ -1682,12 +1682,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Determine exact root cause.",
-              "zh": "判定確切根本原因。"
+              "en": "The diagnostic team analyzed the heap dump to determine the exact cause of the out-of-memory error.",
+              "zh": "診斷團隊分析了堆積傾印，以判定記憶體不足錯誤的確切原因。"
             },
             {
-              "en": "Set proper cache TTL.",
-              "zh": "設定適當快取 TTL。"
+              "en": "We need to determine an appropriate cache TTL that balances freshness and database load.",
+              "zh": "我們需要決定一個適當的快取 TTL，以兼顧資料即時性與資料庫負載。"
             }
           ]
         },
@@ -1713,12 +1713,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Insist on idempotent APIs.",
-              "zh": "堅持 API 具備冪等性。"
+              "en": "Our principal architect insists on making all payment processing APIs strictly idempotent.",
+              "zh": "我們的首席架構師堅持所有支付處理 API 都必須具備嚴格的冪等性。"
             },
             {
-              "en": "Insist on test coverage.",
-              "zh": "堅持測試覆蓋率。"
+              "en": "The tech lead insists on maintaining at least eighty percent unit test coverage across repositories.",
+              "zh": "技術主管堅持所有程式碼庫都必須維持至少百分之八十的單元測試覆蓋率。"
             }
           ]
         },
@@ -1744,12 +1744,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Ensure strong data consistency.",
-              "zh": "確保強資料一致性。"
+              "en": "Distributed transactions require careful locking to ensure strong data consistency across shards.",
+              "zh": "分散式交易需要謹慎的鎖定機制，以確保跨分片的強資料一致性。"
             },
             {
-              "en": "Ensure backward compatibility here.",
-              "zh": "這裡確保向下相容。"
+              "en": "We run automated contract tests in CI to ensure backward compatibility for older mobile apps.",
+              "zh": "我們在 CI 中執行自動化契約測試，以確保對舊版行動應用程式的向下相容性。"
             }
           ]
         },
@@ -1775,12 +1775,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Quote exact error lines.",
-              "zh": "引用確切錯誤行數。"
+              "en": "Please quote the exact stack trace lines when you escalate the bug to the platform team.",
+              "zh": "當你將此錯誤升級回報給平台團隊時，請引用確切的堆疊追蹤行數。"
             },
             {
-              "en": "Send enterprise pricing quote.",
-              "zh": "寄出企業版報價單。"
+              "en": "The sales director sent a formal pricing quote to the prospective enterprise client.",
+              "zh": "業務總監向潛在的企業客戶寄出了一份正式的報價單。"
             }
           ]
         },
@@ -1806,12 +1806,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Realize business ROI fast.",
-              "zh": "快速實現商業 ROI。"
+              "en": "By automating the deployment pipeline, the company realized a significant return on investment.",
+              "zh": "透過自動化部署管線，公司快速實現了顯著的投資報酬率。"
             },
             {
-              "en": "We realized the bottleneck.",
-              "zh": "我們察覺到瓶頸了。"
+              "en": "We quickly realized that the synchronous logging library was our primary throughput bottleneck.",
+              "zh": "我們很快就察覺到同步日誌函式庫是我們主要的吞吐量瓶頸。"
             }
           ]
         },
@@ -1837,12 +1837,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Achieve 99.99% uptime target.",
-              "zh": "達成 99.99% 可用性目標。"
+              "en": "Our multi-region architecture allows the platform to achieve its 99.99% uptime target.",
+              "zh": "我們的多區域架構使平台能夠達成 99.99% 的可用性目標。"
             },
             {
-              "en": "Achieve sub-50ms P99 latency.",
-              "zh": "達成 50ms 內 P99 延遲。"
+              "en": "After optimizing the Redis pipeline, the service achieved sub-50ms P99 response latency.",
+              "zh": "在優化 Redis 管線之後，該服務達成了 50 毫秒以內的 P99 回應延遲。"
             }
           ]
         },
@@ -1868,12 +1868,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Fulfill orders via queue.",
-              "zh": "透過佇列處理訂單履約。"
+              "en": "The backend system fulfills incoming customer orders asynchronously through a durable queue.",
+              "zh": "後端系統透過持久化訊息佇列以非同步方式處理並履行進來的客戶訂單。"
             },
             {
-              "en": "Fulfill SLA commitments daily.",
-              "zh": "每日履行 SLA 承諾。"
+              "en": "Our operations team works around the clock to fulfill our enterprise SLA commitments.",
+              "zh": "我們的維運團隊全天候運作，以履行對企業客戶的 SLA 承諾。"
             }
           ]
         },
@@ -1899,12 +1899,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Conduct a load test.",
-              "zh": "執行負載測試。"
+              "en": "We always conduct a comprehensive load test before launching any major infrastructure upgrade.",
+              "zh": "在推出任何重大基礎設施升級之前，我們都會進行全面的負載測試。"
             },
             {
-              "en": "Conduct blameless postmortem reviews.",
-              "zh": "進行無指責事後檢討。"
+              "en": "The engineering organization conducts blameless postmortem reviews after every production incident.",
+              "zh": "工程組織在每次正式環境事故後都會進行無指責的事後檢討。"
             }
           ]
         }
@@ -1938,12 +1938,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Recognize edge cases early.",
-              "zh": "及早辨識邊界情境。"
+              "en": "Experienced engineers recognize subtle concurrency edge cases during the design phase.",
+              "zh": "經驗豐富的工程師在設計階段就能及早辨識出細微的併發邊界情境。"
             },
             {
-              "en": "Recognize latency patterns quickly.",
-              "zh": "快速辨識延遲模式。"
+              "en": "Our anomaly detection model recognizes abnormal latency patterns within seconds.",
+              "zh": "我們的異常偵測模型能在數秒內快速辨識出異常的延遲模式。"
             }
           ]
         },
@@ -1969,12 +1969,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Clean modular design wins.",
-              "zh": "簡潔模組化設計勝出。"
+              "en": "The entire team admired the clean, modular architecture of the new authentication service.",
+              "zh": "整個團隊都非常欣賞新驗證服務那簡潔且模組化的架構設計。"
             },
             {
-              "en": "Strong engineering ownership here.",
-              "zh": "這裡展現高度工程主責感。"
+              "en": "Management admired the strong sense of engineering ownership demonstrated during the outage.",
+              "zh": "管理層非常欽佩團隊在系統中斷期間所展現出的高度工程主責感。"
             }
           ]
         },
@@ -2000,12 +2000,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Distributed consensus fascinates engineers.",
-              "zh": "分散式共識讓工程師著迷。"
+              "en": "Distributed consensus algorithms like Raft fascinate many backend systems engineers.",
+              "zh": "像 Raft 這類的分散式共識演算法讓許多後端系統工程師著迷。"
             },
             {
-              "en": "Low-latency tuning is fascinating.",
-              "zh": "低延遲調校很有意思。"
+              "en": "Low-latency kernel tuning has always fascinated our infrastructure engineering team.",
+              "zh": "低延遲核心調校一直深深吸引著我們的基礎設施工程團隊。"
             }
           ]
         },
@@ -2031,12 +2031,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Service boasts high throughput.",
-              "zh": "服務具備高吞吐量。"
+              "en": "Our refactored ingestion service boasts a sustained throughput of fifty thousand events per second.",
+              "zh": "我們重構後的資料攝取服務具備每秒處理五萬筆事件的穩定高吞吐量。"
             },
             {
-              "en": "System boasts sub-millisecond reads.",
-              "zh": "系統擁有亞毫秒級讀取。"
+              "en": "The in-memory caching tier boasts sub-millisecond read latency under heavy load.",
+              "zh": "記憶體內快取層在高負載下依然擁有亞毫秒級的讀取延遲。"
             }
           ]
         },
@@ -2062,12 +2062,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Postpone DB migration today.",
-              "zh": "今天延後資料庫遷移。"
+              "en": "We decided to postpone the database schema migration until traffic drops overnight.",
+              "zh": "我們決定將資料庫結構遷移延後到半夜流量下降時再進行。"
             },
             {
-              "en": "Postpone release until Monday.",
-              "zh": "將發布延後至週一。"
+              "en": "The release manager postponed the major version rollout until Monday morning.",
+              "zh": "發布經理將大版本的上線發布延後到了週一早上。"
             }
           ]
         },
@@ -2093,12 +2093,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Participate in on-call rotation.",
-              "zh": "參與值班輪值。"
+              "en": "All senior backend engineers participate in our weekly primary on-call rotation.",
+              "zh": "所有資深後端工程師都會參與我們每週一次的主要值班輪值。"
             },
             {
-              "en": "Join architecture review today.",
-              "zh": "今天參加架構審查。"
+              "en": "Several cross-functional architects participated in today's system design review.",
+              "zh": "幾位跨職能架構師今天參加了系統設計審查會議。"
             }
           ]
         },
@@ -2124,12 +2124,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Locate the memory leak.",
-              "zh": "定位記憶體洩漏點。"
+              "en": "The profiler helped us locate the exact source of the memory leak in the connection handler.",
+              "zh": "效能分析工具幫助我們在連線處理器中精準定位了記憶體洩漏的來源。"
             },
             {
-              "en": "Locate slow SQL queries.",
-              "zh": "找出慢速 SQL 查詢。"
+              "en": "We used the slow query log to locate unindexed SQL queries degrading database performance.",
+              "zh": "我們利用慢查詢日誌找出了拖慢資料庫效能的未索引 SQL 查詢。"
             }
           ]
         },
@@ -2155,12 +2155,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Attach thread dump here.",
-              "zh": "在此附上執行緒傾印。"
+              "en": "The support engineer enclosed the JVM thread dump with the bug report for further analysis.",
+              "zh": "支援工程師隨錯誤報告附上了 JVM 執行緒傾印，以便進行深入分析。"
             },
             {
-              "en": "Invoice enclosed in email.",
-              "zh": "發票已附在信件中。"
+              "en": "Please find the itemized cloud usage invoice enclosed in this confirmation email.",
+              "zh": "請查收隨附在這封確認信中的雲端用量明細發票。"
             }
           ]
         },
@@ -2186,12 +2186,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Include trace ID everywhere.",
-              "zh": "各處都帶入追蹤 ID。"
+              "en": "Every outgoing HTTP request must include a unique correlation trace ID in its headers.",
+              "zh": "每個發出的 HTTP 請求都必須在標頭中包含一個唯一的關聯追蹤 ID。"
             },
             {
-              "en": "Include edge case tests.",
-              "zh": "包含邊界情境測試。"
+              "en": "Make sure your pull request includes comprehensive unit tests for all boundary conditions.",
+              "zh": "請確保你的 Pull Request 包含了針對所有邊界條件的完整單元測試。"
             }
           ]
         },
@@ -2217,12 +2217,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Capture user consent first.",
-              "zh": "先取得使用者同意。"
+              "en": "The application must capture explicit user consent before enabling analytics tracking.",
+              "zh": "在啟用分析追蹤功能之前，應用程式必須先取得使用者的明確同意。"
             },
             {
-              "en": "Privacy consent is required.",
-              "zh": "需要隱私授權同意。"
+              "en": "Users rarely consent to sharing their personal location data without a clear benefit.",
+              "zh": "如果沒有明確的好處，使用者很少會同意分享他們的個人位置資料。"
             }
           ]
         }
@@ -2256,12 +2256,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Permit read access only.",
-              "zh": "僅允許讀取權限。"
+              "en": "This restricted database role permits read-only access to the reporting replicas.",
+              "zh": "這個受限的資料庫角色僅允許對報表唯讀副本進行讀取存取。"
             },
             {
-              "en": "Allowlist permits internal IPs.",
-              "zh": "白名單允許內部 IP。"
+              "en": "The firewall allowlist only permits incoming connections from our internal VPC IP ranges.",
+              "zh": "防火牆白名單僅允許來自我們內部 VPC IP 網段的連入連線。"
             }
           ]
         },
@@ -2287,12 +2287,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Why did GC pause?",
-              "zh": "為何發生 GC 停頓？"
+              "en": "The engineers wondered why the garbage collector paused for over two seconds during low traffic.",
+              "zh": "工程師們很納悶為什麼在低流量期間垃圾回收器會停頓超過兩秒。"
             },
             {
-              "en": "Check consumer lag impact.",
-              "zh": "確認消費延遲的影響。"
+              "en": "I wonder whether the rising Kafka consumer lag is affecting downstream billing accuracy.",
+              "zh": "我在想不斷上升的 Kafka 消費延遲是否會影響下游計費的準確性。"
             }
           ]
         },
@@ -2318,12 +2318,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Shut down workers gracefully.",
-              "zh": "優雅關閉工作執行緒。"
+              "en": "The worker processes quit cleanly after finishing their in-flight tasks during deployment.",
+              "zh": "工作行程在部署期間完成手頭上的執行中任務後便優雅地停止退出。"
             },
             {
-              "en": "Stop retrying after three.",
-              "zh": "重試三次後停止。"
+              "en": "Our HTTP client quits retrying a failed request after three consecutive timeout errors.",
+              "zh": "我們的 HTTP 客戶端在連續發生三次逾時錯誤後就會停止重試失敗的請求。"
             }
           ]
         },
@@ -2349,12 +2349,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Avoid N+1 SQL queries.",
-              "zh": "避免 N+1 SQL 查詢。"
+              "en": "We use eager loading in our ORM queries to avoid expensive N+1 database round-trips.",
+              "zh": "我們在 ORM 查詢中使用預先載入，以避免高成本的 N+1 資料庫往返查詢。"
             },
             {
-              "en": "Avoid unbounded retries here.",
-              "zh": "這裡避免無上限重試。"
+              "en": "You must avoid unbounded retry loops that can trigger a cascading failure across microservices.",
+              "zh": "你必須避免無上限的重試迴圈，以免在微服務之間引發連鎖故障。"
             }
           ]
         },
@@ -2380,12 +2380,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Avoid missing SLA targets.",
-              "zh": "避免未達 SLA 目標。"
+              "en": "We strictly monitor queue depth so we don't miss our contractual SLA latency targets.",
+              "zh": "我們嚴格監控佇列深度，以免未能達成合約規定的 SLA 延遲目標。"
             },
             {
-              "en": "Worker missed heartbeat check.",
-              "zh": "工作節點漏了心跳檢查。"
+              "en": "The coordinator marked the node as unhealthy after it missed three consecutive heartbeat checks.",
+              "zh": "在該節點連續漏掉三次心跳檢查後，協調器將其標記為不健康狀態。"
             }
           ]
         },
@@ -2411,12 +2411,12 @@
           ],
           "short_sentences": [
             {
-              "en": "This affects P99 latency.",
-              "zh": "這會影響 P99 延遲。"
+              "en": "A sudden surge in cache misses directly affects our P99 API response latency.",
+              "zh": "快取未命中率的突然飆升會直接影響我們的 P99 API 回應延遲。"
             },
             {
-              "en": "Does it affect billing?",
-              "zh": "這會影響計費嗎？"
+              "en": "Does this database schema change affect the nightly batch billing reconciliation job?",
+              "zh": "這次的資料庫結構變更會影響每晚的批次計費對帳工作嗎？"
             }
           ]
         },
@@ -2442,12 +2442,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Prevent deadlocks with ordering.",
-              "zh": "用順序加鎖防止死鎖。"
+              "en": "Enforcing a consistent lock acquisition order prevents deadlocks in high-concurrency transactions.",
+              "zh": "強制執行一致的加鎖順序可以防止高併發交易中發生死鎖。"
             },
             {
-              "en": "Prevent cache stampede now.",
-              "zh": "現在防止快取擊穿。"
+              "en": "We implemented single-flight request coalescing to prevent a cache stampede when keys expire.",
+              "zh": "我們實作了單飛請求合併機制，以防止快取鍵過期時發生快取擊穿。"
             }
           ]
         },
@@ -2473,12 +2473,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Block force push on main.",
-              "zh": "禁止對 main 強制推送。"
+              "en": "Our Git repository rules strictly prohibit force-pushing directly to the main branch.",
+              "zh": "我們的 Git 儲存庫規則嚴格禁止直接對 main 分支執行強制推送。"
             },
             {
-              "en": "Raw SQL is prohibited.",
-              "zh": "禁止使用原始 SQL。"
+              "en": "The security policy prohibits executing raw, unparameterized SQL strings in application code.",
+              "zh": "資安政策禁止在應用程式碼中執行未經參數化處理的原始 SQL 字串。"
             }
           ]
         },
@@ -2504,12 +2504,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Restrict access by role.",
-              "zh": "依角色限制存取。"
+              "en": "The API gateway restricts access to administrative endpoints based on role-based permissions.",
+              "zh": "API 閘道器根據基於角色的權限來限制對管理員端點的存取。"
             },
             {
-              "en": "Cap concurrent workers now.",
-              "zh": "現在限制並行工作數。"
+              "en": "We restricted the maximum number of concurrent background workers to protect database CPU.",
+              "zh": "我們限制了並行背景工作執行緒的最大數量，以保護資料庫的 CPU 資源。"
             }
           ]
         },
@@ -2535,12 +2535,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Roll back without hesitation.",
-              "zh": "毫不猶豫地執行回滾。"
+              "en": "Never hesitate to roll back a faulty deployment if critical error metrics start climbing.",
+              "zh": "如果關鍵錯誤指標開始攀升，請毫不猶豫地回滾有問題的部署。"
             },
             {
-              "en": "Escalate P1 immediately.",
-              "zh": "立刻升級通報 P1。"
+              "en": "The on-call engineer did not hesitate to escalate the P1 outage to the infrastructure lead.",
+              "zh": "值班工程師毫不猶豫地將 P1 服務中斷事件升級通報給基礎設施主管。"
             }
           ]
         }
@@ -2574,12 +2574,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Do not disturb prod.",
-              "zh": "請勿干擾正式環境。"
+              "en": "Please do not run heavy ad-hoc analytical queries that might disturb the production database.",
+              "zh": "請勿執行繁重的臨時分析查詢，以免干擾正式環境的資料庫。"
             },
             {
-              "en": "Batch job disturbed latency.",
-              "zh": "批次工作干擾了延遲。"
+              "en": "An unthrottled data export job disturbed our API latency for nearly fifteen minutes.",
+              "zh": "一個未限流的資料匯出工作干擾了我們的 API 延遲長達將近十五分鐘。"
             }
           ]
         },
@@ -2605,12 +2605,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Never neglect index tuning.",
-              "zh": "絕不忽略索引調校。"
+              "en": "Developers must never neglect proper database indexing when adding new search filters.",
+              "zh": "在新增搜尋篩選條件時，開發人員絕不能忽略適當的資料庫索引設計。"
             },
             {
-              "en": "Do not neglect timeouts.",
-              "zh": "別忽略逾時設定。"
+              "en": "Do not neglect configuring strict socket timeouts on every external HTTP client.",
+              "zh": "切勿忽略為每個外部 HTTP 客戶端設定嚴格的 Socket 逾時時間。"
             }
           ]
         },
@@ -2636,12 +2636,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Payment declined by gateway.",
-              "zh": "付款遭閘道拒絕。"
+              "en": "The external payment gateway declined the transaction due to insufficient account funds.",
+              "zh": "由於帳戶餘額不足，外部支付閘道器拒絕了這筆交易。"
             },
             {
-              "en": "Decline out-of-scope requests.",
-              "zh": "婉拒範圍外的需求。"
+              "en": "The product manager politely declined out-of-scope feature requests to protect the release date.",
+              "zh": "產品經理禮貌地婉拒了範圍外的功能需求，以確保如期發布。"
             }
           ]
         },
@@ -2667,12 +2667,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Withdraw funds via API.",
-              "zh": "透過 API 提領資金。"
+              "en": "Merchants can withdraw their settled funds automatically through our payout API.",
+              "zh": "商戶可以透過我們的撥款 API 自動提領已結算的資金。"
             },
             {
-              "en": "Withdraw draft PR now.",
-              "zh": "現在撤回草稿 PR。"
+              "en": "The author withdrew the draft pull request after discovering a simpler architectural approach.",
+              "zh": "作者在發現更簡單的架構作法後，撤回了那份草稿 Pull Request。"
             }
           ]
         },
@@ -2698,12 +2698,12 @@
           ],
           "short_sentences": [
             {
-              "en": "System recovered in seconds.",
-              "zh": "系統在數秒內恢復。"
+              "en": "The stateless Kubernetes pods recovered automatically within seconds after the node rebooted.",
+              "zh": "無狀態的 Kubernetes Pod 在節點重新啟動後的數秒內便自動恢復運作。"
             },
             {
-              "en": "Recover dropped messages safely.",
-              "zh": "安全恢復遺失的訊息。"
+              "en": "We replayed the Kafka offsets to safely recover the messages dropped during the outage.",
+              "zh": "我們重播了 Kafka 偏移量，以安全恢復中斷期間遺失的訊息。"
             }
           ]
         },
@@ -2729,12 +2729,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Inspect the heap dump.",
-              "zh": "檢視堆積傾印。"
+              "en": "The backend team inspected the JVM heap dump to identify which objects were retained.",
+              "zh": "後端團隊檢視了 JVM 堆積傾印，以找出是哪些物件被持續佔用未釋放。"
             },
             {
-              "en": "Inspect SQL execution plan.",
-              "zh": "檢視 SQL 執行計畫。"
+              "en": "Always inspect the SQL execution plan using EXPLAIN before deploying complex joins.",
+              "zh": "在部署複雜的關聯查詢之前，務必使用 EXPLAIN 檢視 SQL 執行計畫。"
             }
           ]
         },
@@ -2760,12 +2760,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Protect downstream services first.",
-              "zh": "優先保護下游服務。"
+              "en": "We configured circuit breakers to protect downstream microservices from cascading overload.",
+              "zh": "我們設定了斷路器，以保護下游微服務免受連鎖過載的影響。"
             },
             {
-              "en": "Encrypt PII at rest.",
-              "zh": "靜態加密個人敏感資料。"
+              "en": "The storage layer encrypts all personally identifiable information at rest to protect user privacy.",
+              "zh": "儲存層對所有靜態個人敏感資料進行加密，以保護使用者隱私。"
             }
           ]
         },
@@ -2791,12 +2791,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Obey API rate limits.",
-              "zh": "遵守 API 速率限制。"
+              "en": "All third-party integration clients must obey our documented API rate limits.",
+              "zh": "所有第三方整合客戶端都必須遵守我們文件中規定的 API 速率限制。"
             },
             {
-              "en": "Follow strict lock order.",
-              "zh": "遵守嚴格加鎖順序。"
+              "en": "Every database transaction must obey the strict lock ordering protocol to avoid deadlocks.",
+              "zh": "每筆資料庫交易都必須遵守嚴格的加鎖順序規範，以避免發生死鎖。"
             }
           ]
         },
@@ -2822,12 +2822,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Mention this in RCA.",
-              "zh": "在 RCA 中提及這點。"
+              "en": "Be sure to mention the misconfigured connection timeout in the root cause analysis document.",
+              "zh": "務必在根本原因分析文件中提及這個設定錯誤的連線逾時參數。"
             },
             {
-              "en": "Note breaking API changes.",
-              "zh": "註明破壞性 API 變更。"
+              "en": "The release notes explicitly mention all deprecated endpoints and breaking API changes.",
+              "zh": "版本發布說明中明確註明了所有已棄用的端點與破壞性 API 變更。"
             }
           ]
         },
@@ -2853,12 +2853,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Predict peak traffic early.",
-              "zh": "及早預測尖峰流量。"
+              "en": "Historical traffic metrics help our capacity planners predict seasonal peak loads accurately.",
+              "zh": "歷史流量指標能幫助我們的容量規劃人員準確預測季節性的尖峰負載。"
             },
             {
-              "en": "Forecast churn risk monthly.",
-              "zh": "每月預測流失風險。"
+              "en": "The data science team built a model to predict monthly enterprise customer churn risk.",
+              "zh": "資料科學團隊建立了一個模型，用來每月預測企業客戶的流失風險。"
             }
           ]
         }
@@ -2892,12 +2892,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Emphasize observability and metrics.",
-              "zh": "強調可觀測性與指標。"
+              "en": "Our engineering culture emphasizes deep observability and actionable metrics in production.",
+              "zh": "我們的工程文化在正式環境中高度強調深度可觀測性與可採取行動的指標。"
             },
             {
-              "en": "Emphasize backward compatibility first.",
-              "zh": "先強調向下相容性。"
+              "en": "The API governance guide emphasizes maintaining strict backward compatibility across minor versions.",
+              "zh": "API 治理指南強調在次要版本之間必須維持嚴格的向下相容性。"
             }
           ]
         },
@@ -2923,12 +2923,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Blameless review focuses systems.",
-              "zh": "無指責檢討聚焦系統。"
+              "en": "In a blameless postmortem, nobody accuses individual engineers when a system fails.",
+              "zh": "在無指責的事後檢討中，當系統發生故障時，沒有人會譴責個別工程師。"
             },
             {
-              "en": "Verify before blaming network.",
-              "zh": "歸咎網路前先驗證。"
+              "en": "Always verify your own application logs before accusing the network team of packet loss.",
+              "zh": "在指控網路團隊發生封包遺失之前，請先驗證你自己的應用程式日誌。"
             }
           ]
         },
@@ -2954,12 +2954,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Map the data flow.",
-              "zh": "梳理清楚資料流向。"
+              "en": "New engineers need time to comprehend the end-to-end data flow across our microservices.",
+              "zh": "新進工程師需要時間來充分理解跨微服務的端到端資料流向。"
             },
             {
-              "en": "Understand core domain rules.",
-              "zh": "掌握核心領域規則。"
+              "en": "You must thoroughly comprehend the core domain rules before modifying the billing engine.",
+              "zh": "在修改計費引擎之前，你必須徹底掌握核心領域的業務規則。"
             }
           ]
         },
@@ -2985,12 +2985,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Settle invoice on net-30.",
-              "zh": "依帳期 30 天結算發票。"
+              "en": "Enterprise customers typically settle their monthly cloud invoices on net-30 payment terms.",
+              "zh": "企業客戶通常依照月結 30 天的付款條件結算他們的每月雲端發票。"
             },
             {
-              "en": "Settle on one architecture.",
-              "zh": "拍板定案單一架構。"
+              "en": "The architecture group finally settled on a single event-streaming design after two weeks.",
+              "zh": "架構小組經過兩週的討論後，終於拍板定案採用單一的事件串流設計。"
             }
           ]
         },
@@ -3016,12 +3016,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Requests exceeded rate limit.",
-              "zh": "請求超出了速率限制。"
+              "en": "Incoming burst requests exceeded the configured rate limit and received 429 responses.",
+              "zh": "突發的連入請求超出了設定的速率限制，因此收到了 429 狀態碼回應。"
             },
             {
-              "en": "Pool exceeded max connections.",
-              "zh": "連線池超出最大連線數。"
+              "en": "The application exceeded the maximum database connections allowed by the RDS instance.",
+              "zh": "應用程式超出了該 RDS 執行個體所允許的最大資料庫連線數。"
             }
           ]
         },
@@ -3047,12 +3047,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Extend lock lease TTL.",
-              "zh": "延長鎖租約 TTL。"
+              "en": "The background worker periodically extends its distributed lock lease while processing large files.",
+              "zh": "背景工作行程在處理大型檔案時，會定期延長其分散式鎖的租約時間。"
             },
             {
-              "en": "Extend trial for client.",
-              "zh": "為客戶延長試用期。"
+              "en": "Our sales team agreed to extend the enterprise trial period by two more weeks for the client.",
+              "zh": "我們的業務團隊同意為該客戶將企業版試用期再延長兩週。"
             }
           ]
         },
@@ -3078,12 +3078,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Deploy across multiple AZs.",
-              "zh": "跨多個可用區部署。"
+              "en": "We spread our stateless Kubernetes replicas across three availability zones for high availability.",
+              "zh": "我們將無狀態的 Kubernetes 副本分散部署在三個可用區，以實現高可用性。"
             },
             {
-              "en": "Stop error propagation fast.",
-              "zh": "快速阻止錯誤擴散。"
+              "en": "Circuit breakers stop transient downstream errors from spreading across the entire platform.",
+              "zh": "斷路器能阻止短暫的下游錯誤蔓延擴散到整個平台。"
             }
           ]
         },
@@ -3109,12 +3109,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Preserve transaction atomicity here.",
-              "zh": "這裡維持交易原子性。"
+              "en": "The database engine uses write-ahead logging to preserve transaction atomicity during crashes.",
+              "zh": "資料庫引擎使用預寫式日誌，以在系統崩潰期間維持交易的原子性。"
             },
             {
-              "en": "Preserve audit log trail.",
-              "zh": "保留稽核日誌軌跡。"
+              "en": "Compliance regulations require us to preserve immutable audit log trails for seven years.",
+              "zh": "合規法規要求我們必須將不可篡改的稽核日誌軌跡保存七年。"
             }
           ]
         },
@@ -3140,12 +3140,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Observe consumer queue lag.",
-              "zh": "觀察消費端佇列延遲。"
+              "en": "The on-call engineer closely observed the consumer queue lag while scaling up the pods.",
+              "zh": "值班工程師在擴展 Pod 數量時，密切觀察消費端佇列的延遲變化。"
             },
             {
-              "en": "Monitor P99 tail latency.",
-              "zh": "監控 P99 長尾延遲。"
+              "en": "We continuously observe P99 tail latency in Grafana to detect subtle performance regressions.",
+              "zh": "我們在 Grafana 中持續觀察 P99 長尾延遲，以偵測細微的效能退化。"
             }
           ]
         },
@@ -3171,12 +3171,12 @@
           ],
           "short_sentences": [
             {
-              "en": "Critical bug deserves priority.",
-              "zh": "關鍵錯誤值得優先處理。"
+              "en": "A data corruption bug in the payment ledger deserves immediate top-priority attention.",
+              "zh": "支付帳本中的資料損毀錯誤值得立即獲得最高優先級的處理。"
             },
             {
-              "en": "Refactor deserves careful review.",
-              "zh": "重構值得仔細審查。"
+              "en": "Any major refactoring of the authentication middleware deserves a thorough security review.",
+              "zh": "任何針對驗證中介軟體的重大重構都值得進行徹底的資安審查。"
             }
           ]
         }

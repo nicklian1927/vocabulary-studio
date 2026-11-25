@@ -1,3182 +1,2902 @@
 {
   "schema_version": "1.0.0",
-  "active_pack_id": "verb_level1_sec_01_2_3",
+  "active_pack_id": "noun_level1_sec_01_90_91",
   "packs": [
     {
-      "pack_id": "verb_level1_sec_01_2_3",
-      "title": "動詞 Level 1 第 1 組（頁碼 2-3）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_01_90_91",
+      "title": "名詞 Level 1 第 1 組（頁碼 90-91）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-1-apply",
-          "word": "apply",
-          "ipa": "",
-          "pos": "verb",
-          "meaning_zh": "申請；應徵；應用",
+          "id": "n1-1-duty",
+          "word": "duty",
+          "ipa": "[ˈdjutɪ]",
+          "pos": "noun",
+          "meaning_zh": "工作，職責；責任",
           "collocations": [
             {
-              "phrase": "apply rate limits",
-              "meaning_zh": "套用速率限制"
+              "phrase": "on-call duty",
+              "meaning_zh": "值班職責（維運／SRE）"
             },
             {
-              "phrase": "apply a patch",
-              "meaning_zh": "套用修補程式"
-            },
-            {
-              "phrase": "apply for a role",
-              "meaning_zh": "應徵職位"
+              "phrase": "core duty",
+              "meaning_zh": "核心職責"
             }
           ],
           "short_sentences": [
             {
-              "en": "Apply rate limits now.",
-              "zh": "現在套用速率限制。"
+              "en": "The boss gave me an overseas duty.",
+              "zh": "老闆交給我一項海外的工作。"
             },
             {
-              "en": "Apply the hotfix immediately.",
-              "zh": "立刻套用緊急修補。"
+              "en": "Rotating on-call duty is shared across the backend engineering team.",
+              "zh": "後端工程團隊輪流分擔值班職責。"
             }
           ]
         },
         {
-          "id": "v1-2-submit",
-          "word": "submit",
-          "ipa": "[səbˈmɪt]",
-          "pos": "verb",
-          "meaning_zh": "提交；提案",
+          "id": "n1-2-policy",
+          "word": "policy",
+          "ipa": "[ˈpɑləsɪ]",
+          "pos": "noun",
+          "meaning_zh": "政策，方針",
           "collocations": [
             {
-              "phrase": "submit a PR",
-              "meaning_zh": "提交 Pull Request"
+              "phrase": "an insurance policy",
+              "meaning_zh": "保險契約，保單"
             },
             {
-              "phrase": "submit a ticket",
-              "meaning_zh": "提交工單"
+              "phrase": "retry policy",
+              "meaning_zh": "重試策略"
             },
             {
-              "phrase": "submit the report",
-              "meaning_zh": "提交報告"
+              "phrase": "access control policy",
+              "meaning_zh": "存取控制政策"
             }
           ],
           "short_sentences": [
             {
-              "en": "Submit the PR today.",
-              "zh": "今天提交 Pull Request。"
+              "en": "Keep in mind that some company policies will change next week.",
+              "zh": "請記得公司的部分政策將在下週更動。"
             },
             {
-              "en": "Submit a support ticket.",
-              "zh": "提交一份支援工單。"
+              "en": "We updated the API retry policy to prevent cascading failures during traffic spikes.",
+              "zh": "我們更新了 API 重試策略，以避免流量尖峰時發生連鎖故障。"
             }
           ]
         },
         {
-          "id": "v1-3-discuss",
-          "word": "discuss",
-          "ipa": "[dɪˈskʌs]",
-          "pos": "verb",
-          "meaning_zh": "討論；闡述",
+          "id": "n1-3-room",
+          "word": "room",
+          "ipa": "[rum]",
+          "pos": "noun",
+          "meaning_zh": "空間；房間",
           "collocations": [
             {
-              "phrase": "discuss trade-offs",
-              "meaning_zh": "討論技術取捨"
+              "phrase": "room for growth",
+              "meaning_zh": "成長空間"
             },
             {
-              "phrase": "discuss scope",
-              "meaning_zh": "討論需求範圍"
+              "phrase": "headroom",
+              "meaning_zh": "容量餘裕／效能空間"
             },
             {
-              "phrase": "architecture discussion",
-              "meaning_zh": "架構討論"
+              "phrase": "room for optimization",
+              "meaning_zh": "最佳化空間"
             }
           ],
           "short_sentences": [
             {
-              "en": "Let's discuss trade-offs first.",
-              "zh": "我們先討論取捨。"
+              "en": "We'll make room for new seasonal items.",
+              "zh": "我們會為新的季節性商品騰出空間。"
             },
             {
-              "en": "Discuss scope before coding.",
-              "zh": "寫程式前先談範圍。"
+              "en": "There is still room for optimization in our database query execution plans.",
+              "zh": "我們的資料庫查詢執行計畫仍有最佳化空間。"
             }
           ]
         },
         {
-          "id": "v1-4-ship",
-          "word": "ship",
-          "ipa": "[ʃɪp]",
-          "pos": "verb",
-          "meaning_zh": "寄出；運送",
+          "id": "n1-4-factor",
+          "word": "factor",
+          "ipa": "[ˈfæktɚ]",
+          "pos": "noun",
+          "meaning_zh": "因素；要素",
           "collocations": [
             {
-              "phrase": "ship to production",
-              "meaning_zh": "發布至正式環境"
+              "phrase": "an important / key factor in A",
+              "meaning_zh": "A 的重要元素"
             },
             {
-              "phrase": "ship fast",
-              "meaning_zh": "快速交付上線"
+              "phrase": "factor in A",
+              "meaning_zh": "將 A 算進去"
             },
             {
-              "phrase": "shipped on schedule",
-              "meaning_zh": "依排程出貨／發布"
+              "phrase": "bottleneck factor",
+              "meaning_zh": "瓶頸因素"
+            },
+            {
+              "phrase": "factor in latency",
+              "meaning_zh": "將延遲算進去"
             }
           ],
           "short_sentences": [
             {
-              "en": "Ship it to production.",
-              "zh": "把它發布到正式環境。"
+              "en": "Price isn't the most important factor in selling furniture.",
+              "zh": "販售家具時，價格並非最重要的考量因素。"
             },
             {
-              "en": "We shipped on time.",
-              "zh": "我們準時交付上線了。"
+              "en": "We must factor in network latency when setting service timeouts.",
+              "zh": "設定服務逾時時間時，必須將網路延遲算進去。"
             }
           ]
         },
         {
-          "id": "v1-5-release",
-          "word": "release",
-          "ipa": "[rɪˈlis]",
-          "pos": "verb",
-          "meaning_zh": "發行，發布",
+          "id": "n1-5-fun",
+          "word": "fun",
+          "ipa": "[fʌn]",
+          "pos": "noun",
+          "meaning_zh": "樂趣；玩笑",
           "collocations": [
             {
-              "phrase": "release a hotfix",
-              "meaning_zh": "發布緊急修補"
+              "phrase": "have fun",
+              "meaning_zh": "玩得高興"
             },
             {
-              "phrase": "release notes",
-              "meaning_zh": "版本發布說明"
+              "phrase": "for fun",
+              "meaning_zh": "為了好玩"
             },
             {
-              "phrase": "canary release",
-              "meaning_zh": "金絲雀灰度發布"
+              "phrase": "proof of concept for fun",
+              "meaning_zh": "純粹實驗性質的概念驗證"
             }
           ],
           "short_sentences": [
             {
-              "en": "Release the patch now.",
-              "zh": "現在發布修補程式。"
+              "en": "I always have fun learning new things.",
+              "zh": "我總是樂於學習新事物。"
             },
             {
-              "en": "Canary release looks healthy.",
-              "zh": "灰度發布看起來很正常。"
+              "en": "I built a small CLI tool for fun over the weekend to automate log parsing.",
+              "zh": "我週末為了好玩寫了一個小型 CLI 工具，用來自動化解析日誌。"
             }
           ]
         },
         {
-          "id": "v1-6-promote",
-          "word": "promote",
-          "ipa": "[prəˈmot]",
-          "pos": "verb",
-          "meaning_zh": "宣傳；升遷",
+          "id": "n1-6-rest",
+          "word": "rest",
+          "ipa": "[rɛst]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 休息 / 動 休息",
           "collocations": [
             {
-              "phrase": "promote to production",
-              "meaning_zh": "晉升／推送至正式環境"
+              "phrase": "take a rest",
+              "meaning_zh": "休息"
             },
             {
-              "phrase": "promote a feature",
-              "meaning_zh": "推廣功能"
-            },
-            {
-              "phrase": "get promoted",
-              "meaning_zh": "獲得升遷"
+              "phrase": "take a brief rest",
+              "meaning_zh": "稍作休息"
             }
           ],
           "short_sentences": [
             {
-              "en": "Promote build to prod.",
-              "zh": "將建置推上正式環境。"
+              "en": "You should go home and take a good rest.",
+              "zh": "你應該回家好好休息。"
             },
             {
-              "en": "Promote this feature first.",
-              "zh": "先推廣這個功能。"
+              "en": "Let's take a ten-minute rest before diving into the architecture review.",
+              "zh": "在深入架構審查之前，我们先休息十分鐘。"
             }
           ]
         },
         {
-          "id": "v1-7-provide",
-          "word": "provide",
-          "ipa": "[prəˈvaɪd]",
-          "pos": "verb",
-          "meaning_zh": "提供",
+          "id": "n1-7-fee",
+          "word": "fee",
+          "ipa": "[fi]",
+          "pos": "noun",
+          "meaning_zh": "費用",
           "collocations": [
             {
-              "phrase": "provide context",
-              "meaning_zh": "提供上下文背景"
+              "phrase": "transaction fee",
+              "meaning_zh": "交易手續費"
             },
             {
-              "phrase": "provide stack traces",
-              "meaning_zh": "提供堆疊追蹤"
-            },
-            {
-              "phrase": "provide SLA guarantees",
-              "meaning_zh": "提供 SLA 保證"
+              "phrase": "API usage fee",
+              "meaning_zh": "API 使用費"
             }
           ],
           "short_sentences": [
             {
-              "en": "Provide full error logs.",
-              "zh": "提供完整的錯誤日誌。"
+              "en": "The admission fee is €6 for adults.",
+              "zh": "成人的入場費用是六歐元。"
             },
             {
-              "en": "Provide clear reproduction steps.",
-              "zh": "提供清楚的重現步驟。"
+              "en": "The payment gateway charges a small processing fee per transaction.",
+              "zh": "金流閘道會針對每筆交易收取一筆小額處理費。"
             }
           ]
         },
         {
-          "id": "v1-8-charge",
-          "word": "charge",
-          "ipa": "[tʃɑrdʒ]",
-          "pos": "verb",
-          "meaning_zh": "收費；充電；控告",
+          "id": "n1-8-role",
+          "word": "role",
+          "ipa": "[rol]",
+          "pos": "noun",
+          "meaning_zh": "角色",
           "collocations": [
             {
-              "phrase": "charge per request",
-              "meaning_zh": "按請求次數計費"
+              "phrase": "play a role in A",
+              "meaning_zh": "在 A 中扮演角色"
             },
             {
-              "phrase": "usage-based charge",
-              "meaning_zh": "用量計費"
-            },
-            {
-              "phrase": "charge a fee",
-              "meaning_zh": "收取費用"
+              "phrase": "key role in architecture",
+              "meaning_zh": "在架構中扮演關鍵角色"
             }
           ],
           "short_sentences": [
             {
-              "en": "Charge per API call.",
-              "zh": "依每次 API 呼叫計費。"
+              "en": "Mr. Taylor wasn't certain what his role in the project was.",
+              "zh": "泰勒先生不太確定自己在這項企劃中扮演什麼樣的角色。"
             },
             {
-              "en": "Payment charged twice today.",
-              "zh": "今天扣款了兩次。"
+              "en": "Message queues play a critical role in decoupling asynchronous services.",
+              "zh": "訊息佇列在解耦非同步服務中扮演關鍵角色。"
             }
           ]
         },
         {
-          "id": "v1-9-appreciate",
-          "word": "appreciate",
-          "ipa": "[əˈpriʃɪˌet]",
-          "pos": "verb",
-          "meaning_zh": "感激；賞識；升值",
+          "id": "n1-9-decade",
+          "word": "decade",
+          "ipa": "[ˈdɛked]",
+          "pos": "noun",
+          "meaning_zh": "十年",
           "collocations": [
             {
-              "phrase": "appreciate the heads-up",
-              "meaning_zh": "感謝事前提醒"
-            },
-            {
-              "phrase": "appreciate the review",
-              "meaning_zh": "感謝協助審查"
-            },
-            {
-              "phrase": "appreciate your input",
-              "meaning_zh": "感謝提供意見"
+              "phrase": "over the past decade",
+              "meaning_zh": "過去十年來"
             }
           ],
           "short_sentences": [
             {
-              "en": "Appreciate the quick heads-up.",
-              "zh": "感謝及時提前提醒。"
+              "en": "I've worked as a broadcaster for three decades.",
+              "zh": "我已經當廣播員 30 年了。"
             },
             {
-              "en": "Appreciate your code review.",
-              "zh": "感謝你的程式碼審查。"
+              "en": "Enterprise software has shifted from monoliths to cloud-native systems over the past decade.",
+              "zh": "過去十年來，企業軟體已從單體式架構轉向雲原生系統。"
             }
           ]
         },
         {
-          "id": "v1-10-accept",
-          "word": "accept",
-          "ipa": "[əkˈsɛpt]",
-          "pos": "verb",
-          "meaning_zh": "接受，同意",
+          "id": "n1-10-delay",
+          "word": "delay",
+          "ipa": "[dɪˈle]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 延誤，耽擱 / 動 延誤",
           "collocations": [
             {
-              "phrase": "accept traffic",
-              "meaning_zh": "接收流量"
+              "phrase": "deployment delay",
+              "meaning_zh": "部署延誤"
             },
             {
-              "phrase": "accept the offer",
-              "meaning_zh": "接受聘書／報價"
-            },
-            {
-              "phrase": "acceptance criteria",
-              "meaning_zh": "驗收標準"
+              "phrase": "without delay",
+              "meaning_zh": "立即、毫不延遲"
             }
           ],
           "short_sentences": [
             {
-              "en": "Stop accepting new traffic.",
-              "zh": "停止接收新流量。"
+              "en": "After a delay of three hours, the plane finally took off.",
+              "zh": "飛機誤點三小時後終於起飛了。"
             },
             {
-              "en": "Client accepted the proposal.",
-              "zh": "客戶接受了提案。"
+              "en": "A failed migration script caused a two-hour release delay.",
+              "zh": "失敗的遷移腳本導致發布延誤了兩小時。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_02_4_5",
-      "title": "動詞 Level 1 第 2 組（頁碼 4-5）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_02_92_93",
+      "title": "名詞 Level 1 第 2 組（頁碼 92-93）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-11-approve",
-          "word": "approve",
-          "ipa": "[əˈpruv]",
-          "pos": "verb",
-          "meaning_zh": "贊成；批准",
+          "id": "n1-11-field",
+          "word": "field",
+          "ipa": "[fild]",
+          "pos": "noun",
+          "meaning_zh": "領域，範疇",
           "collocations": [
             {
-              "phrase": "approve the PR",
-              "meaning_zh": "核准 Pull Request"
+              "phrase": "in the field of A",
+              "meaning_zh": "在 A 的領域"
             },
             {
-              "phrase": "approve budget",
-              "meaning_zh": "核准預算"
-            },
-            {
-              "phrase": "pending approval",
-              "meaning_zh": "待核准"
+              "phrase": "in the field of distributed systems",
+              "meaning_zh": "在分散式系統領域"
             }
           ],
           "short_sentences": [
             {
-              "en": "Approve this PR please.",
-              "zh": "請核准這個 PR。"
+              "en": "He hopes to find work in the field of advertising.",
+              "zh": "他想在廣告業找工作。"
             },
             {
-              "en": "Budget got approved today.",
-              "zh": "預算今天核准了。"
+              "en": "She specializes in the field of high-concurrency backend engineering.",
+              "zh": "她專精於高併發後端工程領域。"
             }
           ]
         },
         {
-          "id": "v1-12-adopt",
-          "word": "adopt",
-          "ipa": "[əˈdɑpt]",
-          "pos": "verb",
-          "meaning_zh": "採取，採納",
+          "id": "n1-12-public",
+          "word": "public",
+          "ipa": "[ˈpʌblɪk]",
+          "pos": "noun / adjective",
+          "meaning_zh": "名 民眾，大眾 / 形 公眾的，公共的",
           "collocations": [
             {
-              "phrase": "adopt best practices",
-              "meaning_zh": "採用最佳實踐"
+              "phrase": "the public",
+              "meaning_zh": "一般民眾、大眾"
             },
             {
-              "phrase": "adopt a standard",
-              "meaning_zh": "採納標準"
+              "phrase": "in public",
+              "meaning_zh": "當眾；公開地"
             },
             {
-              "phrase": "wide adoption",
-              "meaning_zh": "廣泛採用"
+              "phrase": "public API",
+              "meaning_zh": "公開 API"
+            },
+            {
+              "phrase": "public release",
+              "meaning_zh": "公開發布"
             }
           ],
           "short_sentences": [
             {
-              "en": "Adopt async messaging here.",
-              "zh": "這裡採用非同步訊息。"
+              "en": "The garden is closed to the public during the winter season.",
+              "zh": "這座花園在冬天不開放民眾參觀。"
             },
             {
-              "en": "Team adopted new guidelines.",
-              "zh": "團隊採納了新規範。"
+              "en": "We documented all breaking changes before opening the public beta.",
+              "zh": "在開放公開測試版之前，我們記錄了所有不相容變更。"
             }
           ]
         },
         {
-          "id": "v1-13-increase",
-          "word": "increase",
-          "ipa": "[ɪnˈkris] / [ˈɪnkris]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 增加；增強 / 名 增加",
+          "id": "n1-13-quality",
+          "word": "quality",
+          "ipa": "[ˈkwɑlətɪ]",
+          "pos": "noun",
+          "meaning_zh": "品質",
           "collocations": [
             {
-              "phrase": "increase throughput",
-              "meaning_zh": "提升吞吐量"
+              "phrase": "quality control",
+              "meaning_zh": "品質控管"
             },
             {
-              "phrase": "increase concurrency",
-              "meaning_zh": "提高併發度"
+              "phrase": "quality of life",
+              "meaning_zh": "生活品質"
             },
             {
-              "phrase": "increase conversion",
-              "meaning_zh": "提升轉換率"
+              "phrase": "code quality",
+              "meaning_zh": "程式碼品質"
+            },
+            {
+              "phrase": "data quality",
+              "meaning_zh": "資料品質"
             }
           ],
           "short_sentences": [
             {
-              "en": "Increase worker pool size.",
-              "zh": "調大工作執行緒池。"
+              "en": "\"Quality first\" is our company's motto.",
+              "zh": "「品質第一」是我們公司的座右銘。"
             },
             {
-              "en": "Throughput increased after tuning.",
-              "zh": "調校後吞吐量提升了。"
+              "en": "Automated tests and code reviews keep our production code quality high.",
+              "zh": "自動化測試與程式碼審查讓我們的正式環境程式碼品質維持在高水準。"
             }
           ]
         },
         {
-          "id": "v1-14-expand",
-          "word": "expand",
-          "ipa": "[ɪkˈspænd]",
-          "pos": "verb",
-          "meaning_zh": "擴大；擴張",
+          "id": "n1-14-addition",
+          "word": "addition",
+          "ipa": "[əˈdɪʃən]",
+          "pos": "noun",
+          "meaning_zh": "新增的人或物；附加",
           "collocations": [
             {
-              "phrase": "expand capacity",
-              "meaning_zh": "擴充容量"
-            },
-            {
-              "phrase": "expand test coverage",
-              "meaning_zh": "擴大測試覆蓋率"
-            },
-            {
-              "phrase": "market expansion",
-              "meaning_zh": "市場拓展"
+              "phrase": "a welcome addition to the team",
+              "meaning_zh": "團隊中受歡迎的新成員／新功能"
             }
           ],
           "short_sentences": [
             {
-              "en": "Expand DB capacity soon.",
-              "zh": "盡快擴充資料庫容量。"
+              "en": "You are a valuable addition to our department.",
+              "zh": "你是我們部門的重要新血。"
             },
             {
-              "en": "Expand test coverage first.",
-              "zh": "先擴大測試覆蓋率。"
+              "en": "Real-time alerting is a valuable addition to our observability stack.",
+              "zh": "即時告警是我們可觀測性技術堆疊中很有價值的補充。"
             }
           ]
         },
         {
-          "id": "v1-15-require",
-          "word": "require",
-          "ipa": "[rɪˈkwaɪr]",
-          "pos": "verb",
-          "meaning_zh": "需要；要求",
+          "id": "n1-15-move",
+          "word": "move",
+          "ipa": "[muv]",
+          "pos": "noun",
+          "meaning_zh": "對策；移動",
           "collocations": [
             {
-              "phrase": "require authentication",
-              "meaning_zh": "需要身分驗證"
+              "phrase": "a next move",
+              "meaning_zh": "下一步"
             },
             {
-              "phrase": "system requirements",
-              "meaning_zh": "系統需求規格"
-            },
-            {
-              "phrase": "require rollback",
-              "meaning_zh": "需要回滾"
+              "phrase": "strategic move",
+              "meaning_zh": "策略性舉措"
             }
           ],
           "short_sentences": [
             {
-              "en": "Endpoint requires auth token.",
-              "zh": "端點需要驗證權杖。"
+              "en": "I think buying that startup is a smart move.",
+              "zh": "我認為收購那間新創公司是明智之舉。"
             },
             {
-              "en": "This requires a rollback.",
-              "zh": "這需要執行回滾。"
+              "en": "Migrating to containerized deployments was a smart move for scalability.",
+              "zh": "為了擴充性而遷移至容器化部署是明智之舉。"
             }
           ]
         },
         {
-          "id": "v1-16-inquire",
-          "word": "inquire",
-          "ipa": "[ɪnˈkwaɪr]",
-          "pos": "verb",
-          "meaning_zh": "詢問，打聽",
+          "id": "n1-16-matter",
+          "word": "matter",
+          "ipa": "[ˈmætɚ]",
+          "pos": "noun",
+          "meaning_zh": "問題；事情",
           "collocations": [
             {
-              "phrase": "inquire about pricing",
-              "meaning_zh": "詢問定價方案"
+              "phrase": "a different matter",
+              "meaning_zh": "另一回事"
             },
             {
-              "phrase": "inquire about status",
-              "meaning_zh": "詢問處理狀態"
+              "phrase": "What's the matter?",
+              "meaning_zh": "怎麼回事？出了什麼問題？"
             },
             {
-              "phrase": "customer inquiry",
-              "meaning_zh": "客戶詢問"
+              "phrase": "a critical matter",
+              "meaning_zh": "關鍵問題"
             }
           ],
           "short_sentences": [
             {
-              "en": "Inquire about enterprise pricing.",
-              "zh": "詢問企業版定價。"
+              "en": "Lack of funds is another matter we must discuss.",
+              "zh": "缺乏資金是我們得討論的另一個問題。"
             },
             {
-              "en": "Customer inquired about SLA.",
-              "zh": "客戶詢問了 SLA。"
+              "en": "Data consistency across microservices is a matter we need to resolve early.",
+              "zh": "微服務之間的資料一致性是我們需要及早解決的問題。"
             }
           ]
         },
         {
-          "id": "v1-17-assign",
-          "word": "assign",
-          "ipa": "[əˈsaɪn]",
-          "pos": "verb",
-          "meaning_zh": "指派；分配",
+          "id": "n1-17-stuff",
+          "word": "stuff",
+          "ipa": "[stʌf]",
+          "pos": "noun",
+          "meaning_zh": "東西；材料",
           "collocations": [
             {
-              "phrase": "assign an owner",
-              "meaning_zh": "指派負責人"
+              "phrase": "sweet stuff",
+              "meaning_zh": "甜食"
             },
             {
-              "phrase": "assign a priority",
-              "meaning_zh": "指派優先級"
+              "phrase": "fishing stuff",
+              "meaning_zh": "釣魚用具"
             },
             {
-              "phrase": "assign a ticket",
-              "meaning_zh": "分派工單"
+              "phrase": "legacy stuff",
+              "meaning_zh": "遺留的舊系統／舊程式"
             }
           ],
           "short_sentences": [
             {
-              "en": "Assign an incident owner.",
-              "zh": "指派事故負責人。"
+              "en": "I have a weakness for sweet stuff.",
+              "zh": "我非常喜歡甜食。"
             },
             {
-              "en": "Assign P1 to me.",
-              "zh": "把 P1 分派給我。"
+              "en": "We still maintain some legacy stuff from the first product version.",
+              "zh": "我們仍在維護第一版產品留下的部分舊系統。"
             }
           ]
         },
         {
-          "id": "v1-18-designate",
-          "word": "designate",
-          "ipa": "[ˈdɛzɪgˌnet]",
-          "pos": "verb",
-          "meaning_zh": "指派，指定",
+          "id": "n1-18-line",
+          "word": "line",
+          "ipa": "[laɪn]",
+          "pos": "noun",
+          "meaning_zh": "商品類別；線條",
           "collocations": [
             {
-              "phrase": "designate an on-call",
-              "meaning_zh": "指定值班人員"
+              "phrase": "product line",
+              "meaning_zh": "產品線"
             },
             {
-              "phrase": "designated backup",
-              "meaning_zh": "指定備援"
-            },
-            {
-              "phrase": "designate a lead",
-              "meaning_zh": "指定主責人"
+              "phrase": "command line",
+              "meaning_zh": "命令列"
             }
           ],
           "short_sentences": [
             {
-              "en": "Designate an on-call lead.",
-              "zh": "指定值班主責人。"
+              "en": "Our new line of sport shoes is selling well.",
+              "zh": "我們的新款運動鞋賣得很好。"
             },
             {
-              "en": "Use the designated queue.",
-              "zh": "使用指定的佇列。"
+              "en": "The new SaaS product line targets mid-sized enterprise clients.",
+              "zh": "這條新的 SaaS 產品線鎖定中型企業客戶。"
             }
           ]
         },
         {
-          "id": "v1-19-indicate",
-          "word": "indicate",
-          "ipa": "[ˈɪndəˌket]",
-          "pos": "verb",
-          "meaning_zh": "表明；標示",
+          "id": "n1-19-unit",
+          "word": "unit",
+          "ipa": "[ˈjunɪt]",
+          "pos": "noun",
+          "meaning_zh": "一個；單位",
           "collocations": [
             {
-              "phrase": "metrics indicate latency",
-              "meaning_zh": "指標顯示延遲"
+              "phrase": "price per unit / unit price",
+              "meaning_zh": "單價"
             },
             {
-              "phrase": "logs indicate errors",
-              "meaning_zh": "日誌顯示錯誤"
+              "phrase": "a sink unit",
+              "meaning_zh": "整套洗手台設備"
             },
             {
-              "phrase": "key indicator",
-              "meaning_zh": "關鍵指標"
+              "phrase": "unit test",
+              "meaning_zh": "單元測試"
+            },
+            {
+              "phrase": "business unit",
+              "meaning_zh": "事業單位"
             }
           ],
           "short_sentences": [
             {
-              "en": "Metrics indicate DB locks.",
-              "zh": "指標顯示資料庫鎖定。"
+              "en": "We are still negotiating with the vendor on price per unit.",
+              "zh": "我們還在跟供應商商量商品的單價。"
             },
             {
-              "en": "Logs indicate a timeout.",
-              "zh": "日誌顯示發生逾時。"
+              "en": "Every core service module must have deterministic unit tests.",
+              "zh": "每個核心服務模組都必須具備可預測的單元測試。"
             }
           ]
         },
         {
-          "id": "v1-20-imply",
-          "word": "imply",
-          "ipa": "[ɪmˈplaɪ]",
-          "pos": "verb",
-          "meaning_zh": "暗示，暗指",
+          "id": "n1-20-amount",
+          "word": "amount",
+          "ipa": "[əˈmaʊnt]",
+          "pos": "noun",
+          "meaning_zh": "總額；數量",
           "collocations": [
             {
-              "phrase": "imply a breaking change",
-              "meaning_zh": "意味著破壞性變更"
-            },
-            {
-              "phrase": "imply higher cost",
-              "meaning_zh": "意味著更高成本"
-            },
-            {
-              "phrase": "implicit contract",
-              "meaning_zh": "隱含契約"
+              "phrase": "a large amount of data",
+              "meaning_zh": "大量資料"
             }
           ],
           "short_sentences": [
             {
-              "en": "That implies breaking changes.",
-              "zh": "那代表有破壞性變更。"
+              "en": "Maggie couldn't pay the full amount of the bill.",
+              "zh": "梅姬沒辦法全額支付這筆帳單。"
             },
             {
-              "en": "Higher QPS implies cost.",
-              "zh": "更高 QPS 代表成本增加。"
+              "en": "The ingestion pipeline processes a huge amount of event logs every minute.",
+              "zh": "資料攝取管線每分鐘處理大量事件日誌。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_03_6_7",
-      "title": "動詞 Level 1 第 3 組（頁碼 6-7）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_03_94_95",
+      "title": "名詞 Level 1 第 3 組（頁碼 94-95）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-21-file",
-          "word": "file",
-          "ipa": "[faɪl]",
-          "pos": "verb",
-          "meaning_zh": "申請；提出訴訟；歸檔",
+          "id": "n1-21-deal",
+          "word": "deal",
+          "ipa": "[dil]",
+          "pos": "noun",
+          "meaning_zh": "交易；大量",
           "collocations": [
             {
-              "phrase": "file a bug report",
-              "meaning_zh": "提交錯誤回報"
+              "phrase": "seal/close/land/strike a deal",
+              "meaning_zh": "達成交易；完成交易"
             },
             {
-              "phrase": "file an incident",
-              "meaning_zh": "建立事故紀錄"
-            },
-            {
-              "phrase": "file a claim",
-              "meaning_zh": "提出理賠／索賠"
+              "phrase": "enterprise deal",
+              "meaning_zh": "企業級交易／合約"
             }
           ],
           "short_sentences": [
             {
-              "en": "File a bug ticket.",
-              "zh": "開一張 Bug 工單。"
+              "en": "I'm going to Seattle to close a deal with the client.",
+              "zh": "我要去西雅圖跟客戶完成一筆交易。"
             },
             {
-              "en": "File an incident report.",
-              "zh": "建立事故報告。"
+              "en": "The sales team closed three annual enterprise deals this quarter.",
+              "zh": "業務團隊本季完成了三筆年度企業合約。"
             }
           ]
         },
         {
-          "id": "v1-22-consult",
-          "word": "consult",
-          "ipa": "[kənˈsʌlt]",
-          "pos": "verb",
-          "meaning_zh": "諮詢，商量",
+          "id": "n1-22-rate",
+          "word": "rate",
+          "ipa": "[ret]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 價格；比例 / 動 給予評價",
           "collocations": [
             {
-              "phrase": "consult the DBA",
-              "meaning_zh": "諮詢資料庫工程師"
+              "phrase": "interest rates",
+              "meaning_zh": "利率"
             },
             {
-              "phrase": "consult security",
-              "meaning_zh": "諮詢資安團隊"
+              "phrase": "heart rate",
+              "meaning_zh": "心跳速率"
             },
             {
-              "phrase": "technical consultant",
-              "meaning_zh": "技術顧問"
+              "phrase": "error rate",
+              "meaning_zh": "錯誤率"
+            },
+            {
+              "phrase": "conversion rate",
+              "meaning_zh": "轉換率"
             }
           ],
           "short_sentences": [
             {
-              "en": "Consult the DBA first.",
-              "zh": "先諮詢 DBA。"
+              "en": "You can reserve a room in the conference hotel at a special rate.",
+              "zh": "您可用優惠價在會議酒店預訂一間房間。"
             },
             {
-              "en": "Consult security on auth.",
-              "zh": "針對驗證諮詢資安。"
+              "en": "The 5xx error rate spiked right after the rollout started.",
+              "zh": "發布開始後，5xx 錯誤率隨即飆升。"
             }
           ]
         },
         {
-          "id": "v1-23-recommend",
-          "word": "recommend",
-          "ipa": "[ˌrɛkəˈmɛnd]",
-          "pos": "verb",
-          "meaning_zh": "推薦；建議",
+          "id": "n1-23-item",
+          "word": "item",
+          "ipa": "[ˈaɪtəm]",
+          "pos": "noun",
+          "meaning_zh": "品目；項目",
           "collocations": [
             {
-              "phrase": "recommend a refactor",
-              "meaning_zh": "建議重構"
+              "phrase": "line item",
+              "meaning_zh": "明細項目"
             },
             {
-              "phrase": "recommend caching",
-              "meaning_zh": "建議導入快取"
-            },
-            {
-              "phrase": "strongly recommend",
-              "meaning_zh": "強烈建議"
+              "phrase": "action item",
+              "meaning_zh": "待辦行動項目"
             }
           ],
           "short_sentences": [
             {
-              "en": "Recommend adding a cache.",
-              "zh": "建議加上快取。"
+              "en": "We have a broad selection of gift items, such as T-shirts and keychains.",
+              "zh": "我們有T恤和鑰匙圈等多種禮品可供挑選。"
             },
             {
-              "en": "I recommend rolling back.",
-              "zh": "我建議先回滾。"
+              "en": "Let's list every action item from the post-mortem meeting.",
+              "zh": "我們把檢討會議的每一項行動項目都列出來。"
             }
           ]
         },
         {
-          "id": "v1-24-encourage",
-          "word": "encourage",
-          "ipa": "[ɪnˈkɝɪdʒ]",
-          "pos": "verb",
-          "meaning_zh": "鼓勵；促進",
+          "id": "n1-24-demand",
+          "word": "demand",
+          "ipa": "[dɪˈmænd]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 需求，要求 / 動 要求",
           "collocations": [
             {
-              "phrase": "encourage code reviews",
-              "meaning_zh": "鼓勵程式碼審查"
+              "phrase": "high demand",
+              "meaning_zh": "高需求"
             },
             {
-              "phrase": "encourage early feedback",
-              "meaning_zh": "鼓勵及早回饋"
-            },
-            {
-              "phrase": "encourage adoption",
-              "meaning_zh": "促進採用"
+              "phrase": "on demand",
+              "meaning_zh": "隨需、按需"
             }
           ],
           "short_sentences": [
             {
-              "en": "Encourage small pull requests.",
-              "zh": "鼓勵提交小而精的 PR。"
+              "en": "The demand for high-rise apartments is increasing as the economy grows.",
+              "zh": "隨著經濟成長，高層公寓的需求逐日俱增。"
             },
             {
-              "en": "Encourage early QA testing.",
-              "zh": "鼓勵及早進行 QA 測試。"
+              "en": "Compute resources scale automatically when traffic demand increases.",
+              "zh": "當流量需求增加時，運算資源會自動擴展。"
             }
           ]
         },
         {
-          "id": "v1-25-register",
-          "word": "register",
-          "ipa": "[ˈrɛdʒɪstɚ]",
-          "pos": "verb",
-          "meaning_zh": "註冊；登記",
+          "id": "n1-25-manner",
+          "word": "manner",
+          "ipa": "[ˈmænɚ]",
+          "pos": "noun",
+          "meaning_zh": "方法；態度",
           "collocations": [
             {
-              "phrase": "register a webhook",
-              "meaning_zh": "註冊 Webhook"
+              "phrase": "in a timely manner",
+              "meaning_zh": "及時地"
             },
             {
-              "phrase": "register a service",
-              "meaning_zh": "註冊服務"
+              "phrase": "in an efficient manner",
+              "meaning_zh": "有效率地"
             },
             {
-              "phrase": "user registration",
-              "meaning_zh": "使用者註冊"
+              "phrase": "in a scalable manner",
+              "meaning_zh": "以可擴展的方式"
             }
           ],
           "short_sentences": [
             {
-              "en": "Register the webhook URL.",
-              "zh": "註冊 Webhook 網址。"
+              "en": "In future, we have to hire staff in a more timely manner.",
+              "zh": "未來我們必須採取更及時的做法招聘員工。"
             },
             {
-              "en": "Register service in registry.",
-              "zh": "向註冊中心註冊服務。"
+              "en": "Alerts must be triaged in a timely manner to protect our SLA.",
+              "zh": "告警必須及時處理，以保障我們的 SLA。"
             }
           ]
         },
         {
-          "id": "v1-26-enroll",
-          "word": "enroll",
-          "ipa": "[ɪnˈrol]",
-          "pos": "verb",
-          "meaning_zh": "註冊；入學",
+          "id": "n1-26-content",
+          "word": "content",
+          "ipa": "[ˈkɑntɛnt]",
+          "pos": "noun",
+          "meaning_zh": "內容，要旨",
           "collocations": [
             {
-              "phrase": "enroll in MFA",
-              "meaning_zh": "啟用多因素驗證"
+              "phrase": "a table of contents",
+              "meaning_zh": "目次，目錄"
             },
             {
-              "phrase": "enroll users",
-              "meaning_zh": "納入使用者"
+              "phrase": "payload content",
+              "meaning_zh": "酬載內容"
             },
             {
-              "phrase": "enrollment flow",
-              "meaning_zh": "註冊加入流程"
+              "phrase": "content delivery",
+              "meaning_zh": "內容遞送"
             }
           ],
           "short_sentences": [
             {
-              "en": "Enroll accounts in MFA.",
-              "zh": "將帳號納入 MFA 驗證。"
+              "en": "The customs officer opened my suitcase to inspect its contents.",
+              "zh": "海關人員打開我的手提行李箱，檢查裡面的物品。"
             },
             {
-              "en": "Enroll beta users now.",
-              "zh": "現在納入測試使用者。"
+              "en": "Validate the request payload content before writing to the database.",
+              "zh": "寫入資料庫之前，先驗證請求酬載內容。"
             }
           ]
         },
         {
-          "id": "v1-27-search",
-          "word": "search",
-          "ipa": "[sɝtʃ]",
-          "pos": "verb",
-          "meaning_zh": "尋找，搜索",
+          "id": "n1-27-element",
+          "word": "element",
+          "ipa": "[ˈɛləmənt]",
+          "pos": "noun",
+          "meaning_zh": "要素，成分",
           "collocations": [
             {
-              "phrase": "search error logs",
-              "meaning_zh": "搜尋錯誤日誌"
+              "phrase": "a key/vital element",
+              "meaning_zh": "關鍵要素"
             },
             {
-              "phrase": "full-text search",
-              "meaning_zh": "全文檢索"
+              "phrase": "chemical elements",
+              "meaning_zh": "化學元素"
             },
             {
-              "phrase": "search index",
-              "meaning_zh": "搜尋索引"
+              "phrase": "core element",
+              "meaning_zh": "核心要素"
             }
           ],
           "short_sentences": [
             {
-              "en": "Search logs by traceId.",
-              "zh": "依 traceId 搜尋日誌。"
+              "en": "Perseverance is a key element to success.",
+              "zh": "毅力是成功的要素。"
             },
             {
-              "en": "Add an index first.",
-              "zh": "先建立索引。"
+              "en": "Idempotency is a key element in reliable payment processing.",
+              "zh": "冪等性是可靠金流處理的關鍵要素。"
             }
           ]
         },
         {
-          "id": "v1-28-subscribe",
-          "word": "subscribe",
-          "ipa": "[səbˈskraɪb]",
-          "pos": "verb",
-          "meaning_zh": "訂閱；訂購",
+          "id": "n1-28-view",
+          "word": "view",
+          "ipa": "[vju]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 看法，觀點；景色 / 動 看待；觀看",
           "collocations": [
             {
-              "phrase": "subscribe to a topic",
-              "meaning_zh": "訂閱主題（MQ/PubSub）"
+              "phrase": "a panoramic view",
+              "meaning_zh": "全景"
             },
             {
-              "phrase": "subscribe to alerts",
-              "meaning_zh": "訂閱告警通知"
-            },
-            {
-              "phrase": "subscription plan",
-              "meaning_zh": "訂閱方案"
+              "phrase": "from a technical point of view",
+              "meaning_zh": "從技術角度來看"
             }
           ],
           "short_sentences": [
             {
-              "en": "Subscribe to order events.",
-              "zh": "訂閱訂單事件。"
+              "en": "His view of the new project is too optimistic.",
+              "zh": "他對新企劃的看法過於樂觀。"
             },
             {
-              "en": "Subscribe to alert webhooks.",
-              "zh": "訂閱告警 Webhook。"
+              "en": "From a system design view, caching reduces read pressure on the primary DB.",
+              "zh": "從系統設計角度來看，快取能減輕主資料庫的讀取壓力。"
             }
           ]
         },
         {
-          "id": "v1-29-expire",
-          "word": "expire",
-          "ipa": "[ɪkˈspaɪr]",
-          "pos": "verb",
-          "meaning_zh": "到期",
+          "id": "n1-29-review",
+          "word": "review",
+          "ipa": "[rɪˈvju]",
+          "pos": "noun",
+          "meaning_zh": "檢查；評論；複習",
           "collocations": [
             {
-              "phrase": "token expired",
-              "meaning_zh": "權杖已過期"
+              "phrase": "book reviews",
+              "meaning_zh": "書評"
             },
             {
-              "phrase": "cache entry expires",
-              "meaning_zh": "快取項目到期"
+              "phrase": "end-of-year review",
+              "meaning_zh": "年終回顧"
             },
             {
-              "phrase": "session expiration",
-              "meaning_zh": "工作階段逾時"
+              "phrase": "code review",
+              "meaning_zh": "程式碼審查"
+            },
+            {
+              "phrase": "design review",
+              "meaning_zh": "設計審查"
             }
           ],
           "short_sentences": [
             {
-              "en": "Auth token expired early.",
-              "zh": "驗證權杖提早過期了。"
+              "en": "City officials came for a review of safety measures.",
+              "zh": "市府官員前來檢查安全措施。"
             },
             {
-              "en": "Session expires in ten.",
-              "zh": "工作階段十分鐘後到期。"
+              "en": "Every pull request requires at least one thorough code review before merging.",
+              "zh": "每個拉取請求在合併前都至少需要一次完整的程式碼審查。"
             }
           ]
         },
         {
-          "id": "v1-30-notify",
-          "word": "notify",
-          "ipa": "[ˈnotəˌfaɪ]",
-          "pos": "verb",
-          "meaning_zh": "通知，告知",
+          "id": "n1-30-aim",
+          "word": "aim",
+          "ipa": "[em]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 目標，目的；瞄準方向 / 動 瞄準",
           "collocations": [
             {
-              "phrase": "notify on-call",
-              "meaning_zh": "通知值班人員"
+              "phrase": "achieve an aim",
+              "meaning_zh": "達成目標"
             },
             {
-              "phrase": "notify stakeholders",
-              "meaning_zh": "通知利害關係人"
-            },
-            {
-              "phrase": "webhook notification",
-              "meaning_zh": "Webhook 通知"
+              "phrase": "performance aim",
+              "meaning_zh": "效能目標"
             }
           ],
           "short_sentences": [
             {
-              "en": "Notify on-call right now.",
-              "zh": "立刻通知值班人員。"
+              "en": "Our ultimate aim is to provide opportunities for jobless young people.",
+              "zh": "我們的終極目標是為失業的年輕人提供機會。"
             },
             {
-              "en": "Notify stakeholders on status.",
-              "zh": "向利害關係人更新狀態。"
+              "en": "Our primary aim for this sprint is to cut p99 latency in half.",
+              "zh": "我們這個衝刺的首要目標是將 p99 延遲減半。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_04_8_9",
-      "title": "動詞 Level 1 第 4 組（頁碼 8-9）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_04_96_97",
+      "title": "名詞 Level 1 第 4 組（頁碼 96-97）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-31-calculate",
-          "word": "calculate",
-          "ipa": "[ˈkælkjəˌlet]",
-          "pos": "verb",
-          "meaning_zh": "計算；推測",
+          "id": "n1-31-generation",
+          "word": "generation",
+          "ipa": "[ˌdʒɛnəˈreʃən]",
+          "pos": "noun",
+          "meaning_zh": "一代，世代",
           "collocations": [
             {
-              "phrase": "calculate P99 latency",
-              "meaning_zh": "計算 P99 延遲"
-            },
-            {
-              "phrase": "calculate quota",
-              "meaning_zh": "計算配額"
-            },
-            {
-              "phrase": "calculate ROI",
-              "meaning_zh": "計算投資報酬率"
+              "phrase": "next-generation architecture",
+              "meaning_zh": "新一代架構"
             }
           ],
           "short_sentences": [
             {
-              "en": "Calculate P99 latency now.",
-              "zh": "現在計算 P99 延遲。"
+              "en": "This kind of skill has been passed on from generation to generation.",
+              "zh": "這項技藝代代相傳已久。"
             },
             {
-              "en": "Calculate monthly cloud cost.",
-              "zh": "計算每月雲端成本。"
+              "en": "The team is designing the next-generation payment platform.",
+              "zh": "團隊正在設計新一代金流平台。"
             }
           ]
         },
         {
-          "id": "v1-32-estimate",
-          "word": "estimate",
-          "ipa": "[ˈɛstəˌmet] / [ˈɛstəmət]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 估計；估價 / 名 估計；估價",
+          "id": "n1-32-fair",
+          "word": "fair",
+          "ipa": "[fɛr]",
+          "pos": "noun",
+          "meaning_zh": "博覽會，展覽",
           "collocations": [
             {
-              "phrase": "estimate effort",
-              "meaning_zh": "估算開發工時"
+              "phrase": "a job fair",
+              "meaning_zh": "就業博覽會"
             },
             {
-              "phrase": "estimate capacity",
-              "meaning_zh": "估算容量"
+              "phrase": "a book fair",
+              "meaning_zh": "書展"
             },
             {
-              "phrase": "cost estimate",
-              "meaning_zh": "成本估算"
+              "phrase": "tech job fair",
+              "meaning_zh": "科技徵才博覽會"
+            },
+            {
+              "phrase": "trade fair",
+              "meaning_zh": "貿易展"
             }
           ],
           "short_sentences": [
             {
-              "en": "Estimate story points carefully.",
-              "zh": "仔細估算故事點數。"
+              "en": "This job fair is targeted at international job seekers.",
+              "zh": "這場就業博覽會鎖定海外求職者。"
             },
             {
-              "en": "Estimate peak traffic load.",
-              "zh": "估算尖峰流量負載。"
+              "en": "Our engineering leads met several candidates at the annual tech job fair.",
+              "zh": "我們的技術主管在年度科技徵才博覽會上認識了幾位候選人。"
             }
           ]
         },
         {
-          "id": "v1-33-earn",
-          "word": "earn",
-          "ipa": "[ɝn]",
-          "pos": "verb",
-          "meaning_zh": "賺取金錢；獲得",
+          "id": "n1-33-condition",
+          "word": "condition",
+          "ipa": "[kənˈdɪʃən]",
+          "pos": "noun",
+          "meaning_zh": "條件；狀況",
           "collocations": [
             {
-              "phrase": "earn customer trust",
-              "meaning_zh": "贏得客戶信任"
+              "phrase": "terms and conditions",
+              "meaning_zh": "合約條款"
             },
             {
-              "phrase": "earn revenue",
-              "meaning_zh": "創造營收"
-            },
-            {
-              "phrase": "earn recurring income",
-              "meaning_zh": "賺取經常性收入"
+              "phrase": "race condition",
+              "meaning_zh": "競爭條件"
             }
           ],
           "short_sentences": [
             {
-              "en": "Earn trust via reliability.",
-              "zh": "靠可靠性贏得信任。"
+              "en": "We finally agreed on the conditions of the supply agreement.",
+              "zh": "我們總算談妥了供應協議的條款。"
             },
             {
-              "en": "Earn recurring SaaS revenue.",
-              "zh": "賺取經常性 SaaS 營收。"
+              "en": "Concurrent inventory updates caused a race condition under heavy load.",
+              "zh": "高負載下的並行庫存更新引發了競爭條件。"
             }
           ]
         },
         {
-          "id": "v1-34-afford",
-          "word": "afford",
-          "ipa": "[əˈfɔrd]",
-          "pos": "verb",
-          "meaning_zh": "負擔，買得起",
+          "id": "n1-34-state",
+          "word": "state",
+          "ipa": "[stet]",
+          "pos": "noun",
+          "meaning_zh": "狀況；（美國的）州；國家",
           "collocations": [
             {
-              "phrase": "afford downtime",
-              "meaning_zh": "承受得起停機"
+              "phrase": "system state",
+              "meaning_zh": "系統狀態"
             },
             {
-              "phrase": "afford extra latency",
-              "meaning_zh": "承受得起額外延遲"
-            },
-            {
-              "phrase": "cost-affordable",
-              "meaning_zh": "成本可負擔的"
+              "phrase": "stateless service",
+              "meaning_zh": "無狀態服務"
             }
           ],
           "short_sentences": [
             {
-              "en": "Can we afford downtime?",
-              "zh": "我們承受得起停機嗎？"
+              "en": "I'm worried about the state of the company's finances.",
+              "zh": "我很擔心公司的財務狀況。"
             },
             {
-              "en": "Avoid costly lock contention.",
-              "zh": "避免高代價的鎖競爭。"
+              "en": "Keeping application pods stateless makes horizontal scaling much cleaner.",
+              "zh": "讓應用程式 Pod 保持無狀態，能讓水平擴展更俐落。"
             }
           ]
         },
         {
-          "id": "v1-35-donate",
-          "word": "donate",
-          "ipa": "[ˈdonet]",
-          "pos": "verb",
-          "meaning_zh": "捐贈，捐獻",
+          "id": "n1-35-mind",
+          "word": "mind",
+          "ipa": "[maɪnd]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 內心，想法 / 動 在意，介意",
           "collocations": [
             {
-              "phrase": "donate to open source",
-              "meaning_zh": "贊助開源專案"
+              "phrase": "keep A in mind",
+              "meaning_zh": "將 A 放在心上；記住 A"
             },
             {
-              "phrase": "corporate donation",
-              "meaning_zh": "企業捐贈"
+              "phrase": "slip one's mind",
+              "meaning_zh": "忘記"
             },
             {
-              "phrase": "donate compute",
-              "meaning_zh": "捐贈運算資源"
+              "phrase": "keep edge cases in mind",
+              "meaning_zh": "將邊界案例放在心上"
             }
           ],
           "short_sentences": [
             {
-              "en": "Sponsor open-source maintainers.",
-              "zh": "贊助開源維護者。"
+              "en": "Do you have any particular meeting place in mind?",
+              "zh": "你有想到什麼特定的會面地點嗎？"
             },
             {
-              "en": "Company donates unused credits.",
-              "zh": "公司捐贈未用完額度。"
+              "en": "Keep backward compatibility in mind when evolving the public schema.",
+              "zh": "演進公開結構描述時，請把向後相容性放在心上。"
             }
           ]
         },
         {
-          "id": "v1-36-hire",
-          "word": "hire",
-          "ipa": "[haɪr]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 雇用；租用 / 名 新進員工",
+          "id": "n1-36-tip",
+          "word": "tip",
+          "ipa": "[tɪp]",
+          "pos": "noun",
+          "meaning_zh": "秘訣，訣竅；小費",
           "collocations": [
             {
-              "phrase": "hire backend engineers",
-              "meaning_zh": "招募後端工程師"
+              "phrase": "a generous tip",
+              "meaning_zh": "豐厚的小費"
             },
             {
-              "phrase": "hire contractors",
-              "meaning_zh": "聘用約聘人員"
+              "phrase": "the tip of the iceberg",
+              "meaning_zh": "冰山一角"
             },
             {
-              "phrase": "technical hiring",
-              "meaning_zh": "技術招募"
+              "phrase": "debugging tip",
+              "meaning_zh": "除錯技巧"
             }
           ],
           "short_sentences": [
             {
-              "en": "Hire senior backend engineers.",
-              "zh": "招募資深後端工程師。"
+              "en": "Check our website for many useful tips on travelling in Spain.",
+              "zh": "請造訪我們的網站，獲得更多西班牙旅遊的實用秘訣。"
             },
             {
-              "en": "Hiring freeze this quarter.",
-              "zh": "本季凍結招募。"
+              "en": "That slow query is likely just the tip of the iceberg in our indexing setup.",
+              "zh": "那條慢查詢很可能只是我們索引設定問題的冰山一角。"
             }
           ]
         },
         {
-          "id": "v1-37-launch",
-          "word": "launch",
-          "ipa": "[lɔntʃ]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 推出；發起 / 名 推出；發行",
+          "id": "n1-37-benefit",
+          "word": "benefit",
+          "ipa": "[ˈbɛnəfɪt]",
+          "pos": "noun",
+          "meaning_zh": "利益，好處",
           "collocations": [
             {
-              "phrase": "launch a MVP",
-              "meaning_zh": "推出最小可行性產品"
+              "phrase": "for the benefit of A",
+              "meaning_zh": "為了 A 的利益"
             },
             {
-              "phrase": "launch a campaign",
-              "meaning_zh": "啟動行銷活動"
-            },
-            {
-              "phrase": "product launch",
-              "meaning_zh": "產品發布"
+              "phrase": "cost benefit",
+              "meaning_zh": "成本效益"
             }
           ],
           "short_sentences": [
             {
-              "en": "Launch MVP next week.",
-              "zh": "下週推出 MVP。"
+              "en": "The reduction in the price of the product was a great benefit for the client.",
+              "zh": "產品降價對於顧客來說是一大益處。"
             },
             {
-              "en": "Feature launched to ten.",
-              "zh": "功能已向 10% 開放。"
+              "en": "We evaluated the cost benefit of running dedicated nodes versus serverless.",
+              "zh": "我們評估了執行專屬節點相較於無伺服器架構的成本效益。"
             }
           ]
         },
         {
-          "id": "v1-38-prove",
-          "word": "prove",
-          "ipa": "[pruv]",
-          "pos": "verb",
-          "meaning_zh": "證明，證實",
+          "id": "n1-38-operation",
+          "word": "operation",
+          "ipa": "[ˌɑpəˈreʃən]",
+          "pos": "noun",
+          "meaning_zh": "營業，運作",
           "collocations": [
             {
-              "phrase": "prove with benchmarks",
-              "meaning_zh": "用基準測試證明"
+              "phrase": "back-office operations",
+              "meaning_zh": "後場作業，後台作業"
             },
             {
-              "phrase": "prove the hypothesis",
-              "meaning_zh": "驗證假設成立"
+              "phrase": "batch operation",
+              "meaning_zh": "批次作業"
             },
             {
-              "phrase": "root-cause proof",
-              "meaning_zh": "根因佐證"
+              "phrase": "read/write operation",
+              "meaning_zh": "讀寫操作"
             }
           ],
           "short_sentences": [
             {
-              "en": "Prove it with benchmarks.",
-              "zh": "用基準測試證明它。"
+              "en": "The factory was closed for months, but is back in operation now.",
+              "zh": "這家工廠關閉數月後，如今又恢復營業了。"
             },
             {
-              "en": "Load test proved stability.",
-              "zh": "壓測證明了穩定性。"
+              "en": "Scheduled batch operations run off-peak to avoid impacting live traffic.",
+              "zh": "排程批次作業會在離峰時段執行，以避免影響線上流量。"
             }
           ]
         },
         {
-          "id": "v1-39-display",
-          "word": "display",
-          "ipa": "[dɪˈsple]",
-          "pos": "verb",
-          "meaning_zh": "陳列，展出",
+          "id": "n1-39-cooperation",
+          "word": "cooperation",
+          "ipa": "[koˌɑpəˈreʃən]",
+          "pos": "noun",
+          "meaning_zh": "合作，協力",
           "collocations": [
             {
-              "phrase": "display error states",
-              "meaning_zh": "顯示錯誤狀態"
-            },
-            {
-              "phrase": "display metrics",
-              "meaning_zh": "顯示監控指標"
-            },
-            {
-              "phrase": "display fallback UI",
-              "meaning_zh": "顯示降級備援畫面"
+              "phrase": "cross-team cooperation",
+              "meaning_zh": "跨團隊協作"
             }
           ],
           "short_sentences": [
             {
-              "en": "Display clear error banners.",
-              "zh": "顯示清楚的錯誤提示。"
+              "en": "Thank you for your cooperation in organizing the fundraiser.",
+              "zh": "謝謝您協力籌辦這場募捐活動。"
             },
             {
-              "en": "Display latency on dashboard.",
-              "zh": "在儀表板顯示延遲。"
+              "en": "Smooth cooperation between product, QA, and backend teams sped up the launch.",
+              "zh": "產品、品保與後端團隊之間的順暢協作加快了上線速度。"
             }
           ]
         },
         {
-          "id": "v1-40-celebrate",
-          "word": "celebrate",
-          "ipa": "[ˈsɛləˌbret]",
-          "pos": "verb",
-          "meaning_zh": "慶祝，祝賀",
+          "id": "n1-40-company",
+          "word": "company",
+          "ipa": "[ˈkʌmpənɪ]",
+          "pos": "noun",
+          "meaning_zh": "客人；陪伴；公司",
           "collocations": [
             {
-              "phrase": "celebrate a milestone",
-              "meaning_zh": "慶祝里程碑達成"
+              "phrase": "B2B company",
+              "meaning_zh": "B2B 企業"
             },
             {
-              "phrase": "celebrate zero downtime",
-              "meaning_zh": "慶祝零停機發布"
-            },
-            {
-              "phrase": "team celebration",
-              "meaning_zh": "團隊慶功"
+              "phrase": "parent company",
+              "meaning_zh": "母公司"
             }
           ],
           "short_sentences": [
             {
-              "en": "Zero-downtime deploy succeeded!",
-              "zh": "零停機部署成功了！"
+              "en": "I'm expecting company late this afternoon.",
+              "zh": "今天下午晚一點會有客人來訪。"
             },
             {
-              "en": "Celebrate hitting SLA goals.",
-              "zh": "慶祝達成 SLA 目標。"
+              "en": "Our company provides B2B workflow automation tools for logistics firms.",
+              "zh": "我們公司為物流業者提供 B2B 工作流自動化工具。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_05_10_11",
-      "title": "動詞 Level 1 第 5 組（頁碼 10-11）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_05_98_99",
+      "title": "名詞 Level 1 第 5 組（頁碼 98-99）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-41-replace",
-          "word": "replace",
-          "ipa": "[rɪˈples]",
-          "pos": "verb",
-          "meaning_zh": "取代；更換",
+          "id": "n1-41-code",
+          "word": "code",
+          "ipa": "[kod]",
+          "pos": "noun",
+          "meaning_zh": "規則；密碼",
           "collocations": [
             {
-              "phrase": "replace legacy code",
-              "meaning_zh": "替換老舊程式碼"
+              "phrase": "a code of ethics",
+              "meaning_zh": "倫理規範，倫理守則"
             },
             {
-              "phrase": "replace synchronous calls",
-              "meaning_zh": "替換同步呼叫"
+              "phrase": "a dress code",
+              "meaning_zh": "服裝規定"
             },
             {
-              "phrase": "replace A with B",
-              "meaning_zh": "用 B 替換 A"
+              "phrase": "a zip code",
+              "meaning_zh": "郵遞區號"
+            },
+            {
+              "phrase": "status code",
+              "meaning_zh": "狀態碼"
+            },
+            {
+              "phrase": "source code",
+              "meaning_zh": "原始碼"
             }
           ],
           "short_sentences": [
             {
-              "en": "Replace legacy cron jobs.",
-              "zh": "替換老舊排程工作。"
+              "en": "Everyone in the company must follow its code of ethics.",
+              "zh": "公司裡所有人都必須遵守公司的倫理規範。"
             },
             {
-              "en": "Replace sync call async.",
-              "zh": "把同步呼叫改非同步。"
+              "en": "The endpoint returned a 429 status code when the client exceeded the rate limit.",
+              "zh": "當客戶端超過速率限制時，端點回傳了 429 狀態碼。"
             }
           ]
         },
         {
-          "id": "v1-42-adjust",
-          "word": "adjust",
-          "ipa": "[əˈdʒʌst]",
-          "pos": "verb",
-          "meaning_zh": "適應；調整",
+          "id": "n1-42-fine",
+          "word": "fine",
+          "ipa": "[faɪn]",
+          "pos": "noun",
+          "meaning_zh": "罰金；罰款",
           "collocations": [
             {
-              "phrase": "adjust thread pool",
-              "meaning_zh": "調整執行緒池"
+              "phrase": "impose a fine",
+              "meaning_zh": "罰款"
             },
             {
-              "phrase": "adjust timeout",
-              "meaning_zh": "調整逾時設定"
-            },
-            {
-              "phrase": "adjust pricing tier",
-              "meaning_zh": "調整定價級距"
+              "phrase": "fine-grained control",
+              "meaning_zh": "細粒度控制（形容詞用法補充）"
             }
           ],
           "short_sentences": [
             {
-              "en": "Adjust connection pool limit.",
-              "zh": "調整連線池上限。"
+              "en": "A $500 fine is imposed for riding without a valid ticket.",
+              "zh": "持無效車票乘車則處 500 元罰金。"
             },
             {
-              "en": "Adjust retry backoff window.",
-              "zh": "調整重試退避視窗。"
+              "en": "Non-compliance with data privacy rules can result in heavy regulatory fines.",
+              "zh": "不遵守資料隱私規範可能導致高額法規罰款。"
             }
           ]
         },
         {
-          "id": "v1-43-fix",
-          "word": "fix",
-          "ipa": "[fɪks]",
-          "pos": "verb",
-          "meaning_zh": "修理；固定",
+          "id": "n1-43-site",
+          "word": "site",
+          "ipa": "[saɪt]",
+          "pos": "noun",
+          "meaning_zh": "地點，場所",
           "collocations": [
             {
-              "phrase": "fix a race condition",
-              "meaning_zh": "修復競爭條件"
+              "phrase": "a construction site",
+              "meaning_zh": "工地"
             },
             {
-              "phrase": "fix memory leak",
-              "meaning_zh": "修復記憶體洩漏"
+              "phrase": "production site",
+              "meaning_zh": "正式環境站點"
             },
             {
-              "phrase": "hotfix deployment",
-              "meaning_zh": "緊急修復部署"
+              "phrase": "staging site",
+              "meaning_zh": "預備環境站點"
             }
           ],
           "short_sentences": [
             {
-              "en": "Fix the race condition.",
-              "zh": "修復那個競爭條件。"
+              "en": "The architect will come to the construction site today.",
+              "zh": "建築師今天會來工地一趟。"
             },
             {
-              "en": "Fix memory leak today.",
-              "zh": "今天修復記憶體洩漏。"
+              "en": "We verified the fix on the staging site before pushing it to production.",
+              "zh": "我們在推送到正式環境前，先在預備環境站點驗證了修復。"
             }
           ]
         },
         {
-          "id": "v1-44-cause",
-          "word": "cause",
-          "ipa": "[kɔz]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 造成；導致 / 名 原因；理由",
+          "id": "n1-44-domain",
+          "word": "domain",
+          "ipa": "[doˈmen]",
+          "pos": "noun",
+          "meaning_zh": "領域，區域",
           "collocations": [
             {
-              "phrase": "cause lock contention",
-              "meaning_zh": "造成鎖競爭"
+              "phrase": "business domain",
+              "meaning_zh": "業務領域"
             },
             {
-              "phrase": "cause cascading failure",
-              "meaning_zh": "引發連鎖故障"
-            },
-            {
-              "phrase": "root cause",
-              "meaning_zh": "根本原因"
+              "phrase": "domain model",
+              "meaning_zh": "領域模型"
             }
           ],
           "short_sentences": [
             {
-              "en": "Locks caused thread starvation.",
-              "zh": "鎖造成了執行緒飢餓。"
+              "en": "Housekeeping is no longer a female domain.",
+              "zh": "家務不再是女性的責任。"
             },
             {
-              "en": "Find the root cause.",
-              "zh": "找出根本原因。"
+              "en": "Clear domain boundaries help prevent tight coupling across bounded contexts.",
+              "zh": "清楚的業務領域邊界有助於防止限界上下文之間的緊密耦合。"
             }
           ]
         },
         {
-          "id": "v1-45-guarantee",
-          "word": "guarantee",
-          "ipa": "[ˌgærənˈti]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 保證，擔保 / 名 保證；抵押品",
+          "id": "n1-45-suggestion",
+          "word": "suggestion",
+          "ipa": "[səˈdʒɛstʃən]",
+          "pos": "noun",
+          "meaning_zh": "建議，提議",
           "collocations": [
             {
-              "phrase": "guarantee at-least-once",
-              "meaning_zh": "保證至少一次投遞"
-            },
-            {
-              "phrase": "guarantee ordering",
-              "meaning_zh": "保證順序性"
-            },
-            {
-              "phrase": "SLA guarantee",
-              "meaning_zh": "服務等級保證"
+              "phrase": "actionable suggestion",
+              "meaning_zh": "可執行的建議"
             }
           ],
           "short_sentences": [
             {
-              "en": "Guarantee at-least-once delivery.",
-              "zh": "保證至少一次投遞。"
+              "en": "Do you have any suggestions on the plan?",
+              "zh": "你對這項計畫有沒有什麼建議？"
             },
             {
-              "en": "Check SLA guarantees first.",
-              "zh": "先確認 SLA 保證條款。"
+              "en": "Her suggestion to partition the large table solved our write contention.",
+              "zh": "她提出將大型資料表分割的建議，解決了我們的寫入競爭問題。"
             }
           ]
         },
         {
-          "id": "v1-46-update",
-          "word": "update",
-          "ipa": "[ʌpˈdet] / [ˈʌpdet]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 更新，升級 / 名 最新消息",
+          "id": "n1-46-round",
+          "word": "round",
+          "ipa": "[raʊnd]",
+          "pos": "noun",
+          "meaning_zh": "一連串；回合；巡迴",
           "collocations": [
             {
-              "phrase": "update dependencies",
-              "meaning_zh": "更新相依套件"
+              "phrase": "a round of testing",
+              "meaning_zh": "一輪測試"
             },
             {
-              "phrase": "update API schema",
-              "meaning_zh": "更新 API 規格"
-            },
-            {
-              "phrase": "status update",
-              "meaning_zh": "狀態更新"
+              "phrase": "funding round",
+              "meaning_zh": "募資輪"
             }
           ],
           "short_sentences": [
             {
-              "en": "Update API docs first.",
-              "zh": "先更新 API 文件。"
+              "en": "She has passed the multiple rounds of job interviews.",
+              "zh": "她通過了一連串的工作面試。"
             },
             {
-              "en": "Update config and reload.",
-              "zh": "更新設定並重新載入。"
+              "en": "The startup closed its Series A round to expand its engineering team.",
+              "zh": "這家新創公司完成了 A 輪募資，以擴編工程團隊。"
             }
           ]
         },
         {
-          "id": "v1-47-describe",
-          "word": "describe",
-          "ipa": "[dɪˈskraɪb]",
-          "pos": "verb",
-          "meaning_zh": "描述，描寫",
+          "id": "n1-47-session",
+          "word": "session",
+          "ipa": "[ˈsɛʃən]",
+          "pos": "noun",
+          "meaning_zh": "集會，會議",
           "collocations": [
             {
-              "phrase": "describe reproduction steps",
-              "meaning_zh": "描述重現步驟"
+              "phrase": "a training session",
+              "meaning_zh": "訓練，培訓課程"
             },
             {
-              "phrase": "describe architecture",
-              "meaning_zh": "描述系統架構"
+              "phrase": "in session",
+              "meaning_zh": "開會中"
             },
             {
-              "phrase": "incident description",
-              "meaning_zh": "事故說明"
+              "phrase": "planning session",
+              "meaning_zh": "規劃會議"
+            },
+            {
+              "phrase": "user session",
+              "meaning_zh": "使用者工作階段"
             }
           ],
           "short_sentences": [
             {
-              "en": "Describe exact failure steps.",
-              "zh": "描述確切的失敗步驟。"
+              "en": "The rescue team will undergo a series of practice sessions.",
+              "zh": "搜救隊將進行一連串的實地演練。"
             },
             {
-              "en": "Describe system trade-offs clearly.",
-              "zh": "清楚說明系統取捨。"
+              "en": "We held a sprint planning session to align on scope and deliverables.",
+              "zh": "我們召開了衝刺規劃會議，以對齊範疇與交付成果。"
             }
           ]
         },
         {
-          "id": "v1-48-instruct",
-          "word": "instruct",
-          "ipa": "[ɪnˈstrʌkt]",
-          "pos": "verb",
-          "meaning_zh": "指示；指導",
+          "id": "n1-48-priority",
+          "word": "priority",
+          "ipa": "[praɪˈɔrətɪ]",
+          "pos": "noun",
+          "meaning_zh": "優先；重點",
           "collocations": [
             {
-              "phrase": "instruct the client",
-              "meaning_zh": "指示客戶端行為"
+              "phrase": "a top priority",
+              "meaning_zh": "第一優先"
             },
             {
-              "phrase": "setup instructions",
-              "meaning_zh": "安裝設定說明"
+              "phrase": "set priorities",
+              "meaning_zh": "決定優先順序"
             },
             {
-              "phrase": "instruct retries",
-              "meaning_zh": "指示重試策略"
+              "phrase": "high priority",
+              "meaning_zh": "高優先級"
             }
           ],
           "short_sentences": [
             {
-              "en": "Instruct clients to retry.",
-              "zh": "指示客戶端進行重試。"
+              "en": "Increasing sales is a top priority for the new CEO.",
+              "zh": "提升銷售額是新任執行長的首要任務。"
             },
             {
-              "en": "Follow setup instructions carefully.",
-              "zh": "仔細依照設定說明操作。"
+              "en": "Fixing the memory leak in the worker service is our top priority today.",
+              "zh": "修復背景工作服務中的記憶體洩漏是我們今天的第一優先。"
             }
           ]
         },
         {
-          "id": "v1-49-address",
-          "word": "address",
-          "ipa": "[əˈdrɛs]",
-          "pos": "verb",
-          "meaning_zh": "處理；致詞",
+          "id": "n1-49-representative",
+          "word": "representative",
+          "ipa": "[ˌrɛprɪˈzɛntətɪv]",
+          "pos": "noun",
+          "meaning_zh": "代表，代理人",
           "collocations": [
             {
-              "phrase": "address tech debt",
-              "meaning_zh": "處理技術債"
+              "phrase": "sales representative",
+              "meaning_zh": "銷售員"
             },
             {
-              "phrase": "address latency spikes",
-              "meaning_zh": "處理延遲尖峰"
-            },
-            {
-              "phrase": "address client feedback",
-              "meaning_zh": "回應客戶回饋"
+              "phrase": "technical representative",
+              "meaning_zh": "技術代表"
             }
           ],
           "short_sentences": [
             {
-              "en": "Address high CPU first.",
-              "zh": "先處理高 CPU 問題。"
+              "en": "The CEO started his career as sales representative.",
+              "zh": "這位執行長的職涯是先從銷售員開始做起。"
             },
             {
-              "en": "Address tech debt gradually.",
-              "zh": "逐步處理技術債。"
+              "en": "A technical representative joined the call to review integration requirements.",
+              "zh": "一位技術代表加入了會議，以檢視整合需求。"
             }
           ]
         },
         {
-          "id": "v1-50-resolve",
-          "word": "resolve",
-          "ipa": "[rɪˈzɑlv]",
-          "pos": "verb",
-          "meaning_zh": "解決；決心",
+          "id": "n1-50-feature",
+          "word": "feature",
+          "ipa": "[ˈfitʃɚ]",
+          "pos": "noun",
+          "meaning_zh": "特徵，特色",
           "collocations": [
             {
-              "phrase": "resolve a conflict",
-              "meaning_zh": "解決衝突"
+              "phrase": "feature flag",
+              "meaning_zh": "功能開關"
             },
             {
-              "phrase": "resolve DNS",
-              "meaning_zh": "解析 DNS"
-            },
-            {
-              "phrase": "incident resolution",
-              "meaning_zh": "事故解決"
+              "phrase": "core feature",
+              "meaning_zh": "核心功能"
             }
           ],
           "short_sentences": [
             {
-              "en": "Resolve merge conflicts now.",
-              "zh": "現在解決合併衝突。"
+              "en": "There are many new features in the new software program.",
+              "zh": "這款軟體程式有許多新功能。"
             },
             {
-              "en": "Incident resolved in ten.",
-              "zh": "十分鐘內解決事故。"
+              "en": "We gated the new checkout feature behind a feature flag for safe rollout.",
+              "zh": "我們將新的結帳功能放在功能開關後方，以便安全逐步發布。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_06_12_13",
-      "title": "動詞 Level 1 第 6 組（頁碼 12-13）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_06_100_101",
+      "title": "名詞 Level 1 第 6 組（頁碼 100-101）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-51-conclude",
-          "word": "conclude",
-          "ipa": "[kənˈklud]",
-          "pos": "verb",
-          "meaning_zh": "作出結論；結束",
+          "id": "n1-51-account",
+          "word": "account",
+          "ipa": "[əˈkaʊnt]",
+          "pos": "noun",
+          "meaning_zh": "客戶；帳戶",
           "collocations": [
             {
-              "phrase": "conclude the RCA",
-              "meaning_zh": "完成根因分析結論"
+              "phrase": "secure/land an account",
+              "meaning_zh": "得到客戶"
             },
             {
-              "phrase": "conclude negotiations",
-              "meaning_zh": "結束商務談判"
+              "phrase": "service account",
+              "meaning_zh": "服務帳號"
             },
             {
-              "phrase": "final conclusion",
-              "meaning_zh": "最終結論"
+              "phrase": "enterprise account",
+              "meaning_zh": "企業客戶帳號"
             }
           ],
           "short_sentences": [
             {
-              "en": "Conclude RCA with actions.",
-              "zh": "以行動項結束 RCA。"
+              "en": "Mr. Goh secured three international accounts in his first month on the job.",
+              "zh": "吳先生上班的第一個月就得到三個國際客戶。"
             },
             {
-              "en": "We concluded the review.",
-              "zh": "我們結束了審查。"
+              "en": "Rotate the service account credentials on a regular schedule.",
+              "zh": "定期輪替服務帳號憑證。"
             }
           ]
         },
         {
-          "id": "v1-52-convince",
-          "word": "convince",
-          "ipa": "[kənˈvɪns]",
-          "pos": "verb",
-          "meaning_zh": "說服，使人信服",
+          "id": "n1-52-loyalty",
+          "word": "loyalty",
+          "ipa": "[ˈlɔɪəltɪ]",
+          "pos": "noun",
+          "meaning_zh": "忠誠，忠心",
           "collocations": [
             {
-              "phrase": "convince stakeholders",
-              "meaning_zh": "說服利害關係人"
+              "phrase": "customer loyalty",
+              "meaning_zh": "客戶忠誠度"
             },
             {
-              "phrase": "convince with metrics",
-              "meaning_zh": "用數據說服"
-            },
-            {
-              "phrase": "convincing evidence",
-              "meaning_zh": "有說服力的證據"
+              "phrase": "loyalty program",
+              "meaning_zh": "忠誠度計畫"
             }
           ],
           "short_sentences": [
             {
-              "en": "Convince them with metrics.",
-              "zh": "用指標說服他們。"
+              "en": "Dan has a certain amount of loyalty to his boss.",
+              "zh": "丹對上司有一定的忠誠度。"
             },
             {
-              "en": "Data convinced the lead.",
-              "zh": "數據說服了主管。"
+              "en": "Reliable delivery and responsive support build long-term customer loyalty.",
+              "zh": "可靠的交付與即時的支援能建立長期的客戶忠誠度。"
             }
           ]
         },
         {
-          "id": "v1-53-determine",
-          "word": "determine",
-          "ipa": "[dɪˈtɝmɪn]",
-          "pos": "verb",
-          "meaning_zh": "決定；下定決心",
+          "id": "n1-53-opportunity",
+          "word": "opportunity",
+          "ipa": "[ˌɑpɚˈtjunətɪ]",
+          "pos": "noun",
+          "meaning_zh": "機會，良機",
           "collocations": [
             {
-              "phrase": "determine root cause",
-              "meaning_zh": "判定根本原因"
+              "phrase": "an opportunity to + V",
+              "meaning_zh": "有機會做某事"
             },
             {
-              "phrase": "determine TTL",
-              "meaning_zh": "決定快取存活時間"
+              "phrase": "growth opportunity",
+              "meaning_zh": "成長機會"
             },
             {
-              "phrase": "determine pricing",
-              "meaning_zh": "決定定價策略"
+              "phrase": "an opportunity to optimize",
+              "meaning_zh": "最佳化的機會"
             }
           ],
           "short_sentences": [
             {
-              "en": "Determine exact root cause.",
-              "zh": "判定確切根本原因。"
+              "en": "That was my first opportunity to visit the head office.",
+              "zh": "那是我第一次有機會參觀總公司。"
             },
             {
-              "en": "Set proper cache TTL.",
-              "zh": "設定適當快取 TTL。"
+              "en": "Refactoring the auth module gave us an opportunity to simplify token handling.",
+              "zh": "重構驗證模組讓我們有機會簡化權杖處理。"
             }
           ]
         },
         {
-          "id": "v1-54-insist",
-          "word": "insist",
-          "ipa": "[ɪnˈsɪst]",
-          "pos": "verb",
-          "meaning_zh": "堅持；堅決主張",
+          "id": "n1-54-issue",
+          "word": "issue",
+          "ipa": "[ˈɪʃu]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 問題；爭議 / 動 發行，發布",
           "collocations": [
             {
-              "phrase": "insist on idempotency",
-              "meaning_zh": "堅持冪等性設計"
+              "phrase": "the issue at hand",
+              "meaning_zh": "眼前的問題"
             },
             {
-              "phrase": "insist on unit tests",
-              "meaning_zh": "堅持單元測試"
-            },
-            {
-              "phrase": "insist on contract terms",
-              "meaning_zh": "堅持合約條款"
+              "phrase": "security issue",
+              "meaning_zh": "資安問題"
             }
           ],
           "short_sentences": [
             {
-              "en": "Insist on idempotent APIs.",
-              "zh": "堅持 API 具備冪等性。"
+              "en": "The board members were eager to discuss the issue at hand.",
+              "zh": "董事會成員急著討論目前的問題。"
             },
             {
-              "en": "Insist on test coverage.",
-              "zh": "堅持測試覆蓋率。"
+              "en": "Let's focus on resolving the replication lag issue at hand first.",
+              "zh": "我們先專注解決眼前複寫延遲的問題。"
             }
           ]
         },
         {
-          "id": "v1-55-ensure",
-          "word": "ensure",
-          "ipa": "[ɪnˈʃʊr]",
-          "pos": "verb",
-          "meaning_zh": "確保，保證",
+          "id": "n1-55-effect",
+          "word": "effect",
+          "ipa": "[ɪˈfɛkt]",
+          "pos": "noun",
+          "meaning_zh": "影響；效果",
           "collocations": [
             {
-              "phrase": "ensure data consistency",
-              "meaning_zh": "確保資料一致性"
+              "phrase": "take effect",
+              "meaning_zh": "生效"
             },
             {
-              "phrase": "ensure high availability",
-              "meaning_zh": "確保高可用性"
+              "phrase": "in effect",
+              "meaning_zh": "實際上"
             },
             {
-              "phrase": "ensure backward compatibility",
-              "meaning_zh": "確保向下相容"
+              "phrase": "side effect",
+              "meaning_zh": "副作用"
             }
           ],
           "short_sentences": [
             {
-              "en": "Ensure strong data consistency.",
-              "zh": "確保強資料一致性。"
+              "en": "The new promotion had a substantial effect on sales.",
+              "zh": "新促銷活動明顯刺激了銷售量。"
             },
             {
-              "en": "Ensure backward compatibility here.",
-              "zh": "這裡確保向下相容。"
+              "en": "The new rate-limiting configuration takes effect immediately after reload.",
+              "zh": "新的速率限制設定在重新載入後立即生效。"
             }
           ]
         },
         {
-          "id": "v1-56-quote",
-          "word": "quote",
-          "ipa": "[kwot]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 引用；報價 / 名 引文；報價",
+          "id": "n1-56-option",
+          "word": "option",
+          "ipa": "[ˈɑpʃən]",
+          "pos": "noun",
+          "meaning_zh": "選擇，選項",
           "collocations": [
             {
-              "phrase": "quote a price",
-              "meaning_zh": "提出報價"
+              "phrase": "configuration option",
+              "meaning_zh": "設定選項"
             },
             {
-              "phrase": "quote error logs",
-              "meaning_zh": "引用錯誤日誌"
-            },
-            {
-              "phrase": "request a quote",
-              "meaning_zh": "請求報價單"
+              "phrase": "fallback option",
+              "meaning_zh": "備援選項"
             }
           ],
           "short_sentences": [
             {
-              "en": "Quote exact error lines.",
-              "zh": "引用確切錯誤行數。"
+              "en": "Both parties have the option to cancel the contract at the end of the term.",
+              "zh": "合約到期時，雙方皆有權取消合約。"
             },
             {
-              "en": "Send enterprise pricing quote.",
-              "zh": "寄出企業版報價單。"
+              "en": "Expose a timeout option so callers can override the default value.",
+              "zh": "開放逾時設定選項，讓呼叫端可覆寫預設值。"
             }
           ]
         },
         {
-          "id": "v1-57-realize",
-          "word": "realize",
-          "ipa": "[ˈrɪəˌlaɪz]",
-          "pos": "verb",
-          "meaning_zh": "實現；明白",
+          "id": "n1-57-pleasure",
+          "word": "pleasure",
+          "ipa": "[ˈplɛʒɚ]",
+          "pos": "noun",
+          "meaning_zh": "愉快；樂趣",
           "collocations": [
             {
-              "phrase": "realize business value",
-              "meaning_zh": "實現商業價值"
-            },
-            {
-              "phrase": "realize bottleneck",
-              "meaning_zh": "察覺瓶頸"
-            },
-            {
-              "phrase": "realize savings",
-              "meaning_zh": "實現成本節省"
+              "phrase": "a pleasure working with you",
+              "meaning_zh": "很高興與你共事"
             }
           ],
           "short_sentences": [
             {
-              "en": "Realize business ROI fast.",
-              "zh": "快速實現商業 ROI。"
+              "en": "It was a pleasure to meet the employees of our affiliate company.",
+              "zh": "很高興能見到子公司的員工。"
             },
             {
-              "en": "We realized the bottleneck.",
-              "zh": "我們察覺到瓶頸了。"
+              "en": "It was a pleasure collaborating with the platform team on this release.",
+              "zh": "這次能與平台團隊合作發布版本，非常愉快。"
             }
           ]
         },
         {
-          "id": "v1-58-achieve",
-          "word": "achieve",
-          "ipa": "[əˈtʃiv]",
-          "pos": "verb",
-          "meaning_zh": "達成；實現",
+          "id": "n1-58-gratitude",
+          "word": "gratitude",
+          "ipa": "[ˈgrætəˌtjud]",
+          "pos": "noun",
+          "meaning_zh": "感謝，感激之情",
           "collocations": [
             {
-              "phrase": "achieve target SLA",
-              "meaning_zh": "達成目標 SLA"
+              "phrase": "express gratitude",
+              "meaning_zh": "表達謝意"
             },
             {
-              "phrase": "achieve low latency",
-              "meaning_zh": "達成低延遲"
-            },
-            {
-              "phrase": "key achievement",
-              "meaning_zh": "關鍵成果"
+              "phrase": "out of gratitude",
+              "meaning_zh": "出於感激"
             }
           ],
           "short_sentences": [
             {
-              "en": "Achieve 99.99% uptime target.",
-              "zh": "達成 99.99% 可用性目標。"
+              "en": "Let me express my sincere gratitude for all your support.",
+              "zh": "請容我對各位的支持表達由衷的謝意。"
             },
             {
-              "en": "Achieve sub-50ms P99 latency.",
-              "zh": "達成 50ms 內 P99 延遲。"
+              "en": "We want to express our gratitude to everyone who helped during the incident.",
+              "zh": "我們想向事件期間協助的每一位同仁表達感謝。"
             }
           ]
         },
         {
-          "id": "v1-59-fulfill",
-          "word": "fulfill",
-          "ipa": "[fʊlˈfɪl]",
-          "pos": "verb",
-          "meaning_zh": "履行；實現",
+          "id": "n1-59-relief",
+          "word": "relief",
+          "ipa": "[rɪˈlif]",
+          "pos": "noun",
+          "meaning_zh": "放心；慰藉",
           "collocations": [
             {
-              "phrase": "fulfill an order",
-              "meaning_zh": "履行訂單出貨"
-            },
-            {
-              "phrase": "fulfill SLA",
-              "meaning_zh": "履行 SLA 承諾"
-            },
-            {
-              "phrase": "order fulfillment",
-              "meaning_zh": "訂單履約"
+              "phrase": "a sense of relief",
+              "meaning_zh": "鬆了一口氣的感覺"
             }
           ],
           "short_sentences": [
             {
-              "en": "Fulfill orders via queue.",
-              "zh": "透過佇列處理訂單履約。"
+              "en": "I felt such a sense of relief when I received an acceptance letter.",
+              "zh": "收到錄取通知信時，我感到如釋重負。"
             },
             {
-              "en": "Fulfill SLA commitments daily.",
-              "zh": "每日履行 SLA 承諾。"
+              "en": "It was a relief to see CPU utilization drop back to normal levels.",
+              "zh": "看到 CPU 使用率回落到正常水準，讓人鬆了一口氣。"
             }
           ]
         },
         {
-          "id": "v1-60-conduct",
-          "word": "conduct",
-          "ipa": "[kənˈdʌkt]",
-          "pos": "verb",
-          "meaning_zh": "進行；指揮",
+          "id": "n1-60-measure",
+          "word": "measure",
+          "ipa": "[ˈmɛʒɚ]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 措施；度量單位 / 動 測量",
           "collocations": [
             {
-              "phrase": "conduct a load test",
-              "meaning_zh": "執行負載測試"
+              "phrase": "security measures",
+              "meaning_zh": "安全措施"
             },
             {
-              "phrase": "conduct a postmortem",
-              "meaning_zh": "進行事後檢討"
+              "phrase": "metric measure",
+              "meaning_zh": "公制量具"
             },
             {
-              "phrase": "conduct due diligence",
-              "meaning_zh": "進行盡職調查"
+              "phrase": "preventive measure",
+              "meaning_zh": "預防措施"
             }
           ],
           "short_sentences": [
             {
-              "en": "Conduct a load test.",
-              "zh": "執行負載測試。"
+              "en": "Some television producers take extreme measures to increase the ratings of their shows.",
+              "zh": "有些電視製作人會採取極端作法提高節目收視率。"
             },
             {
-              "en": "Conduct blameless postmortem reviews.",
-              "zh": "進行無指責事後檢討。"
+              "en": "We added circuit breakers as a protective measure against downstream outages.",
+              "zh": "我們加入了斷路器，作為防範下游中斷的保護措施。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_07_14_15",
-      "title": "動詞 Level 1 第 7 組（頁碼 14-15）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_07_102_103",
+      "title": "名詞 Level 1 第 7 組（頁碼 102-103）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-61-recognize",
-          "word": "recognize",
-          "ipa": "[ˈrɛkəgˌnaɪz]",
-          "pos": "verb",
-          "meaning_zh": "認可；認出；表揚",
+          "id": "n1-61-method",
+          "word": "method",
+          "ipa": "[ˈmɛθəd]",
+          "pos": "noun",
+          "meaning_zh": "方法，辦法",
           "collocations": [
             {
-              "phrase": "recognize edge cases",
-              "meaning_zh": "辨識邊界情境"
+              "phrase": "a method for/of + V-ing",
+              "meaning_zh": "做某事的方法"
             },
             {
-              "phrase": "recognize patterns",
-              "meaning_zh": "辨識異常模式"
+              "phrase": "a method for + V-ing",
+              "meaning_zh": "做某事的方法"
             },
             {
-              "phrase": "recognize revenue",
-              "meaning_zh": "認列營收"
+              "phrase": "deployment method",
+              "meaning_zh": "部署方法"
             }
           ],
           "short_sentences": [
             {
-              "en": "Recognize edge cases early.",
-              "zh": "及早辨識邊界情境。"
+              "en": "The team developed a new method for shipping fresh fish.",
+              "zh": "那個團隊開發出運送新鮮漁獲的新方法。"
             },
             {
-              "en": "Recognize latency patterns quickly.",
-              "zh": "快速辨識延遲模式。"
+              "en": "Blue-green deployment is a reliable method for minimizing release downtime.",
+              "zh": "藍綠部署是降低發布停機時間的可靠方法。"
             }
           ]
         },
         {
-          "id": "v1-62-admire",
-          "word": "admire",
-          "ipa": "[ədˈmaɪr]",
-          "pos": "verb",
-          "meaning_zh": "欣賞，欽佩",
+          "id": "n1-62-procedure",
+          "word": "procedure",
+          "ipa": "[prəˈsidʒɚ]",
+          "pos": "noun",
+          "meaning_zh": "手續，程序",
           "collocations": [
             {
-              "phrase": "admire clean design",
-              "meaning_zh": "欣賞簡潔設計"
+              "phrase": "follow a procedure",
+              "meaning_zh": "按著程序"
             },
             {
-              "phrase": "admire ownership",
-              "meaning_zh": "欽佩主責擔當"
-            },
-            {
-              "phrase": "admire execution",
-              "meaning_zh": "讚賞執行力"
+              "phrase": "rollback procedure",
+              "meaning_zh": "回滾程序"
             }
           ],
           "short_sentences": [
             {
-              "en": "Clean modular design wins.",
-              "zh": "簡潔模組化設計勝出。"
+              "en": "It is standard procedure to fill out the form before entering the building.",
+              "zh": "進入大樓前先填寫表單為標準程序。"
             },
             {
-              "en": "Strong engineering ownership here.",
-              "zh": "這裡展現高度工程主責感。"
+              "en": "Always test the database rollback procedure in staging before production changes.",
+              "zh": "在進行正式環境變更前，務必先在預備環境測試資料庫回滾程序。"
             }
           ]
         },
         {
-          "id": "v1-63-fascinate",
-          "word": "fascinate",
-          "ipa": "[ˈfæsnˌet]",
-          "pos": "verb",
-          "meaning_zh": "令人著迷；吸引",
+          "id": "n1-63-prospect",
+          "word": "prospect",
+          "ipa": "[ˈprɑspɛkt]",
+          "pos": "noun",
+          "meaning_zh": "前景，前途",
           "collocations": [
             {
-              "phrase": "fascinate users",
-              "meaning_zh": "吸引使用者體驗"
+              "phrase": "market prospect",
+              "meaning_zh": "市場前景"
             },
             {
-              "phrase": "distributed systems fascination",
-              "meaning_zh": "對分散式系統著迷"
-            },
-            {
-              "phrase": "fascinating architecture",
-              "meaning_zh": "引人入勝的架構"
+              "phrase": "career prospect",
+              "meaning_zh": "職涯前景"
             }
           ],
           "short_sentences": [
             {
-              "en": "Distributed consensus fascinates engineers.",
-              "zh": "分散式共識讓工程師著迷。"
+              "en": "Gatner Zoo faces the prospect of more visitors as the weather becomes warmer.",
+              "zh": "隨著天氣漸暖，蓋特納動物園將迎來更多遊客。"
             },
             {
-              "en": "Low-latency tuning is fascinating.",
-              "zh": "低延遲調校很有意思。"
+              "en": "The product shows strong growth prospects in enterprise automation.",
+              "zh": "這項產品在企業自動化領域展現強勁的成長前景。"
             }
           ]
         },
         {
-          "id": "v1-64-boast",
-          "word": "boast",
-          "ipa": "[bost]",
-          "pos": "verb",
-          "meaning_zh": "誇耀；自豪擁有",
+          "id": "n1-64-fortune",
+          "word": "fortune",
+          "ipa": "[ˈfɔrtʃən]",
+          "pos": "noun",
+          "meaning_zh": "好運；財富",
           "collocations": [
             {
-              "phrase": "boast 99.99% uptime",
-              "meaning_zh": "具備 99.99% 可用性"
-            },
-            {
-              "phrase": "boast sub-millisecond read",
-              "meaning_zh": "擁有亞毫秒級讀取"
-            },
-            {
-              "phrase": "boast strong margins",
-              "meaning_zh": "擁有高毛利率"
+              "phrase": "commercial fortune",
+              "meaning_zh": "商業運勢／成敗"
             }
           ],
           "short_sentences": [
             {
-              "en": "Service boasts high throughput.",
-              "zh": "服務具備高吞吐量。"
+              "en": "After the chairman resigned, the company's fortune turned for the worse.",
+              "zh": "董事長辭職之後，公司的運勢每況愈下。"
             },
             {
-              "en": "System boasts sub-millisecond reads.",
-              "zh": "系統擁有亞毫秒級讀取。"
+              "en": "The company's fortunes improved once onboarding friction was reduced.",
+              "zh": "降低新戶引導門檻後，公司的營運狀況隨之好轉。"
             }
           ]
         },
         {
-          "id": "v1-65-postpone",
-          "word": "postpone",
-          "ipa": "[postˈpon]",
-          "pos": "verb",
-          "meaning_zh": "延期，延緩",
+          "id": "n1-65-organization",
+          "word": "organization",
+          "ipa": "[ˌɔrgənəˈzeʃən]",
+          "pos": "noun",
+          "meaning_zh": "機構，組織",
           "collocations": [
             {
-              "phrase": "postpone migration",
-              "meaning_zh": "延後遷移時程"
+              "phrase": "engineering organization",
+              "meaning_zh": "工程組織"
             },
             {
-              "phrase": "postpone release",
-              "meaning_zh": "延後版本發布"
-            },
-            {
-              "phrase": "postpone maintenance",
-              "meaning_zh": "延後維運窗口"
+              "phrase": "open-source organization",
+              "meaning_zh": "開源組織"
             }
           ],
           "short_sentences": [
             {
-              "en": "Postpone DB migration today.",
-              "zh": "今天延後資料庫遷移。"
+              "en": "Steve works for an organization that plans various events for charity.",
+              "zh": "史帝夫工作的機構專門策畫各式各樣的慈善活動。"
             },
             {
-              "en": "Postpone release until Monday.",
-              "zh": "將發布延後至週一。"
+              "en": "As our engineering organization grew, we split ownership by service team.",
+              "zh": "隨著工程組織擴大，我們依服務團隊拆分了權責歸屬。"
             }
           ]
         },
         {
-          "id": "v1-66-participate",
-          "word": "participate",
-          "ipa": "[pɑrˈtɪsəˌpet]",
-          "pos": "verb",
-          "meaning_zh": "參與，參加",
+          "id": "n1-66-anniversary",
+          "word": "anniversary",
+          "ipa": "[ˌænəˈvɝsərɪ]",
+          "pos": "noun",
+          "meaning_zh": "週年紀念日",
           "collocations": [
             {
-              "phrase": "participate in on-call",
-              "meaning_zh": "參與值班輪值"
+              "phrase": "launch anniversary",
+              "meaning_zh": "上線週年紀念"
             },
             {
-              "phrase": "participate in sprint review",
-              "meaning_zh": "參與迭代檢視"
-            },
-            {
-              "phrase": "active participation",
-              "meaning_zh": "積極參與"
+              "phrase": "company anniversary",
+              "meaning_zh": "公司週年紀念"
             }
           ],
           "short_sentences": [
             {
-              "en": "Participate in on-call rotation.",
-              "zh": "參與值班輪值。"
+              "en": "Tomorrow is the anniversary of the founding of the company.",
+              "zh": "明天是公司成立的週年紀念日。"
             },
             {
-              "en": "Join architecture review today.",
-              "zh": "今天參加架構審查。"
+              "en": "We ran a promotional campaign for our platform's fifth anniversary.",
+              "zh": "我們為平台五週年推出了促銷活動。"
             }
           ]
         },
         {
-          "id": "v1-67-locate",
-          "word": "locate",
-          "ipa": "[ˈloket]",
-          "pos": "verb",
-          "meaning_zh": "定位；坐落於…",
+          "id": "n1-67-profession",
+          "word": "profession",
+          "ipa": "[prəˈfɛʃən]",
+          "pos": "noun",
+          "meaning_zh": "職業；同業",
           "collocations": [
             {
-              "phrase": "locate the bottleneck",
-              "meaning_zh": "定位效能瓶頸"
-            },
-            {
-              "phrase": "locate the leak",
-              "meaning_zh": "定位洩漏源頭"
-            },
-            {
-              "phrase": "locate failing node",
-              "meaning_zh": "定位故障節點"
+              "phrase": "software profession",
+              "meaning_zh": "軟體工程專業／行業"
             }
           ],
           "short_sentences": [
             {
-              "en": "Locate the memory leak.",
-              "zh": "定位記憶體洩漏點。"
+              "en": "The conference attendees included members of the medical profession.",
+              "zh": "這場會議的與會者包含醫界專家在內。"
             },
             {
-              "en": "Locate slow SQL queries.",
-              "zh": "找出慢速 SQL 查詢。"
+              "en": "Continuous learning is essential in the fast-moving software profession.",
+              "zh": "在快速演進的軟體專業領域，持續學習至關重要。"
             }
           ]
         },
         {
-          "id": "v1-68-enclose",
-          "word": "enclose",
-          "ipa": "[ɪnˈkloz]",
-          "pos": "verb",
-          "meaning_zh": "隨信附上；包圍",
+          "id": "n1-68-status",
+          "word": "status",
+          "ipa": "[ˈstetəs]",
+          "pos": "noun",
+          "meaning_zh": "狀態；地位",
           "collocations": [
             {
-              "phrase": "enclose thread dump",
-              "meaning_zh": "附上執行緒傾印"
+              "phrase": "order status",
+              "meaning_zh": "訂單狀態"
             },
             {
-              "phrase": "enclose the invoice",
-              "meaning_zh": "附上發票"
+              "phrase": "social status",
+              "meaning_zh": "社會地位"
             },
             {
-              "phrase": "enclosed logs",
-              "meaning_zh": "隨附日誌"
+              "phrase": "job status",
+              "meaning_zh": "工作／任務狀態"
+            },
+            {
+              "phrase": "health status",
+              "meaning_zh": "健康狀態"
             }
           ],
           "short_sentences": [
             {
-              "en": "Attach thread dump here.",
-              "zh": "在此附上執行緒傾印。"
+              "en": "To find out your order status, please enter your 10-digit order number.",
+              "zh": "請輸入 10 碼訂單編號，以查詢您的訂單狀態。"
             },
             {
-              "en": "Invoice enclosed in email.",
-              "zh": "發票已附在信件中。"
+              "en": "Check the async job status endpoint to see if the export finished.",
+              "zh": "查詢非同步任務狀態端點，確認匯出是否已完成。"
             }
           ]
         },
         {
-          "id": "v1-69-include",
-          "word": "include",
-          "ipa": "[ɪnˈklud]",
-          "pos": "verb",
-          "meaning_zh": "包含",
+          "id": "n1-69-circumstance",
+          "word": "circumstance",
+          "ipa": "[ˈsɝkəmˌstæns]",
+          "pos": "noun",
+          "meaning_zh": "情況，形勢",
           "collocations": [
             {
-              "phrase": "include correlation ID",
-              "meaning_zh": "帶入關聯追蹤 ID"
+              "phrase": "under current circumstances",
+              "meaning_zh": "以目前的情況來說"
             },
             {
-              "phrase": "include edge cases",
-              "meaning_zh": "涵蓋邊界情境"
-            },
-            {
-              "phrase": "pricing includes support",
-              "meaning_zh": "方案包含技術支援"
+              "phrase": "under no circumstances",
+              "meaning_zh": "無論如何都不…"
             }
           ],
           "short_sentences": [
             {
-              "en": "Include trace ID everywhere.",
-              "zh": "各處都帶入追蹤 ID。"
+              "en": "The work on the building will start next week if circumstances permit.",
+              "zh": "倘若情況允許的話，建築工程將從下週開始動工。"
             },
             {
-              "en": "Include edge case tests.",
-              "zh": "包含邊界情境測試。"
+              "en": "Under no circumstances should production secrets be committed to Git.",
+              "zh": "在任何情況下都不應將正式環境密鑰提交至 Git。"
             }
           ]
         },
         {
-          "id": "v1-70-consent",
-          "word": "consent",
-          "ipa": "[kənˈsɛnt]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 同意；許可 / 名 同意；承諾",
+          "id": "n1-70-solution",
+          "word": "solution",
+          "ipa": "[səˈluʃən]",
+          "pos": "noun",
+          "meaning_zh": "解決辦法，對策",
           "collocations": [
             {
-              "phrase": "user consent",
-              "meaning_zh": "使用者同意授權"
+              "phrase": "scalable solution",
+              "meaning_zh": "可擴展的解決方案"
             },
             {
-              "phrase": "consent to data use",
-              "meaning_zh": "同意資料使用"
-            },
-            {
-              "phrase": "explicit consent",
-              "meaning_zh": "明確同意"
+              "phrase": "workaround solution",
+              "meaning_zh": "權宜解法"
             }
           ],
           "short_sentences": [
             {
-              "en": "Capture user consent first.",
-              "zh": "先取得使用者同意。"
+              "en": "The team developed several solutions to architectural problems in the bridge design.",
+              "zh": "該團隊針對橋樑設計的建築問題想出了幾個解決方案。"
             },
             {
-              "en": "Privacy consent is required.",
-              "zh": "需要隱私授權同意。"
+              "en": "Partitioning the queue gave us a clean solution to consumer lag.",
+              "zh": "將佇列分區為我們提供了一個解決消費者延遲的俐落解法。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_08_16_17",
-      "title": "動詞 Level 1 第 8 組（頁碼 16-17）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_08_104_105",
+      "title": "名詞 Level 1 第 8 組（頁碼 104-105）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-71-permit",
-          "word": "permit",
-          "ipa": "[pɚˈmɪt] / [ˈpɝmɪt]",
-          "pos": "verb / noun",
-          "meaning_zh": "動 允許，准許 / 名 許可證",
+          "id": "n1-71-influence",
+          "word": "influence",
+          "ipa": "[ˈɪnfluəns]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 影響；作用 / 動 影響",
           "collocations": [
             {
-              "phrase": "permit write access",
-              "meaning_zh": "允許寫入權限"
+              "phrase": "an influence on A",
+              "meaning_zh": "對 A 的影響"
             },
             {
-              "phrase": "CORS permits origin",
-              "meaning_zh": "CORS 允許來源網域"
-            },
-            {
-              "phrase": "access permission",
-              "meaning_zh": "存取權限"
+              "phrase": "have an influence on A",
+              "meaning_zh": "對 A 產生影響"
             }
           ],
           "short_sentences": [
             {
-              "en": "Permit read access only.",
-              "zh": "僅允許讀取權限。"
+              "en": "Who has had an influence on you?",
+              "zh": "誰是對你影響深遠的人？"
             },
             {
-              "en": "Allowlist permits internal IPs.",
-              "zh": "白名單允許內部 IP。"
+              "en": "Index design has a major influence on write throughput and query speed.",
+              "zh": "索引設計對寫入吞吐量與查詢速度有重大影響。"
             }
           ]
         },
         {
-          "id": "v1-72-wonder",
-          "word": "wonder",
-          "ipa": "[ˈwʌndɚ]",
-          "pos": "verb",
-          "meaning_zh": "想知道；納悶",
+          "id": "n1-72-tendency",
+          "word": "tendency",
+          "ipa": "[ˈtɛndənsɪ]",
+          "pos": "noun",
+          "meaning_zh": "傾向，趨勢",
           "collocations": [
             {
-              "phrase": "wonder why GC paused",
-              "meaning_zh": "納悶為何發生 GC 停頓"
-            },
-            {
-              "phrase": "wonder about impact",
-              "meaning_zh": "思考對業務的影響"
-            },
-            {
-              "phrase": "wonder if retrying",
-              "meaning_zh": "想確認是否適合重試"
+              "phrase": "a tendency to + V",
+              "meaning_zh": "有……的傾向"
             }
           ],
           "short_sentences": [
             {
-              "en": "Why did GC pause?",
-              "zh": "為何發生 GC 停頓？"
+              "en": "The engineers fixed a problem with a car model that had a tendency to overheat.",
+              "zh": "工程師解決了某種車型容易過熱的問題。"
             },
             {
-              "en": "Check consumer lag impact.",
-              "zh": "確認消費延遲的影響。"
+              "en": "Unbounded caches have a tendency to cause out-of-memory errors.",
+              "zh": "無上限的快取容易引發記憶體不足（OOM）錯誤。"
             }
           ]
         },
         {
-          "id": "v1-73-quit",
-          "word": "quit",
-          "ipa": "[kwɪt]",
-          "pos": "verb",
-          "meaning_zh": "辭職；停止",
+          "id": "n1-73-custom",
+          "word": "custom",
+          "ipa": "[ˈkʌstəm]",
+          "pos": "noun",
+          "meaning_zh": "習俗；海關",
           "collocations": [
             {
-              "phrase": "quit gracefully",
-              "meaning_zh": "優雅退出程序"
+              "phrase": "a local custom",
+              "meaning_zh": "地方習俗"
             },
             {
-              "phrase": "quit retrying",
-              "meaning_zh": "停止重試"
+              "phrase": "customs clearance",
+              "meaning_zh": "通關；報關"
             },
             {
-              "phrase": "quit early",
-              "meaning_zh": "提前結束"
+              "phrase": "custom logic",
+              "meaning_zh": "自訂邏輯（衍生詞／搭配）"
             }
           ],
           "short_sentences": [
             {
-              "en": "Shut down workers gracefully.",
-              "zh": "優雅關閉工作執行緒。"
+              "en": "It's a custom to eat turkey on Thanksgiving Day.",
+              "zh": "感恩節吃火雞是一種習俗。"
             },
             {
-              "en": "Stop retrying after three.",
-              "zh": "重試三次後停止。"
+              "en": "Cross-border e-commerce orders require accurate customs clearance data.",
+              "zh": "跨境電商訂單需要準確的報關資料。"
             }
           ]
         },
         {
-          "id": "v1-74-avoid",
-          "word": "avoid",
-          "ipa": "[əˈvɔɪd]",
-          "pos": "verb",
-          "meaning_zh": "避免；逃避",
+          "id": "n1-74-reward",
+          "word": "reward",
+          "ipa": "[rɪˈwɔrd]",
+          "pos": "noun",
+          "meaning_zh": "獎勵，報酬",
           "collocations": [
             {
-              "phrase": "avoid N+1 queries",
-              "meaning_zh": "避免 N+1 查詢"
+              "phrase": "rewards program",
+              "meaning_zh": "獎勵方案"
             },
             {
-              "phrase": "avoid lock escalation",
-              "meaning_zh": "避免鎖升級"
-            },
-            {
-              "phrase": "avoid scope creep",
-              "meaning_zh": "避免範疇蔓延"
+              "phrase": "referral reward",
+              "meaning_zh": "推薦獎勵"
             }
           ],
           "short_sentences": [
             {
-              "en": "Avoid N+1 SQL queries.",
-              "zh": "避免 N+1 SQL 查詢。"
+              "en": "When you join our rewards program, you instantly get benefits, like free WiFi.",
+              "zh": "只要您一加入我們的獎勵方案，即可立即享有免費無線網路等福利。"
             },
             {
-              "en": "Avoid unbounded retries here.",
-              "zh": "這裡避免無上限重試。"
+              "en": "Users earn reward points when they complete verified purchases.",
+              "zh": "使用者完成已驗證的購買後可獲得獎勵點數。"
             }
           ]
         },
         {
-          "id": "v1-75-miss",
-          "word": "miss",
-          "ipa": "[mɪs]",
-          "pos": "verb",
-          "meaning_zh": "錯過；想念",
+          "id": "n1-75-attempt",
+          "word": "attempt",
+          "ipa": "[əˈtɛmpt]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 試圖，嘗試 / 動 試圖做…",
           "collocations": [
             {
-              "phrase": "miss SLA target",
-              "meaning_zh": "未達 SLA 目標"
+              "phrase": "make an attempt to + V",
+              "meaning_zh": "嘗試做某事"
             },
             {
-              "phrase": "miss a heartbeat",
-              "meaning_zh": "漏收心跳訊號"
-            },
-            {
-              "phrase": "miss the deadline",
-              "meaning_zh": "錯過截止期限"
+              "phrase": "retry attempt",
+              "meaning_zh": "重試嘗試"
             }
           ],
           "short_sentences": [
             {
-              "en": "Avoid missing SLA targets.",
-              "zh": "避免未達 SLA 目標。"
+              "en": "Roger made an attempt to finish the project early.",
+              "zh": "羅傑試著提前完成企劃。"
             },
             {
-              "en": "Worker missed heartbeat check.",
-              "zh": "工作節點漏了心跳檢查。"
+              "en": "Each webhook delivery allows up to five retry attempts with backoff.",
+              "zh": "每次 Webhook 投遞最多允許五次搭配退避策略的重試嘗試。"
             }
           ]
         },
         {
-          "id": "v1-76-affect",
-          "word": "affect",
-          "ipa": "[əˈfɛkt]",
-          "pos": "verb",
-          "meaning_zh": "影響；打動",
+          "id": "n1-76-majority",
+          "word": "majority",
+          "ipa": "[məˈdʒɔrətɪ]",
+          "pos": "noun",
+          "meaning_zh": "多數，多數派",
           "collocations": [
             {
-              "phrase": "affect P95 latency",
-              "meaning_zh": "影響 P95 延遲"
+              "phrase": "a majority decision",
+              "meaning_zh": "多數決"
             },
             {
-              "phrase": "affect active tenants",
-              "meaning_zh": "影響活躍租戶"
+              "phrase": "a great majority",
+              "meaning_zh": "絕大多數"
             },
             {
-              "phrase": "affect billing",
-              "meaning_zh": "影響計費邏輯"
+              "phrase": "the vast majority of A",
+              "meaning_zh": "絕大多數的 A"
             }
           ],
           "short_sentences": [
             {
-              "en": "This affects P99 latency.",
-              "zh": "這會影響 P99 延遲。"
+              "en": "The majority of the board of directors voted to accept the supplier contract.",
+              "zh": "董事會多數成員投票同意接受供應商的合約。"
             },
             {
-              "en": "Does it affect billing?",
-              "zh": "這會影響計費嗎？"
+              "en": "The majority of our API traffic comes from mobile clients.",
+              "zh": "我們大部分的 API 流量來自行動端客戶端。"
             }
           ]
         },
         {
-          "id": "v1-77-prevent",
-          "word": "prevent",
-          "ipa": "[prɪˈvɛnt]",
-          "pos": "verb",
-          "meaning_zh": "妨礙；預防",
+          "id": "n1-77-resident",
+          "word": "resident",
+          "ipa": "[ˈrɛzədənt]",
+          "pos": "noun",
+          "meaning_zh": "居民，定居者",
           "collocations": [
             {
-              "phrase": "prevent deadlocks",
-              "meaning_zh": "防止死鎖"
-            },
-            {
-              "phrase": "prevent cache stampede",
-              "meaning_zh": "防止快取擊穿"
-            },
-            {
-              "phrase": "prevent churn",
-              "meaning_zh": "降低客戶流失"
+              "phrase": "active resident",
+              "meaning_zh": "活躍住戶／居民"
             }
           ],
           "short_sentences": [
             {
-              "en": "Prevent deadlocks with ordering.",
-              "zh": "用順序加鎖防止死鎖。"
+              "en": "The residents of the small village tend to live long lives.",
+              "zh": "這個小村莊的居民通常都很長壽。"
             },
             {
-              "en": "Prevent cache stampede now.",
-              "zh": "現在防止快取擊穿。"
+              "en": "The smart building app helps residents submit maintenance requests online.",
+              "zh": "智慧建築 App 協助住戶線上提交維修申請。"
             }
           ]
         },
         {
-          "id": "v1-78-prohibit",
-          "word": "prohibit",
-          "ipa": "[prəˈhɪbɪt]",
-          "pos": "verb",
-          "meaning_zh": "禁止，阻止",
+          "id": "n1-78-honor",
+          "word": "honor",
+          "ipa": "[ˈɑnɚ]",
+          "pos": "noun",
+          "meaning_zh": "榮譽，名譽；信譽",
           "collocations": [
             {
-              "phrase": "prohibit force push",
-              "meaning_zh": "禁止強制推送"
+              "phrase": "in honor of...",
+              "meaning_zh": "紀念…；向…致敬"
             },
             {
-              "phrase": "prohibit raw SQL",
-              "meaning_zh": "禁止原始 SQL 拼接"
-            },
-            {
-              "phrase": "prohibited operation",
-              "meaning_zh": "禁止執行的操作"
+              "phrase": "in honor of A",
+              "meaning_zh": "為紀念／致敬 A"
             }
           ],
           "short_sentences": [
             {
-              "en": "Block force push on main.",
-              "zh": "禁止對 main 強制推送。"
+              "en": "Patti Weld considered it a great honor to be chosen Author of the Year.",
+              "zh": "派蒂．維德認為獲選為年度作家是極大的榮譽。"
             },
             {
-              "en": "Raw SQL is prohibited.",
-              "zh": "禁止使用原始 SQL。"
+              "en": "We named the internal testing cluster in honor of a founding engineer.",
+              "zh": "我們以一位創始工程師的名字命名了內部測試叢集。"
             }
           ]
         },
         {
-          "id": "v1-79-restrict",
-          "word": "restrict",
-          "ipa": "[rɪˈstrɪkt]",
-          "pos": "verb",
-          "meaning_zh": "限制；約束",
+          "id": "n1-79-packet",
+          "word": "packet",
+          "ipa": "[ˈpækɪt]",
+          "pos": "noun",
+          "meaning_zh": "盒；包；捆",
           "collocations": [
             {
-              "phrase": "restrict IP allowlist",
-              "meaning_zh": "限制 IP 白名單"
+              "phrase": "a packet of cigarettes",
+              "meaning_zh": "一盒香菸"
             },
             {
-              "phrase": "restrict concurrent jobs",
-              "meaning_zh": "限制並行工作數"
+              "phrase": "data packet",
+              "meaning_zh": "資料封包"
             },
             {
-              "phrase": "restrict scope",
-              "meaning_zh": "限制功能範疇"
+              "phrase": "information packet",
+              "meaning_zh": "資訊包"
             }
           ],
           "short_sentences": [
             {
-              "en": "Restrict access by role.",
-              "zh": "依角色限制存取。"
+              "en": "Please refer to the information packet attached for further details.",
+              "zh": "請參考附件的資料封包了解詳情。"
             },
             {
-              "en": "Cap concurrent workers now.",
-              "zh": "現在限制並行工作數。"
+              "en": "Packet loss between availability zones caused intermittent timeouts.",
+              "zh": "可用區之間的封包遺失導致間歇性逾時。"
             }
           ]
         },
         {
-          "id": "v1-80-hesitate",
-          "word": "hesitate",
-          "ipa": "[ˈhɛzəˌtet]",
-          "pos": "verb",
-          "meaning_zh": "猶豫，躊躇",
+          "id": "n1-80-development",
+          "word": "development",
+          "ipa": "[dɪˈvɛləpmənt]",
+          "pos": "noun",
+          "meaning_zh": "最新情況；成長；發展",
           "collocations": [
             {
-              "phrase": "hesitate to roll back",
-              "meaning_zh": "猶豫是否回滾"
+              "phrase": "product development",
+              "meaning_zh": "產品開發"
             },
             {
-              "phrase": "hesitate to escalate",
-              "meaning_zh": "猶豫是否升級通報"
-            },
-            {
-              "phrase": "don't hesitate",
-              "meaning_zh": "請勿猶豫"
+              "phrase": "latest development",
+              "meaning_zh": "最新進展"
             }
           ],
           "short_sentences": [
             {
-              "en": "Roll back without hesitation.",
-              "zh": "毫不猶豫地執行回滾。"
+              "en": "The newscaster waited for a development in the breaking news story.",
+              "zh": "新聞播報員等待著突發新聞的最新進展。"
             },
             {
-              "en": "Escalate P1 immediately.",
-              "zh": "立刻升級通報 P1。"
+              "en": "Share any new developments on the vendor integration in the daily standup.",
+              "zh": "在每日站會中分享供應商整合的最新進展。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_09_18_19",
-      "title": "動詞 Level 1 第 9 組（頁碼 18-19）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_09_106_107",
+      "title": "名詞 Level 1 第 9 組（頁碼 106-107）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-81-disturb",
-          "word": "disturb",
-          "ipa": "[dɪsˈtɝb]",
-          "pos": "verb",
-          "meaning_zh": "打斷，干擾",
+          "id": "n1-81-controversy",
+          "word": "controversy",
+          "ipa": "[ˈkɑntrəˌvɝsɪ]",
+          "pos": "noun",
+          "meaning_zh": "爭論；爭議",
           "collocations": [
             {
-              "phrase": "disturb live traffic",
-              "meaning_zh": "干擾線上正式流量"
-            },
-            {
-              "phrase": "disturb batch jobs",
-              "meaning_zh": "干擾批次作業"
-            },
-            {
-              "phrase": "service disturbance",
-              "meaning_zh": "服務干擾"
+              "phrase": "spark controversy",
+              "meaning_zh": "引發爭議"
             }
           ],
           "short_sentences": [
             {
-              "en": "Do not disturb prod.",
-              "zh": "請勿干擾正式環境。"
+              "en": "There is controversy over the plans to outsource some business functions.",
+              "zh": "將部分企業功能外包出去的計畫引發爭議。"
             },
             {
-              "en": "Batch job disturbed latency.",
-              "zh": "批次工作干擾了延遲。"
+              "en": "The proposed pricing tier change sparked debate among enterprise customers.",
+              "zh": "擬議的定價方案調整在企業客戶間引發了討論。"
             }
           ]
         },
         {
-          "id": "v1-82-neglect",
-          "word": "neglect",
-          "ipa": "[nɪgˈlɛkt]",
-          "pos": "verb",
-          "meaning_zh": "忘記；忽視",
+          "id": "n1-82-caution",
+          "word": "caution",
+          "ipa": "[ˈkɔʃən]",
+          "pos": "noun",
+          "meaning_zh": "警告；小心",
           "collocations": [
             {
-              "phrase": "neglect index tuning",
-              "meaning_zh": "忽略索引調校"
-            },
-            {
-              "phrase": "neglect timeout settings",
-              "meaning_zh": "忽略逾時設定"
-            },
-            {
-              "phrase": "neglect edge cases",
-              "meaning_zh": "忽略邊界情境"
+              "phrase": "proceed with caution",
+              "meaning_zh": "謹慎行事"
             }
           ],
           "short_sentences": [
             {
-              "en": "Never neglect index tuning.",
-              "zh": "絕不忽略索引調校。"
+              "en": "He received a caution from his doctor about too much fat in his diet.",
+              "zh": "醫生警告他的飲食攝取過多脂肪。"
             },
             {
-              "en": "Do not neglect timeouts.",
-              "zh": "別忽略逾時設定。"
+              "en": "Proceed with caution when running schema migrations on large tables.",
+              "zh": "在大型資料表上執行結構描述遷移時請謹慎行事。"
             }
           ]
         },
         {
-          "id": "v1-83-decline",
-          "word": "decline",
-          "ipa": "[dɪˈklaɪn]",
-          "pos": "verb",
-          "meaning_zh": "拒絕；減少",
+          "id": "n1-83-concern",
+          "word": "concern",
+          "ipa": "[kənˈsɝn]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 關心的事，關切 / 動 擔心",
           "collocations": [
             {
-              "phrase": "decline the transaction",
-              "meaning_zh": "拒絕該筆交易"
+              "phrase": "a major concern",
+              "meaning_zh": "主要疑慮／關切點"
             },
             {
-              "phrase": "decline out-of-scope work",
-              "meaning_zh": "婉拒範圍外需求"
-            },
-            {
-              "phrase": "error rate declined",
-              "meaning_zh": "錯誤率下降了"
+              "phrase": "security concern",
+              "meaning_zh": "資安疑慮"
             }
           ],
           "short_sentences": [
             {
-              "en": "Payment declined by gateway.",
-              "zh": "付款遭閘道拒絕。"
+              "en": "The rising unemployment rate has become a concern to the state government.",
+              "zh": "節節攀升的失業率已成為州政府關切的問題。"
             },
             {
-              "en": "Decline out-of-scope requests.",
-              "zh": "婉拒範圍外的需求。"
+              "en": "Cold-start latency is a primary concern for real-time inference APIs.",
+              "zh": "冷啟動延遲是即時推論 API 的主要疑慮。"
             }
           ]
         },
         {
-          "id": "v1-84-withdraw",
-          "word": "withdraw",
-          "ipa": "[wɪðˈdrɔ]",
-          "pos": "verb",
-          "meaning_zh": "收回；提款",
+          "id": "n1-84-attitude",
+          "word": "attitude",
+          "ipa": "[ˈætəˌtjud]",
+          "pos": "noun",
+          "meaning_zh": "態度；意見",
           "collocations": [
             {
-              "phrase": "withdraw funds",
-              "meaning_zh": "提領資金"
-            },
-            {
-              "phrase": "withdraw a PR",
-              "meaning_zh": "撤回 Pull Request"
-            },
-            {
-              "phrase": "withdraw the offer",
-              "meaning_zh": "撤回報價"
+              "phrase": "proactive attitude",
+              "meaning_zh": "積極主動的態度"
             }
           ],
           "short_sentences": [
             {
-              "en": "Withdraw funds via API.",
-              "zh": "透過 API 提領資金。"
+              "en": "Eve is a friendly person and has a good attitude toward work.",
+              "zh": "伊芙是個很友善的人，也具備良好的工作態度。"
             },
             {
-              "en": "Withdraw draft PR now.",
-              "zh": "現在撤回草稿 PR。"
+              "en": "A blameless attitude during post-mortems encourages honest root-cause analysis.",
+              "zh": "事後檢討時抱持不究責的態度，能鼓勵坦誠的根因分析。"
             }
           ]
         },
         {
-          "id": "v1-85-recover",
-          "word": "recover",
-          "ipa": "[rɪˈkʌvɚ]",
-          "pos": "verb",
-          "meaning_zh": "復原；復甦",
+          "id": "n1-85-rumor",
+          "word": "rumor",
+          "ipa": "[ˈrumɚ]",
+          "pos": "noun",
+          "meaning_zh": "謠言；傳聞",
           "collocations": [
             {
-              "phrase": "recover from outage",
-              "meaning_zh": "從當機中恢復"
+              "phrase": "Rumor has it that...",
+              "meaning_zh": "謠傳……"
             },
             {
-              "phrase": "recover lost messages",
-              "meaning_zh": "恢復遺失訊息"
-            },
-            {
-              "phrase": "auto-recovery",
-              "meaning_zh": "自動恢復"
+              "phrase": "unconfirmed rumor",
+              "meaning_zh": "未經證實的傳聞"
             }
           ],
           "short_sentences": [
             {
-              "en": "System recovered in seconds.",
-              "zh": "系統在數秒內恢復。"
+              "en": "The rumor about Ms. Davidson's retirement quickly spread around the office.",
+              "zh": "戴維森小姐要退休的謠言一下子就傳遍了整個辦公室。"
             },
             {
-              "en": "Recover dropped messages safely.",
-              "zh": "安全恢復遺失的訊息。"
+              "en": "Leadership clarified the reorganization plans to stop office rumors.",
+              "zh": "管理層說明了組織調整計畫，以平息辦公室傳聞。"
             }
           ]
         },
         {
-          "id": "v1-86-inspect",
-          "word": "inspect",
-          "ipa": "[ɪnˈspɛkt]",
-          "pos": "verb",
-          "meaning_zh": "仔細審查；視察",
+          "id": "n1-86-outcome",
+          "word": "outcome",
+          "ipa": "[ˈaʊtˌkʌm]",
+          "pos": "noun",
+          "meaning_zh": "結果，結局",
           "collocations": [
             {
-              "phrase": "inspect heap dump",
-              "meaning_zh": "檢視堆積傾印"
+              "phrase": "expected outcome",
+              "meaning_zh": "預期結果"
             },
             {
-              "phrase": "inspect execution plan",
-              "meaning_zh": "檢視執行計畫"
-            },
-            {
-              "phrase": "inspect request headers",
-              "meaning_zh": "檢視請求標頭"
+              "phrase": "test outcome",
+              "meaning_zh": "測試結果"
             }
           ],
           "short_sentences": [
             {
-              "en": "Inspect the heap dump.",
-              "zh": "檢視堆積傾印。"
+              "en": "Higher market share was the outcome of the two companies' merger.",
+              "zh": "兩家公司合併的結果迎來更高的市占率。"
             },
             {
-              "en": "Inspect SQL execution plan.",
-              "zh": "檢視 SQL 執行計畫。"
+              "en": "The desired outcome of the refactor is cleaner boundaries and faster builds.",
+              "zh": "這次重構的期望結果是更清晰的邊界與更快的建置速度。"
             }
           ]
         },
         {
-          "id": "v1-87-protect",
-          "word": "protect",
-          "ipa": "[prəˈtɛkt]",
-          "pos": "verb",
-          "meaning_zh": "保護，防護",
+          "id": "n1-87-objective",
+          "word": "objective",
+          "ipa": "[əbˈdʒɛktɪv]",
+          "pos": "noun / adjective",
+          "meaning_zh": "名 目標，目的 / 形 客觀的",
           "collocations": [
             {
-              "phrase": "protect downstream APIs",
-              "meaning_zh": "保護下游 API"
+              "phrase": "key objective",
+              "meaning_zh": "關鍵目標"
             },
             {
-              "phrase": "protect PII data",
-              "meaning_zh": "保護個人敏感資料"
-            },
-            {
-              "phrase": "circuit breaker protects",
-              "meaning_zh": "熔斷器提供保護"
+              "phrase": "business objective",
+              "meaning_zh": "商業目標"
             }
           ],
           "short_sentences": [
             {
-              "en": "Protect downstream services first.",
-              "zh": "優先保護下游服務。"
+              "en": "Our main objective is to deliver packages as quickly as possible.",
+              "zh": "我們的主要目標是盡快送達包裹。"
             },
             {
-              "en": "Encrypt PII at rest.",
-              "zh": "靜態加密個人敏感資料。"
+              "en": "Our main objective is to maintain 99.95% availability across all regions.",
+              "zh": "我們的主要目標是在所有區域維持 99.95% 的可用性。"
             }
           ]
         },
         {
-          "id": "v1-88-obey",
-          "word": "obey",
-          "ipa": "[əˈbe]",
-          "pos": "verb",
-          "meaning_zh": "遵守；服從",
+          "id": "n1-88-purpose",
+          "word": "purpose",
+          "ipa": "[ˈpɝpəs]",
+          "pos": "noun",
+          "meaning_zh": "目的；用途",
           "collocations": [
             {
-              "phrase": "obey rate limits",
-              "meaning_zh": "遵守速率限制"
+              "phrase": "for the purpose of...",
+              "meaning_zh": "為了…的目的"
             },
             {
-              "phrase": "obey lock order",
-              "meaning_zh": "遵守加鎖順序"
-            },
-            {
-              "phrase": "obey compliance rules",
-              "meaning_zh": "遵守合規規範"
+              "phrase": "for the purpose of + V-ing",
+              "meaning_zh": "為了……的目的"
             }
           ],
           "short_sentences": [
             {
-              "en": "Obey API rate limits.",
-              "zh": "遵守 API 速率限制。"
+              "en": "The purpose of the event is to raise money for children's charities.",
+              "zh": "這場活動的目的在於幫兒童慈善機構募款。"
             },
             {
-              "en": "Follow strict lock order.",
-              "zh": "遵守嚴格加鎖順序。"
+              "en": "We collect anonymized telemetry for the purpose of performance tuning.",
+              "zh": "我們收集匿名遙測資料是為了進行效能調校。"
             }
           ]
         },
         {
-          "id": "v1-89-mention",
-          "word": "mention",
-          "ipa": "[ˈmɛnʃən]",
-          "pos": "verb",
-          "meaning_zh": "說到，提及",
+          "id": "n1-89-finding",
+          "word": "finding",
+          "ipa": "[ˈfaɪndɪŋ]",
+          "pos": "noun",
+          "meaning_zh": "調查結果；發現",
           "collocations": [
             {
-              "phrase": "mention in postmortem",
-              "meaning_zh": "在事後檢討中提及"
+              "phrase": "key finding",
+              "meaning_zh": "關鍵發現"
             },
             {
-              "phrase": "mention breaking API",
-              "meaning_zh": "提及破壞性 API 變更"
-            },
-            {
-              "phrase": "worth mentioning",
-              "meaning_zh": "值得提及"
+              "phrase": "audit finding",
+              "meaning_zh": "稽核發現"
             }
           ],
           "short_sentences": [
             {
-              "en": "Mention this in RCA.",
-              "zh": "在 RCA 中提及這點。"
+              "en": "Findings on the latest consumer survey are posted on our website.",
+              "zh": "最新的消費者調查結果已公布在我們的網站上。"
             },
             {
-              "en": "Note breaking API changes.",
-              "zh": "註明破壞性 API 變更。"
+              "en": "The profiling findings pointed to lock contention on a hot database row.",
+              "zh": "效能分析的發現指向某個熱點資料庫列的鎖定競爭。"
             }
           ]
         },
         {
-          "id": "v1-90-predict",
-          "word": "predict",
-          "ipa": "[prɪˈdɪkt]",
-          "pos": "verb",
-          "meaning_zh": "預測，預料",
+          "id": "n1-90-waste",
+          "word": "waste",
+          "ipa": "[west]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 浪費，濫用 / 動 浪費",
           "collocations": [
             {
-              "phrase": "predict traffic surge",
-              "meaning_zh": "預測流量暴增"
+              "phrase": "a waste of time",
+              "meaning_zh": "浪費時間"
             },
             {
-              "phrase": "predict churn",
-              "meaning_zh": "預測客戶流失"
+              "phrase": "a waste of money",
+              "meaning_zh": "浪費錢"
             },
             {
-              "phrase": "predictive scaling",
-              "meaning_zh": "預測式擴縮容"
+              "phrase": "resource waste",
+              "meaning_zh": "資源浪費"
             }
           ],
           "short_sentences": [
             {
-              "en": "Predict peak traffic early.",
-              "zh": "及早預測尖峰流量。"
+              "en": "That new movie was just a waste of time.",
+              "zh": "看那部新電影簡直是浪費時間。"
             },
             {
-              "en": "Forecast churn risk monthly.",
-              "zh": "每月預測流失風險。"
+              "en": "Over-provisioning idle instances leads to unnecessary cloud resource waste.",
+              "zh": "過度配置閒置實例會造成不必要的雲端資源浪費。"
             }
           ]
         }
       ]
     },
     {
-      "pack_id": "verb_level1_sec_10_20_21",
-      "title": "動詞 Level 1 第 10 組（頁碼 20-21）",
-      "description": "動詞 (Verbs) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心動詞",
+      "pack_id": "noun_level1_sec_10_108_109",
+      "title": "名詞 Level 1 第 10 組（頁碼 108-109）",
+      "description": "名詞 (Nouns) - LEVEL 1｜商用與軟體工程師語境｜共 10 個核心單字",
       "level": "Level 1",
       "words": [
         {
-          "id": "v1-91-emphasize",
-          "word": "emphasize",
-          "ipa": "[ˈɛmfəˌsaɪz]",
-          "pos": "verb",
-          "meaning_zh": "強調；重視",
+          "id": "n1-91-complex",
+          "word": "complex",
+          "ipa": "[ˈkɑmplɛks]",
+          "pos": "noun / adjective",
+          "meaning_zh": "名 綜合大樓；情結 / 形 複雜的",
           "collocations": [
             {
-              "phrase": "emphasize observability",
-              "meaning_zh": "強調可觀測性"
+              "phrase": "office complex",
+              "meaning_zh": "辦公大樓群／綜合園區"
             },
             {
-              "phrase": "emphasize backward safety",
-              "meaning_zh": "強調向下相容安全性"
-            },
-            {
-              "phrase": "emphasize ROI",
-              "meaning_zh": "強調投資報酬率"
+              "phrase": "complex system",
+              "meaning_zh": "複雜系統"
             }
           ],
           "short_sentences": [
             {
-              "en": "Emphasize observability and metrics.",
-              "zh": "強調可觀測性與指標。"
+              "en": "The firm plans to develop another office complex downtown.",
+              "zh": "這間公司計劃在市中心蓋另一座綜合辦公大樓。"
             },
             {
-              "en": "Emphasize backward compatibility first.",
-              "zh": "先強調向下相容性。"
+              "en": "The payment settlement flow is one of the most complex parts of the system.",
+              "zh": "金流清算流程是系統中最複雜的部分之一。"
             }
           ]
         },
         {
-          "id": "v1-92-accuse",
-          "word": "accuse",
-          "ipa": "[əˈkjuz]",
-          "pos": "verb",
-          "meaning_zh": "譴責；指控",
+          "id": "n1-92-basis",
+          "word": "basis",
+          "ipa": "[ˈbesɪs]",
+          "pos": "noun",
+          "meaning_zh": "基礎；根據",
           "collocations": [
             {
-              "phrase": "blame the network",
-              "meaning_zh": "歸咎於網路問題"
+              "phrase": "on A basis",
+              "meaning_zh": "以 A 為原則"
             },
             {
-              "phrase": "accuse of regression",
-              "meaning_zh": "指稱造成功能退化"
+              "phrase": "on the basis of A",
+              "meaning_zh": "根據 A"
             },
             {
-              "phrase": "blameless culture",
-              "meaning_zh": "無指責檢討文化"
+              "phrase": "on a regular basis",
+              "meaning_zh": "定期地"
             }
           ],
           "short_sentences": [
             {
-              "en": "Blameless review focuses systems.",
-              "zh": "無指責檢討聚焦系統。"
+              "en": "I work for the company on a contract basis.",
+              "zh": "我依約聘制為這家公司工作。"
             },
             {
-              "en": "Verify before blaming network.",
-              "zh": "歸咎網路前先驗證。"
+              "en": "We rotate API keys and review access logs on a monthly basis.",
+              "zh": "我們每月定期輪替 API 金鑰並審查存取紀錄。"
             }
           ]
         },
         {
-          "id": "v1-93-comprehend",
-          "word": "comprehend",
-          "ipa": "[ˌkɑmprɪˈhɛnd]",
-          "pos": "verb",
-          "meaning_zh": "理解，明白",
+          "id": "n1-93-patron",
+          "word": "patron",
+          "ipa": "[ˈpetrən]",
+          "pos": "noun",
+          "meaning_zh": "贊助者；老主顧",
           "collocations": [
             {
-              "phrase": "comprehend data flow",
-              "meaning_zh": "理解資料流向"
+              "phrase": "a patron of the restaurant",
+              "meaning_zh": "餐廳常客"
             },
             {
-              "phrase": "comprehend business logic",
-              "meaning_zh": "理解商業邏輯"
-            },
-            {
-              "phrase": "system comprehension",
-              "meaning_zh": "系統理解度"
+              "phrase": "loyal patron",
+              "meaning_zh": "忠實主顧／贊助者"
             }
           ],
           "short_sentences": [
             {
-              "en": "Map the data flow.",
-              "zh": "梳理清楚資料流向。"
+              "en": "The firm is known for being a patron of the arts.",
+              "zh": "這間公司以贊助藝術產業聞名。"
             },
             {
-              "en": "Understand core domain rules.",
-              "zh": "掌握核心領域規則。"
+              "en": "Repeat patrons account for most of the neighborhood cafe's weekday orders.",
+              "zh": "回頭客占了這家社區咖啡廳平日訂單的大多數。"
             }
           ]
         },
         {
-          "id": "v1-94-settle",
-          "word": "settle",
-          "ipa": "[ˈsɛtəl]",
-          "pos": "verb",
-          "meaning_zh": "解決；安排",
+          "id": "n1-94-coverage",
+          "word": "coverage",
+          "ipa": "[ˈkʌvərɪdʒ]",
+          "pos": "noun",
+          "meaning_zh": "保險項目；新聞報導；覆蓋範圍",
           "collocations": [
             {
-              "phrase": "settle payment",
-              "meaning_zh": "結算付款"
+              "phrase": "test coverage",
+              "meaning_zh": "測試涵蓋率"
             },
             {
-              "phrase": "settle on a design",
-              "meaning_zh": "拍板定案設計方案"
-            },
-            {
-              "phrase": "settle disputes",
-              "meaning_zh": "解決爭議"
+              "phrase": "full coverage",
+              "meaning_zh": "完整覆蓋／承保"
             }
           ],
           "short_sentences": [
             {
-              "en": "Settle invoice on net-30.",
-              "zh": "依帳期 30 天結算發票。"
+              "en": "The insurance policy offers full coverage on fire and theft.",
+              "zh": "保單完全承保火災及竊盜險。"
             },
             {
-              "en": "Settle on one architecture.",
-              "zh": "拍板定案單一架構。"
+              "en": "Increasing test coverage on critical billing logic reduced regression bugs.",
+              "zh": "提高關鍵帳務邏輯的測試涵蓋率，減少了回歸錯誤。"
             }
           ]
         },
         {
-          "id": "v1-95-exceed",
-          "word": "exceed",
-          "ipa": "[ɪkˈsid]",
-          "pos": "verb",
-          "meaning_zh": "超過，超出",
+          "id": "n1-95-frequency",
+          "word": "frequency",
+          "ipa": "[ˈfrikwənsɪ]",
+          "pos": "noun",
+          "meaning_zh": "頻率；次數",
           "collocations": [
             {
-              "phrase": "exceed rate quota",
-              "meaning_zh": "超過速率配額"
+              "phrase": "polling frequency",
+              "meaning_zh": "輪詢頻率"
             },
             {
-              "phrase": "exceed max connections",
-              "meaning_zh": "超過最大連線數"
-            },
-            {
-              "phrase": "exceed budget",
-              "meaning_zh": "超出預算"
+              "phrase": "high frequency",
+              "meaning_zh": "高頻率"
             }
           ],
           "short_sentences": [
             {
-              "en": "Requests exceeded rate limit.",
-              "zh": "請求超出了速率限制。"
+              "en": "What is the frequency of your overseas business trips?",
+              "zh": "你多常去國外差差？"
             },
             {
-              "en": "Pool exceeded max connections.",
-              "zh": "連線池超出最大連線數。"
+              "en": "Lowering the health-check frequency reduced background load on the nodes.",
+              "zh": "降低健康檢查頻率，減輕了節點上的背景負載。"
             }
           ]
         },
         {
-          "id": "v1-96-extend",
-          "word": "extend",
-          "ipa": "[ɪkˈstɛnd]",
-          "pos": "verb",
-          "meaning_zh": "延長；擴大",
+          "id": "n1-96-surface",
+          "word": "surface",
+          "ipa": "[ˈsɝfɪs]",
+          "pos": "noun",
+          "meaning_zh": "表面；水面",
           "collocations": [
             {
-              "phrase": "extend lease TTL",
-              "meaning_zh": "延長租約存活時間"
-            },
-            {
-              "phrase": "extend trial period",
-              "meaning_zh": "延長試用期"
-            },
-            {
-              "phrase": "extend the API",
-              "meaning_zh": "擴充 API 能力"
+              "phrase": "on the surface",
+              "meaning_zh": "表面上"
             }
           ],
           "short_sentences": [
             {
-              "en": "Extend lock lease TTL.",
-              "zh": "延長鎖租約 TTL。"
+              "en": "This vacuum cleaner works well on any kind of surface.",
+              "zh": "這款吸塵器在任何表面皆適用。"
             },
             {
-              "en": "Extend trial for client.",
-              "zh": "為客戶延長試用期。"
+              "en": "The API looked fast on the surface, but tail latency spiked under load.",
+              "zh": "這個 API 表面上看來很快，但在負載下尾端延遲卻飆升了。"
             }
           ]
         },
         {
-          "id": "v1-97-spread",
-          "word": "spread",
-          "ipa": "[sprɛd]",
-          "pos": "verb",
-          "meaning_zh": "傳播；蔓延",
+          "id": "n1-97-agency",
+          "word": "agency",
+          "ipa": "[ˈedʒənsɪ]",
+          "pos": "noun",
+          "meaning_zh": "代辦處，仲介",
           "collocations": [
             {
-              "phrase": "spread across AZs",
-              "meaning_zh": "分散部署於多可用區"
+              "phrase": "a travel agency",
+              "meaning_zh": "旅行社"
             },
             {
-              "phrase": "errors spread fast",
-              "meaning_zh": "錯誤快速擴散"
+              "phrase": "an advertising agency",
+              "meaning_zh": "廣告代理商"
             },
             {
-              "phrase": "spread load evenly",
-              "meaning_zh": "均勻分散負載"
+              "phrase": "advertising agency",
+              "meaning_zh": "廣告代理商"
+            },
+            {
+              "phrase": "staffing agency",
+              "meaning_zh": "人力仲介機構"
             }
           ],
           "short_sentences": [
             {
-              "en": "Deploy across multiple AZs.",
-              "zh": "跨多個可用區部署。"
+              "en": "We are a travel agency focused on Tuscany, Italy.",
+              "zh": "我們是專營義大利卡尼尼行程的旅行社。"
             },
             {
-              "en": "Stop error propagation fast.",
-              "zh": "快速阻止錯誤擴散。"
+              "en": "We partnered with a digital agency to launch the new product campaign.",
+              "zh": "我們與一家數位代理商合作推出新產品行銷活動。"
             }
           ]
         },
         {
-          "id": "v1-98-preserve",
-          "word": "preserve",
-          "ipa": "[prɪˈzɝv]",
-          "pos": "verb",
-          "meaning_zh": "維護；保存",
+          "id": "n1-98-panel",
+          "word": "panel",
+          "ipa": "[ˈpænl]",
+          "pos": "noun",
+          "meaning_zh": "專家小組",
           "collocations": [
             {
-              "phrase": "preserve transaction ACID",
-              "meaning_zh": "維持交易 ACID 特性"
+              "phrase": "review panel",
+              "meaning_zh": "審查小組"
             },
             {
-              "phrase": "preserve audit logs",
-              "meaning_zh": "保留稽核日誌"
-            },
-            {
-              "phrase": "preserve backwards compatibility",
-              "meaning_zh": "維持向下相容性"
+              "phrase": "interview panel",
+              "meaning_zh": "面試官小組"
             }
           ],
           "short_sentences": [
             {
-              "en": "Preserve transaction atomicity here.",
-              "zh": "這裡維持交易原子性。"
+              "en": "A panel of doctors reviewed several medical malpractice claims.",
+              "zh": "醫生組成的專家小組審查數件醫療疏失的索賠案。"
             },
             {
-              "en": "Preserve audit log trail.",
-              "zh": "保留稽核日誌軌跡。"
+              "en": "An architecture panel reviewed the RFC before we approved the migration.",
+              "zh": "在核准遷移之前，架構審查小組檢視了這份 RFC。"
             }
           ]
         },
         {
-          "id": "v1-99-observe",
-          "word": "observe",
-          "ipa": "[əbˈzɝv]",
-          "pos": "verb",
-          "meaning_zh": "遵守；監視；觀察",
+          "id": "n1-99-reform",
+          "word": "reform",
+          "ipa": "[rɪˈfɔrm]",
+          "pos": "noun / verb",
+          "meaning_zh": "名 改革，改良 / 動 改革",
           "collocations": [
             {
-              "phrase": "observe queue lag",
-              "meaning_zh": "觀察佇列延遲"
-            },
-            {
-              "phrase": "observe tail latency",
-              "meaning_zh": "觀察長尾延遲"
-            },
-            {
-              "phrase": "system observability",
-              "meaning_zh": "系統可觀測性"
+              "phrase": "process reform",
+              "meaning_zh": "流程改革"
             }
           ],
           "short_sentences": [
             {
-              "en": "Observe consumer queue lag.",
-              "zh": "觀察消費端佇列延遲。"
+              "en": "Overall reform is necessary for the current pension system.",
+              "zh": "現行的退休金制度需要進行全面改革。"
             },
             {
-              "en": "Monitor P99 tail latency.",
-              "zh": "監控 P99 長尾延遲。"
+              "en": "Streamlining the release approval workflow was a much-needed reform.",
+              "zh": "簡化發布審核工作流是一項非常需要的改革。"
             }
           ]
         },
         {
-          "id": "v1-100-deserve",
-          "word": "deserve",
-          "ipa": "[dɪˈzɝv]",
-          "pos": "verb",
-          "meaning_zh": "應得；值得",
+          "id": "n1-100-principle",
+          "word": "principle",
+          "ipa": "[ˈprɪnsəpəl]",
+          "pos": "noun",
+          "meaning_zh": "原則；原理",
           "collocations": [
             {
-              "phrase": "deserve immediate fix",
-              "meaning_zh": "需要立即修復"
+              "phrase": "on the principle of A",
+              "meaning_zh": "秉持 A 為原則"
             },
             {
-              "phrase": "deserve careful review",
-              "meaning_zh": "值得仔細審查"
+              "phrase": "in principle",
+              "meaning_zh": "原則上"
             },
             {
-              "phrase": "deserve priority",
-              "meaning_zh": "應排入優先處理"
+              "phrase": "design principle",
+              "meaning_zh": "設計原則"
             }
           ],
           "short_sentences": [
             {
-              "en": "Critical bug deserves priority.",
-              "zh": "關鍵錯誤值得優先處理。"
+              "en": "We operate on the principle of putting the customer first.",
+              "zh": "我們的經營模式秉持顧客至上的原則。"
             },
             {
-              "en": "Refactor deserves careful review.",
-              "zh": "重構值得仔細審查。"
+              "en": "Least privilege is a core security principle for cloud IAM roles.",
+              "zh": "最小權限原則是雲端 IAM 角色的核心資安原則。"
             }
           ]
         }
