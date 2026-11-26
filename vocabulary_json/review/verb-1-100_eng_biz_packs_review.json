@@ -2,9 +2,9 @@
   "schema_version": "1.0.0",
   "source_vocab_file": "https://raw.githubusercontent.com/nicklian1927/vocabulary-studio/refs/heads/resource/vocabulary_json/verb-1-100_eng_biz_packs.json",
   "review_file": "https://raw.githubusercontent.com/nicklian1927/vocabulary-studio/refs/heads/resource/vocabulary_json/review/verb-1-100_eng_biz_packs_review.json",
-  "has_new_records": false,
-  "new_event_count": 0,
-  "exported_at": "2026-11-25T16:03:39.162Z",
+  "has_new_records": true,
+  "new_event_count": 1,
+  "exported_at": "2026-11-26T04:05:20.238Z",
   "progress": {
     "v1-1-apply": {
       "word_id": "v1-1-apply",
@@ -13,33 +13,61 @@
       "streak": 0,
       "correctCount": 0,
       "wrongCount": 0,
-      "peekCount": 0,
+      "peekCount": 1,
       "nextReviewAt": 0,
-      "lastReviewedAt": null,
-      "history": []
+      "lastReviewedAt": "2026-11-26T04:03:28.888Z",
+      "history": [
+        {
+          "timestamp": "2026-11-26T04:03:28.888Z",
+          "word_id": "v1-1-apply",
+          "word": "apply",
+          "action": "swipe_right_known",
+          "peeked_chinese": true,
+          "resulting_stage": "new",
+          "streak": 0,
+          "correctCount": 0,
+          "wrongCount": 0,
+          "nextReviewAt": 0,
+          "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+        }
+      ]
     },
     "v1-2-submit": {
       "word_id": "v1-2-submit",
       "word": "submit",
-      "stage": "new",
-      "streak": 0,
-      "correctCount": 0,
-      "wrongCount": 0,
-      "peekCount": 0,
-      "nextReviewAt": 0,
-      "lastReviewedAt": null,
-      "history": []
-    },
-    "v1-3-discuss": {
-      "word_id": "v1-3-discuss",
-      "word": "discuss",
       "stage": "learning",
       "streak": 1,
       "correctCount": 1,
       "wrongCount": 0,
       "peekCount": 0,
-      "nextReviewAt": 1795705356528,
-      "lastReviewedAt": "2026-11-25T15:02:36.528Z",
+      "nextReviewAt": 1795750476217,
+      "lastReviewedAt": "2026-11-26T03:34:36.217Z",
+      "history": [
+        {
+          "timestamp": "2026-11-26T03:34:36.217Z",
+          "word_id": "v1-2-submit",
+          "word": "submit",
+          "action": "swipe_right_known",
+          "peeked_chinese": false,
+          "resulting_stage": "learning",
+          "streak": 1,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReviewAt": 1795750476217,
+          "note": "晉升為 learning"
+        }
+      ]
+    },
+    "v1-3-discuss": {
+      "word_id": "v1-3-discuss",
+      "word": "discuss",
+      "stage": "learning",
+      "streak": 2,
+      "correctCount": 2,
+      "wrongCount": 0,
+      "peekCount": 0,
+      "nextReviewAt": 1795752261859,
+      "lastReviewedAt": "2026-11-26T04:04:21.859Z",
       "history": [
         {
           "timestamp": "2026-11-25T15:02:36.528Z",
@@ -53,6 +81,19 @@
           "wrongCount": 0,
           "nextReviewAt": 1795705356528,
           "note": "晉升為 learning"
+        },
+        {
+          "timestamp": "2026-11-26T04:04:21.859Z",
+          "word_id": "v1-3-discuss",
+          "word": "discuss",
+          "action": "swipe_right_known",
+          "peeked_chinese": false,
+          "resulting_stage": "learning",
+          "streak": 2,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReviewAt": 1795752261859,
+          "note": "記錄熟悉（目前連勝 2，階段 learning）"
         }
       ]
     },
@@ -85,13 +126,13 @@
     "v1-5-release": {
       "word_id": "v1-5-release",
       "word": "release",
-      "stage": "new",
-      "streak": 0,
-      "correctCount": 0,
+      "stage": "learning",
+      "streak": 1,
+      "correctCount": 1,
       "wrongCount": 0,
       "peekCount": 1,
-      "nextReviewAt": 0,
-      "lastReviewedAt": "2026-11-25T15:55:56.942Z",
+      "nextReviewAt": 1795747453719,
+      "lastReviewedAt": "2026-11-26T02:44:13.719Z",
       "history": [
         {
           "timestamp": "2026-11-25T15:55:56.942Z",
@@ -105,6 +146,19 @@
           "wrongCount": 0,
           "nextReviewAt": 0,
           "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+        },
+        {
+          "timestamp": "2026-11-26T02:44:13.719Z",
+          "word_id": "v1-5-release",
+          "word": "release",
+          "action": "swipe_right_known",
+          "peeked_chinese": false,
+          "resulting_stage": "learning",
+          "streak": 1,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReviewAt": 1795747453719,
+          "note": "晉升為 learning"
         }
       ]
     },
@@ -115,12 +169,25 @@
       "streak": 0,
       "correctCount": 0,
       "wrongCount": 0,
-      "peekCount": 1,
+      "peekCount": 2,
       "nextReviewAt": 0,
-      "lastReviewedAt": "2026-11-25T15:37:51.887Z",
+      "lastReviewedAt": "2026-11-26T03:40:38.108Z",
       "history": [
         {
           "timestamp": "2026-11-25T15:37:51.887Z",
+          "word_id": "v1-6-promote",
+          "word": "promote",
+          "action": "swipe_right_known",
+          "peeked_chinese": true,
+          "resulting_stage": "new",
+          "streak": 0,
+          "correctCount": 0,
+          "wrongCount": 0,
+          "nextReviewAt": 0,
+          "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+        },
+        {
+          "timestamp": "2026-11-26T03:40:38.108Z",
           "word_id": "v1-6-promote",
           "word": "promote",
           "action": "swipe_right_known",
@@ -137,26 +204,67 @@
     "v1-7-provide": {
       "word_id": "v1-7-provide",
       "word": "provide",
-      "stage": "new",
-      "streak": 0,
-      "correctCount": 0,
+      "stage": "learning",
+      "streak": 2,
+      "correctCount": 2,
       "wrongCount": 0,
       "peekCount": 0,
-      "nextReviewAt": 0,
-      "lastReviewedAt": null,
-      "history": []
+      "nextReviewAt": 1795751024354,
+      "lastReviewedAt": "2026-11-26T03:43:44.354Z",
+      "history": [
+        {
+          "timestamp": "2026-11-26T02:40:33.874Z",
+          "word_id": "v1-7-provide",
+          "word": "provide",
+          "action": "swipe_right_known",
+          "peeked_chinese": false,
+          "resulting_stage": "learning",
+          "streak": 1,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReviewAt": 1795747233874,
+          "note": "晉升為 learning"
+        },
+        {
+          "timestamp": "2026-11-26T03:43:44.354Z",
+          "word_id": "v1-7-provide",
+          "word": "provide",
+          "action": "swipe_right_known",
+          "peeked_chinese": false,
+          "resulting_stage": "learning",
+          "streak": 2,
+          "correctCount": 2,
+          "wrongCount": 0,
+          "nextReviewAt": 1795751024354,
+          "note": "記錄熟悉（目前連勝 2，階段 learning）"
+        }
+      ]
     },
     "v1-8-charge": {
       "word_id": "v1-8-charge",
       "word": "charge",
-      "stage": "new",
+      "stage": "unfamiliar",
       "streak": 0,
       "correctCount": 0,
-      "wrongCount": 0,
+      "wrongCount": 1,
       "peekCount": 0,
-      "nextReviewAt": 0,
-      "lastReviewedAt": null,
-      "history": []
+      "nextReviewAt": 1795665920236,
+      "lastReviewedAt": "2026-11-26T04:05:20.236Z",
+      "history": [
+        {
+          "timestamp": "2026-11-26T04:05:20.236Z",
+          "word_id": "v1-8-charge",
+          "word": "charge",
+          "action": "swipe_left_unknown",
+          "peeked_chinese": false,
+          "resulting_stage": "unfamiliar",
+          "streak": 0,
+          "correctCount": 0,
+          "wrongCount": 1,
+          "nextReviewAt": 1795665920236,
+          "note": "不熟悉：連勝歸零，維持 unfamiliar"
+        }
+      ]
     },
     "v1-9-appreciate": {
       "word_id": "v1-9-appreciate",
@@ -173,13 +281,13 @@
     "v1-10-accept": {
       "word_id": "v1-10-accept",
       "word": "accept",
-      "stage": "new",
-      "streak": 0,
-      "correctCount": 0,
+      "stage": "learning",
+      "streak": 1,
+      "correctCount": 1,
       "wrongCount": 0,
       "peekCount": 1,
-      "nextReviewAt": 0,
-      "lastReviewedAt": "2026-11-25T14:14:53.245Z",
+      "nextReviewAt": 1795751504985,
+      "lastReviewedAt": "2026-11-26T03:51:44.985Z",
       "history": [
         {
           "timestamp": "2026-11-25T14:14:53.245Z",
@@ -193,6 +301,19 @@
           "wrongCount": 0,
           "nextReviewAt": 0,
           "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+        },
+        {
+          "timestamp": "2026-11-26T03:51:44.985Z",
+          "word_id": "v1-10-accept",
+          "word": "accept",
+          "action": "swipe_right_known",
+          "peeked_chinese": false,
+          "resulting_stage": "learning",
+          "streak": 1,
+          "correctCount": 1,
+          "wrongCount": 0,
+          "nextReviewAt": 1795751504985,
+          "note": "晉升為 learning"
         }
       ]
     },
@@ -1342,6 +1463,123 @@
       "wrongCount": 0,
       "nextReviewAt": 0,
       "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+    },
+    {
+      "timestamp": "2026-11-26T02:40:33.874Z",
+      "word_id": "v1-7-provide",
+      "word": "provide",
+      "action": "swipe_right_known",
+      "peeked_chinese": false,
+      "resulting_stage": "learning",
+      "streak": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "nextReviewAt": 1795747233874,
+      "note": "晉升為 learning"
+    },
+    {
+      "timestamp": "2026-11-26T02:44:13.719Z",
+      "word_id": "v1-5-release",
+      "word": "release",
+      "action": "swipe_right_known",
+      "peeked_chinese": false,
+      "resulting_stage": "learning",
+      "streak": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "nextReviewAt": 1795747453719,
+      "note": "晉升為 learning"
+    },
+    {
+      "timestamp": "2026-11-26T03:34:36.217Z",
+      "word_id": "v1-2-submit",
+      "word": "submit",
+      "action": "swipe_right_known",
+      "peeked_chinese": false,
+      "resulting_stage": "learning",
+      "streak": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "nextReviewAt": 1795750476217,
+      "note": "晉升為 learning"
+    },
+    {
+      "timestamp": "2026-11-26T03:40:38.108Z",
+      "word_id": "v1-6-promote",
+      "word": "promote",
+      "action": "swipe_right_known",
+      "peeked_chinese": true,
+      "resulting_stage": "new",
+      "streak": 0,
+      "correctCount": 0,
+      "wrongCount": 0,
+      "nextReviewAt": 0,
+      "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+    },
+    {
+      "timestamp": "2026-11-26T03:43:44.354Z",
+      "word_id": "v1-7-provide",
+      "word": "provide",
+      "action": "swipe_right_known",
+      "peeked_chinese": false,
+      "resulting_stage": "learning",
+      "streak": 2,
+      "correctCount": 2,
+      "wrongCount": 0,
+      "nextReviewAt": 1795751024354,
+      "note": "記錄熟悉（目前連勝 2，階段 learning）"
+    },
+    {
+      "timestamp": "2026-11-26T03:51:44.985Z",
+      "word_id": "v1-10-accept",
+      "word": "accept",
+      "action": "swipe_right_known",
+      "peeked_chinese": false,
+      "resulting_stage": "learning",
+      "streak": 1,
+      "correctCount": 1,
+      "wrongCount": 0,
+      "nextReviewAt": 1795751504985,
+      "note": "晉升為 learning"
+    },
+    {
+      "timestamp": "2026-11-26T04:03:28.888Z",
+      "word_id": "v1-1-apply",
+      "word": "apply",
+      "action": "swipe_right_known",
+      "peeked_chinese": true,
+      "resulting_stage": "new",
+      "streak": 0,
+      "correctCount": 0,
+      "wrongCount": 0,
+      "nextReviewAt": 0,
+      "note": "已顯示中文提示，本次僅算練習，不計入連勝與階段晉升"
+    },
+    {
+      "timestamp": "2026-11-26T04:04:21.859Z",
+      "word_id": "v1-3-discuss",
+      "word": "discuss",
+      "action": "swipe_right_known",
+      "peeked_chinese": false,
+      "resulting_stage": "learning",
+      "streak": 2,
+      "correctCount": 2,
+      "wrongCount": 0,
+      "nextReviewAt": 1795752261859,
+      "note": "記錄熟悉（目前連勝 2，階段 learning）"
+    },
+    {
+      "timestamp": "2026-11-26T04:05:20.236Z",
+      "word_id": "v1-8-charge",
+      "word": "charge",
+      "action": "swipe_left_unknown",
+      "peeked_chinese": false,
+      "resulting_stage": "unfamiliar",
+      "streak": 0,
+      "correctCount": 0,
+      "wrongCount": 1,
+      "nextReviewAt": 1795665920236,
+      "note": "不熟悉：連勝歸零，維持 unfamiliar"
     }
   ]
 }
