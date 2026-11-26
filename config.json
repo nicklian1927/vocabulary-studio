@@ -1,6 +1,6 @@
 {
   "vocab": {
-    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/vocabulary-studio/refs/heads/resource/vocabulary_json/",
+    "baseUrl": "https://raw.githubusercontent.com/nicklian1927/vocabulary-studio/refs/heads/resource-2/vocabulary_json/",
     "folderName": "vocabulary_json",
     "manifestFile": "manifest.json",
     "files": []
